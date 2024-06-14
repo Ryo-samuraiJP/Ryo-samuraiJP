@@ -7,8 +7,15 @@
 
 <!-- SUB INTRO -->
 <h3 align="center">A passionate Full-Stack Developer from Japan living in Canada</h3>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=1&icon=5&pretty=true" />
+</a>
 
-![Visitor Counter](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=plastic&abbreviated=true)
+![Visitor Counter](https://komarev.com/ghpvc/?username=Ryo-samurai6340&color=blue&style=plastic&abbreviated=true)
+
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=12&icon=5&pretty=true" />
+</a>
 
 - 🗣️ You can call me **Rio!**
 - 🎓 **Latest CS Graduate** from Thompson Rivers University in BC, Canada🍁
@@ -17,7 +24,7 @@
 - 🆙 Eager to improve my **Full-Stack Skills to Fulfill My Decade-Planned Goals!**
 - 💬 Ask me about **Full-Stack**/**Android App Development**, and **Software**/**Database**/**Network Engineering**
 - 👨🏻‍💻 Sharing useful tips on **[DEV](https://dev.to/ryoichihomma)**
-- ▶️ Watch project demo videos on **[YouTube](https://www.youtube.com/@rh.project_gallery)**
+- ▶️ Sharing my projects' demo videos on **[YouTube](https://www.youtube.com/@rh.project_gallery)**
 - 🌐 **[Portfolio](https://ryoichihomma.me/)**
 - 📧 Reach me out via **r.homma.inbox@gmail.com**
 
@@ -77,9 +84,10 @@
 <img alt="Perplexity" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/perplexity.png">
 <img alt="Prezi" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/prezi.png">
 <img alt="VEED" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/veed.png">
-<img alt="v0" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/v0.png">
-<img alt="" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/.png">
-<img alt="" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/.png">
+<img alt="v0" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/v0.png">
+
+<!-- STATS
+<h2>📊 Stats</h2> -->
 
   
   
