@@ -17,8 +17,24 @@
 - 🆙 Eager to improve my **Full-Stack Skills to Fulfill My Decade-Planned Goals!**
 - 💬 Ask me about **Full-Stack**/**Android App Development**, and **Software**/**Database**/**Network Engineering**
 - 👨🏻‍💻 Sharing useful tips on **[DEV](https://dev.to/ryoichihomma)**
+- ▶️ Watch project demo videos on **[YouTube](https://www.youtube.com/@rh.project_gallery)**
 - 🌐 **[Portfolio](https://ryoichihomma.me/)**
-- 📫 Reach me out via **r.homma.inbox@gmail.com**
+- 📧 Reach me out via **r.homma.inbox@gmail.com**
+
+<!-- CONTACT -->
+<h2>📫 Contact Me</h2>
+<a href="https://www.linkedin.com/in/ryoichihomma-jp-ca/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="40px">
+</a>
+<a href="https://dev.to/ryoichihomma">
+  <img src="https://skillicons.dev/icons?i=devto" width="40px">
+</a>
+<a href="mailto:r.homma.inbox@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="40px">
+</a>
+<a href="https://discord.com/users/1233363421207199827/">
+  <img src="https://skillicons.dev/icons?i=discord" width="40px">
+</a>
 
 <!-- Tech -->
 <h2>💻 Tech Uses ⚒️</h2>
@@ -37,7 +53,7 @@
 <img alt="C#" align="left" width="31px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cSharp.png">
 <img alt="MySQL" align="left" width="36px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/mySQL.png">
 <img alt="Oracle SQL" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/oracle.svg">
-<br/>
+
 <h4>Deployment Platforms / OS</h4>
 <img alt="Netlify" align="left" width="37px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/netlify.svg">
 <img alt="Render" align="left" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/render2.png">
@@ -46,13 +62,13 @@
 <img alt="Windows" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/windows.png">
 <img alt="iOS" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/ios.png">
 <img alt="macOS" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/macOS.png">
-<br/>
+
 <h4>Network Design / Diagramming Tools</h4>
 <img alt="cisco packet tracer" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cisco.png">
 <img alt="lucidchart" align="left" width="30px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/lucidchart.png">
 <img alt="draw.io" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/draw-io.png">
 <img alt="argoUML" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/argouml.png">
-<br/>
+
 <h4>AI Tools</h4>
 <img alt="Cursor" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cursor.png">
 <img alt="Claude" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/claude.png">
