@@ -16,7 +16,7 @@
 - 💼 Actively looking for **Full-Time** or **Intern Tech Roles**
 - 🌱 Continuous learner with **React**
 - 🆙 Eager to improve my **Full-Stack Skills to Fulfill My Decade-Planned Goals!**
-- 💬 Ask me about **Full-Stack Development**, **Software Engineering**, **Database Engineering**, **Network Engineering**, and **Android App Development**
+- 💬 Ask me about **Full-Stack**/**Android App Development**, and **Software**/**Database**/**Network Engineering**
 - 👨🏻‍💻 Sharing useful tips on **[DEV](https://dev.to/ryoichihomma)**
 - 🌐 **[Portfolio](https://ryoichihomma.me/)**
 - 📫 Reach me out via **r.homma.inbox@gmail.com**
