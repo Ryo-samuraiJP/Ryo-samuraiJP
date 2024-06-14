@@ -7,9 +7,7 @@
 
 <!-- SUB INTRO -->
 <h3 align="center">A passionate Full-Stack Developer from Japan living in Canada</h3>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=1&icon=5&pretty=true"/>
-</a>
+<img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=1&icon=5&pretty=true"/>
 
 - 🗣️ You can call me **Rio!**
 - 🎓 **Latest CS Graduate** from Thompson Rivers University in BC, Canada🍁
@@ -80,11 +78,11 @@
 <img alt="VEED" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/veed.png">
 <img alt="v0" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/v0.png">
 
-<!-- STATS
-<h2>📊 Stats</h2> -->
-
+<!-- STATS -->
+<h2>📊 Stats</h2>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ryo-samurai6340&theme=holi-theme&border_radius=10" alt="GitHub Streak" /></a>
   
-  
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ryo-samurai6340&theme=holi-theme&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
   
 
 
