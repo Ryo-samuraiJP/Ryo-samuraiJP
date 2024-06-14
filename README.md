@@ -8,7 +8,7 @@
 <!-- SUB INTRO -->
 <h3 align="center">A passionate Full-Stack Developer from Japan living in Canada</h3>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=1&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=1&icon=5&pretty=true"/>
 </a>
 
 - 🗣️ You can call me **Rio!**
@@ -62,7 +62,7 @@
 <img alt="Zeet" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/zeet.png">
 <img alt="Windows" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/windows.png">
 <img alt="iOS" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/ios.png">
-<img alt="macOS" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/macOS.png">
+<img alt="macOS" width="38px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/macOS.png">
 
 <h4>Network Design / Diagramming Tools</h4>
 <img alt="cisco packet tracer" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cisco.png">
