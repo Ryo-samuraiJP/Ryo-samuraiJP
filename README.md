@@ -80,12 +80,17 @@
 
 <!-- YOUTUBE -->
 ## ▶️ Project Demo Videos
-[![AI Visual Doppelganger](https://ytcards.demolab.com/?id=VT6eddrVVOA&t=1s&title=Demo+-+AI+Visual+Doppelganger+(+AI+image+replicator+web+tool+)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=200 "Demo - AI Visual Doppelganger (AI image replicator web tool)")](https://www.youtube.com/watch?v=VT6eddrVVOA&t=1s)
-
-[![PlateMate](https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+(+food+delivery+Android+app+)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=244 "Demo - PlateMate (food delivery Andoird app")](https://www.youtube.com/watch?v=N_yUfrnbgWI)
-
-[![Campus Network Simulator](https://ytcards.demolab.com/?id=ayVUSVRPLqE&t=10s&title=Demo+-+Compaus+Network+Simulator+(+network+infrastructure+design+)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=403 "Demo - Campus Network Simulator (network infrastructure design")](https://www.youtube.com/watch?v=ayVUSVRPLqE&t=10s)
-
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://www.youtube.com/watch?v=VT6eddrVVOA&t=1s" target="_blank">
+    <img src="https://ytcards.demolab.com/?id=VT6eddrVVOA&t=1s&title=Demo+-+AI+Visual+Doppelganger+(+AI+image+replicator+web+tool+)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=200" alt="Demo - AI Visual Doppelganger (AI image replicator web tool)">
+  </a>
+  <a href="https://www.youtube.com/watch?v=N_yUfrnbgWI" target="_blank">
+    <img src="https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+(+food+delivery+Android+app+)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=244" alt="Demo - PlateMate (food delivery Android app)">
+  </a>
+  <a href="https://www.youtube.com/watch?v=ayVUSVRPLqE&t=10s" target="_blank">
+    <img src="https://ytcards.demolab.com/?id=ayVUSVRPLqE&t=10s&title=Demo+-+Compaus+Network+Simulator+(+network+infrastructure+design+)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=403" alt="Demo - Campus Network Simulator (network infrastructure design)">
+  </a>
+</div>
 
 <!-- STATS -->
 ## 📊 Stats
