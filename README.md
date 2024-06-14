@@ -4,7 +4,9 @@
   </a>
 </h1>
 
+<h3 align="center">A passionate Full-Stack Developer from Japan living in Canada</h3>
 
+![Visitor Counter](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=plastic&abbreviated=true)
 
 
 ## Hi there 👋
