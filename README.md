@@ -23,9 +23,13 @@
 
 
 <!-- Tech -->
-<h2>💻 Languages & Other Tech Tools ⚒️</h2>
-<div>
-    <img src="https://skillicons.dev/icons?i=react,javascript,python,flask,java,androidstudio,c,cs,mysql,html,css,netlify,github,figma"/>
-</div>
+<h2>💻 Tech Uses ⚒️</h2>
+  <h4>Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,figma"/>
+  <h4>Backend</h4>
+  <img src="https://skillicons.dev/icons?i=python,flask,java,androidstudio,c,cs"/>
+  <h4>Database</h4>
+  <img align="left" src="https://skillicons.dev/icons?i=mysql"/>
+  <img align="left" width="80px" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg">
 
 
