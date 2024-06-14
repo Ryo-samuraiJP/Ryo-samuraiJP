@@ -36,7 +36,7 @@
 <img alt="C" align="left" width="31px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/c.png">
 <img alt="C#" align="left" width="31px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cSharp.png">
 <img alt="MySQL" align="left" width="36px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/mySQL.png">
-<img alt="Oracle SQL" align="left" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/oracle.svg">
+<img alt="Oracle SQL" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/oracle.svg">
 <br/>
 <h4>Deployment Platforms / OS</h4>
 <img alt="Netlify" align="left" width="37px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/netlify.svg">
@@ -45,13 +45,13 @@
 <img alt="Zeet" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/zeet.png">
 <img alt="Windows" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/windows.png">
 <img alt="iOS" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/ios.png">
-<img alt="macOS" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/macOS.png">
+<img alt="macOS" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/macOS.png">
 <br/>
 <h4>Network Design / Diagramming Tools</h4>
 <img alt="cisco packet tracer" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cisco.png">
 <img alt="lucidchart" align="left" width="30px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/lucidchart.png">
 <img alt="draw.io" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/draw-io.png">
-<img alt="argoUML" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/argouml.png">
+<img alt="argoUML" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/argouml.png">
 <br/>
 <h4>AI Tools</h4>
 <img alt="Cursor" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cursor.png">
