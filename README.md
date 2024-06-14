@@ -80,29 +80,14 @@
 
 <!-- STATS -->
 <h2>📊 Stats</h2>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ryo-samurai6340&theme=holi-theme&border_radius=10" alt="GitHub Streak" /></a>
-  
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ryo-samurai6340&theme=holi-theme&hide_border=true&border_radius=10" alt="GitHub Streak" /></a>
-  
+<a href="https://git.io/streak-stats">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi">
+  <br>
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github">
+<!--   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github&hide=contribs,prs"> -->
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ryo-samurai6340&theme=holi-theme">
+</a>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
 
