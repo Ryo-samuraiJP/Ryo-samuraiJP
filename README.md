@@ -21,7 +21,7 @@
 - 📧 Reach me out via **r.homma.inbox@gmail.com**
 
 <!-- CONTACT -->
-<h2>📫 Contact Me</h2>
+## 📫 Contact Me
 <a href="https://www.linkedin.com/in/ryoichihomma-jp-ca/">
   <img src="https://skillicons.dev/icons?i=linkedin" width="40px">
 </a>
@@ -36,7 +36,7 @@
 </a>
 
 <!-- Tech -->
-<h2>💻 Tech Uses ⚒️</h2>
+## 💻 Tech Uses ⚒️
 <h4>Frontend / Backend / Database</h4>
 <img alt="React" align="left" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/react.png">
 <img alt="Javascript" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/js.png">
@@ -78,8 +78,17 @@
 <img alt="VEED" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/veed.png">
 <img alt="v0" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/v0.png">
 
+<!-- YOUTUBE -->
+## ▶️ Project Demo Videos
+[![AI Visual Doppelganger](https://ytcards.demolab.com/?id=VT6eddrVVOA&t=1s&title=Demo+-+AI+Visual+Doppelganger+(+AI+image+replication+web+tool&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=200 "Demo - AI Visual Doppelganger (AI image replicator web tool)")](https://www.youtube.com/watch?v=VT6eddrVVOA&t=1s)
+
+[![PlateMate](https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+(+food+delivery+Android+app+)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=244 "Demo - PlateMate (food delivery Andoird app")](https://www.youtube.com/watch?v=N_yUfrnbgWI)
+
+[![Campus Network Simulator](https://ytcards.demolab.com/?id=ayVUSVRPLqE&t=10s&title=Demo+-+Compaus+Network+Simulator+(+network+infrastructure+design&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=403 "Demo - Campus Network Simulator (network infrastructure design")](https://www.youtube.com/watch?v=ayVUSVRPLqE&t=10s)
+
+
 <!-- STATS -->
-<h2>📊 Stats</h2>
+## 📊 Stats
 <a href="https://git.io/streak-stats">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi">
   <br>
