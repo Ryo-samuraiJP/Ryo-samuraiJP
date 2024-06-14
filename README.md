@@ -10,12 +10,28 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=1&icon=5&pretty=true" />
 </a>
-
-![Visitor Counter](https://komarev.com/ghpvc/?username=Ryo-samurai6340&color=blue&style=plastic&abbreviated=true)
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=0&icon=5&pretty=true" />
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=3&icon=5&pretty=true" />
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=6&icon=5&pretty=true" />
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=8&icon=5&pretty=true" />
+</a>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=9&icon=5&pretty=true" />
+</a>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </a>
+
+![Visitor Counter](https://komarev.com/ghpvc/?username=Ryo-samurai6340&color=blue&style=plastic&abbreviated=true)
+
+
 
 - 🗣️ You can call me **Rio!**
 - 🎓 **Latest CS Graduate** from Thompson Rivers University in BC, Canada🍁
