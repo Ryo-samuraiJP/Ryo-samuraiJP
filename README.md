@@ -1,7 +1,7 @@
 <!-- INTRO -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=750&color=187FFF&center=true&vCenter=true&random=false&width=1000&lines=Hi+There!%F0%9F%91%8B+I'm+Ryoichi+Homma%E2%9A%BE;Your+Future+Favorite+Full-Stack+Developer%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=750&color=187FFF&center=true&vCenter=true&random=false&width=1000&lines=Hi+There!%F0%9F%91%8B%F0%9F%8F%BB+I'm+Ryoichi+Homma%E2%9A%BE;Your+Future+Favorite+Full-Stack+Developer%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -107,13 +107,10 @@
 <!-- STATS -->
 ## 📊 Stats
 <a href="https://git.io/streak-stats">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi">
-  <br>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github">
-<!--   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github&hide=contribs,prs"> -->
+<!--   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github"> -->
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github&hide=stars,contribs">
+  <br/>
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ryo-samurai6340&theme=holi-theme">
+  <br/>
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi">
 </a>
-
-
-
-
