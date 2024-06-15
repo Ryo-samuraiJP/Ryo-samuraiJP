@@ -95,7 +95,7 @@
 <!-- CONTRIBUTIONS -->
 ## 🐍 Contributions
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/output/github-contribution-grid-snake-dark.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/output/github-contribution-grid-snake.gif">
   <img alt="Contribution Animation" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/output/github-contribution-grid-snake.gif">
 </picture>
