@@ -18,25 +18,23 @@
 - 👨🏻‍💻 Sharing useful tips on **[DEV](https://dev.to/ryoichihomma)**
 - ▶️ Sharing my projects' demo videos on **[YouTube](https://www.youtube.com/@rh.project_gallery)**
 - 🌐 **[Portfolio](https://ryoichihomma.me/)**
-- 📧 Reach me out via **r.homma.inbox@gmail.com**
+- 📫 Reach me out via **r.homma.inbox@gmail.com**
 
-<!-- CONTACT -->
-## 📫 Contact Me
-<a href="https://www.linkedin.com/in/ryoichihomma-jp-ca/">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40px">
-</a>
-<a href="https://dev.to/ryoichihomma">
-  <img src="https://skillicons.dev/icons?i=devto" width="40px">
-</a>
-<a href="mailto:r.homma.inbox@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="40px">
-</a>
-<a href="https://discord.com/users/1233363421207199827/">
-  <img src="https://skillicons.dev/icons?i=discord" width="40px">
-</a>
+<hr/>
 
-<!-- Tech -->
-## 💻 Tech Uses ⚒️
+<!-- MEDIA -->
+## 🔗 Media
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryoichihomma-jp-ca/)
+[![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ryoichihomma)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rh.project_gallery)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1233363421207199827/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.homma.inbox@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://ryoichihomma.me/)
+
+<hr/>
+
+<!-- TECK STACK -->
+## 💻 Tech Stack
 <h4>Frontend / Backend / Database</h4>
 <img alt="React" align="left" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/react.png">
 <img alt="Javascript" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/js.png">
@@ -47,7 +45,7 @@
 <img alt="Python" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/python.png">
 <img alt="Flask" align="left" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/flask.png">
 <img alt="Java" align="left" width="31px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/java.png">
-<img alt="Android Studio" align="left" width="41px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/android-studio.png">
+<img alt="Android Studio" align="left" width="36px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/android-studio.png">
 <img alt="C" align="left" width="31px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/c.png">
 <img alt="C#" align="left" width="31px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cSharp.png">
 <img alt="MySQL" align="left" width="36px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/mySQL.png">
@@ -55,12 +53,12 @@
 
 <h4>Deployment Platforms / OS</h4>
 <img alt="Netlify" align="left" width="37px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/netlify.svg">
-<img alt="Render" align="left" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/render2.png">
+<img alt="Render" align="left" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/render.png">
 <img alt="GitHub" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/github.png">
 <img alt="Zeet" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/zeet.png">
 <img alt="Windows" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/windows.png">
 <img alt="iOS" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/ios.png">
-<img alt="macOS" width="38px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/macOS.png">
+<img alt="macOS" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/macOS.png">
 
 <h4>Network Design / Diagramming Tools</h4>
 <img alt="cisco packet tracer" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cisco.png">
@@ -78,6 +76,8 @@
 <img alt="VEED" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/veed.png">
 <img alt="v0" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/v0.png">
 
+<hr/>
+
 <!-- YOUTUBE -->
 ## ▶️ Project Demo Videos
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -92,6 +92,8 @@
   </a>
 </div>
 
+<hr/>
+
 <!-- CONTRIBUTIONS -->
 ## 🐍 Contributions
 <picture>
@@ -99,6 +101,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/output/github-contribution-grid-snake.gif">
   <img alt="Contribution Animation" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/output/github-contribution-grid-snake.gif">
 </picture>
+
+<hr/>
 
 <!-- STATS -->
 ## 📊 Stats
