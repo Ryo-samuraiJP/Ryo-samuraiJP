@@ -107,13 +107,10 @@
 <!-- STATS -->
 ## 📊 Stats
 <a href="https://git.io/streak-stats">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi">
-  <br>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github">
-<!--   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github&hide=contribs,prs"> -->
+<!--   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github"> -->
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github&hide=stars,contribs">
+  <br/>
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ryo-samurai6340&theme=holi-theme">
+  <br/>
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi">
 </a>
-
-
-
-
