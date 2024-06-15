@@ -7,7 +7,10 @@
 
 <!-- SUB INTRO -->
 <h3 align="center">A passionate Full-Stack Developer from Japan living in Canada</h3>
-<img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=1&icon=5&pretty=true"/>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=1&icon=5&pretty=true"/>
+</a>
+<br/><br/>
 
 - 🗣️ You can call me **Rio!**
 - 🎓 **Latest CS Graduate** from Thompson Rivers University in BC, Canada🍁
