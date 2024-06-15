@@ -92,6 +92,10 @@
   </a>
 </div>
 
+<!-- CONTRIBUTIONS -->
+## 🐍 Contributions
+<img alt="Contributions" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/output/github-contribution-grid-snake.svg" />
+
 <!-- STATS -->
 ## 📊 Stats
 <a href="https://git.io/streak-stats">
