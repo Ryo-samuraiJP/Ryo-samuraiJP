@@ -6,11 +6,14 @@
 </h1>
 
 <!-- SUB INTRO -->
-<h3 align="center">A passionate Full-Stack Developer from Japan living in Canada</h3>
-<img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=1&icon=5&pretty=true"/>
+<h3 align="center">A passionate Full-Stack Developer from Japan living in Canada🍁</h3>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=1&icon=5&pretty=true"/>
+</a>
+<br/><br/>
 
 - 🗣️ You can call me **Rio!**
-- 🎓 **Latest CS Graduate** from Thompson Rivers University in BC, Canada🍁
+- 🎓 **Latest CS Graduate** from Thompson Rivers University in BC, Canada
 - 💼 Actively looking for **Full-Time** or **Intern Tech Roles**
 - 🌱 Continuous learner with **React**
 - 🆙 Eager to improve my **Full-Stack Skills to Fulfill My Decade-Planned Goals!**
@@ -81,13 +84,13 @@
 <!-- YOUTUBE -->
 ## ▶️ Project Demo Videos
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://www.youtube.com/watch?v=VT6eddrVVOA&t=1s" target="_blank">
+  <a href="https://www.youtube.com/watch?v=VT6eddrVVOA&t=1s">
     <img src="https://ytcards.demolab.com/?id=VT6eddrVVOA&t=1s&title=Demo+-+AI+Visual+Doppelganger+(+AI+image+replicator+web+tool+)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=200" alt="Demo - AI Visual Doppelganger (AI image replicator web tool)">
   </a>
-  <a href="https://www.youtube.com/watch?v=N_yUfrnbgWI" target="_blank">
+  <a href="https://www.youtube.com/watch?v=N_yUfrnbgWI">
     <img src="https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+(+food+delivery+Android+app+)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=244" alt="Demo - PlateMate (food delivery Android app)">
   </a>
-  <a href="https://www.youtube.com/watch?v=ayVUSVRPLqE&t=10s" target="_blank">
+  <a href="https://www.youtube.com/watch?v=ayVUSVRPLqE&t=10s">
     <img src="https://ytcards.demolab.com/?id=ayVUSVRPLqE&t=10s&title=Demo+-+Compaus+Network+Simulator+(+network+infrastructure+design+)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=403" alt="Demo - Campus Network Simulator (network infrastructure design)">
   </a>
 </div>
