@@ -38,46 +38,48 @@
 
 <!-- TECK STACK -->
 ## 💻 Tech Stack
-<h4>Frontend / Backend / Database</h4>
-<img alt="React" align="left" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/react.png">
-<img alt="Javascript" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/js.png">
-<img alt="CSS" align="left" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/css.png">
-<img alt="HTML" align="left" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/html.png">
-<img alt="XML" align="left" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/xml.png">
-<img alt="Figma" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/figma.png">
-<img alt="Python" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/python.png">
-<img alt="Flask" align="left" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/flask.png">
-<img alt="Java" align="left" width="31px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/java.png">
-<img alt="Android Studio" align="left" width="36px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/android-studio.png">
-<img alt="C" align="left" width="31px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/c.png">
-<img alt="C#" align="left" width="31px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cSharp.png">
-<img alt="MySQL" align="left" width="36px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/mySQL.png">
-<img alt="Oracle SQL" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/oracle.svg">
+<div align="left">
+  <h4>Frontend / Backend / Database</h4>
+  <img alt="React" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/react.png">
+  <img alt="Javascript" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/js.png">
+  <img alt="CSS" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/css.png">
+  <img alt="HTML" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/html.png">
+  <img alt="XML" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/xml.png">
+  <img alt="Figma" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/figma.png">
+  <img alt="Python" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/python.png">
+  <img alt="Flask" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/flask.png">
+  <img alt="Java" width="31px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/java.png">
+  <img alt="Android Studio" width="36px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/android-studio.png">
+  <img alt="C" width="31px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/c.png">
+  <img alt="C#" width="31px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cSharp.png">
+  <img alt="MySQL" width="36px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/mySQL.png">
+  <img alt="Oracle SQL" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/oracle.svg">
 
-<h4>Deployment Platforms / OS</h4>
-<img alt="Netlify" align="left" width="37px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/netlify.svg">
-<img alt="Render" align="left" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/render.png">
-<img alt="GitHub" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/github.png">
-<img alt="Zeet" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/zeet.png">
-<img alt="Windows" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/windows.png">
-<img alt="iOS" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/ios.png">
-<img alt="macOS" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/macOS.png">
+  <h4>Deployment Platforms / OS</h4>
+  <img alt="Netlify" width="37px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/netlify.svg">
+  <img alt="Render" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/render.png">
+  <img alt="GitHub" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/github.png">
+  <img alt="Zeet" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/zeet.png">
+  <img alt="Windows" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/windows.png">
+  <img alt="iOS" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/ios.png">
+  <img alt="macOS" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/macOS.png">
 
-<h4>Network Design / Diagramming Tools</h4>
-<img alt="cisco packet tracer" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cisco.png">
-<img alt="lucidchart" align="left" width="30px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/lucidchart.png">
-<img alt="draw.io" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/draw-io.png">
-<img alt="argoUML" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/argouml.png">
+  <h4>Network Design / Diagramming Tools</h4>
+  <img alt="cisco packet tracer" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cisco.png">
+  <img alt="lucidchart" width="30px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/lucidchart.png">
+  <img alt="draw.io" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/draw-io.png">
+  <img alt="argoUML" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/argouml.png">
 
-<h4>AI Tools</h4>
-<img alt="Cursor" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cursor.png">
-<img alt="Claude" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/claude.png">
-<img alt="ChatGPT" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/chatgpt.png">
-<img alt="Copilot" align="left" width="37px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/copilot.png">
-<img alt="Perplexity" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/perplexity.png">
-<img alt="Prezi" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/prezi.png">
-<img alt="VEED" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/veed.png">
-<img alt="v0" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/v0.png">
+  <h4>AI Tools</h4>
+  <img alt="Cursor" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cursor.png">
+  <img alt="Claude" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/claude.png">
+  <img alt="ChatGPT" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/chatgpt.png">
+  <img alt="Copilot" width="37px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/copilot.png">
+  <img alt="Perplexity" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/perplexity.png">
+  <img alt="Prezi" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/prezi.png">
+  <img alt="VEED" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/veed.png">
+  <img alt="v0" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/v0.png">
+</div>
 
 <hr/>
 
