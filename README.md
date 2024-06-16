@@ -82,16 +82,16 @@
 <hr/>
 
 <!-- YOUTUBE -->
-## ▶️ Project Demo Videos
+## ▶️ Demo Videos
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.youtube.com/watch?v=VT6eddrVVOA&t=1s">
-    <img src="https://ytcards.demolab.com/?id=VT6eddrVVOA&t=1s&title=Demo+-+AI+Visual+Doppelganger+(+AI+image+replicator+web+tool+)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=200" alt="Demo - AI Visual Doppelganger (AI image replicator web tool)">
+    <img src="https://ytcards.demolab.com/?id=VT6eddrVVOA&t=1s&title=AI+Visual+Doppelganger+(AI+image+replicator+web+tool)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=200" alt="AI Visual Doppelganger">
   </a>
   <a href="https://www.youtube.com/watch?v=N_yUfrnbgWI">
-    <img src="https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+(+food+delivery+Android+app+)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=244" alt="Demo - PlateMate (food delivery Android app)">
+    <img src="https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=PlateMate+(food+delivery+Android+app)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=244" alt="PlateMate">
   </a>
   <a href="https://www.youtube.com/watch?v=ayVUSVRPLqE&t=10s">
-    <img src="https://ytcards.demolab.com/?id=ayVUSVRPLqE&t=10s&title=Demo+-+Compaus+Network+Simulator+(+network+infrastructure+design+)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=403" alt="Demo - Campus Network Simulator (network infrastructure design)">
+    <img src="https://ytcards.demolab.com/?id=ayVUSVRPLqE&t=10s&title=Compaus+Network+Simulator+(network+infrastructure+design)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=403" alt="Campus Network Simulator">
   </a>
 </div>
 
