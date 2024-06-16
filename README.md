@@ -64,13 +64,11 @@
   <img alt="iOS" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/ios.png">
   <img alt="macOS" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/macOS.png">
 
-  <h4>Network Design / Diagramming Tools</h4>
+  <h4>Network Design / Diagramming / AI Tools</h4>
   <img alt="cisco packet tracer" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cisco.png">
   <img alt="lucidchart" width="30px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/lucidchart.png">
   <img alt="draw.io" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/draw-io.png">
   <img alt="argoUML" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/argouml.png">
-
-  <h4>AI Tools</h4>
   <img alt="Cursor" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cursor.png">
   <img alt="Claude" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/claude.png">
   <img alt="ChatGPT" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/chatgpt.png">
