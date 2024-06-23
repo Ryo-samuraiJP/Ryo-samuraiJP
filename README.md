@@ -116,7 +116,7 @@
 <!--   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github"> -->
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github&hide=stars,contribs">
   <br/>
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ryo-samurai6340&theme=holi-theme">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ryo-samurai6340&theme=holi-theme&date_format=j%20M%5B%20Y%5D&dates=local">
   <br/>
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi">
 </a>
