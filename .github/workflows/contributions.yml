@@ -4,16 +4,16 @@ name: Generate Snake
 # Controls when the action will run.
 on:
   schedule:
-      # Update at 0:00 AM and 12:00 PM
+    # Update at 0:00 AM and 12:00 PM
     - cron: "0 0,12 * * *"
-
+  
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
   
-  # Also run on every push on the master branch
+  # Also run on every push on the main branch
   push:
     branches:
-    - main
+      - main
 
 # The sequence of runs in this workflow:
 jobs:
@@ -42,8 +42,13 @@ jobs:
         env:
            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Show build status
-        run: git status
+      - name: Commit and push if changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add dist/
+          git commit -m "Generate snake animation" || echo "No changes to commit"
+          git push origin main
 
       - name: Push new files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
