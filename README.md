@@ -38,6 +38,48 @@
 
 <!-- TECK STACK -->
 ## 💻 Tech Stack
+#### Frontend / Backend / Database
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+<img alt="XML" width="42px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/xml.png">
+[![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+<img alt="Oracle SQL" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/oracle.svg">
+
+#### Deployment Platforms / OS
+[![My Skills](https://skillicons.dev/icons?i=netlify)](https://skillicons.dev)
+<img alt="Render" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/render.png">
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+<img alt="Zeet" width="47px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/zeet.png" style="border-radius: 10px;">
+[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+<img alt="iOS" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/ios.png">
+<img alt="macOS" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/macOS.png">
+
+#### Network Design / Diagramming / AI Tools
+<div align="left">
+  <img alt="cisco packet tracer" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cisco.png">
+  <img alt="lucidchart" width="30px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/lucidchart.png">
+  <img alt="draw.io" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/draw-io.png">
+  <img alt="argoUML" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/argouml.png">
+  <img alt="Cursor" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cursor.png">
+  <img alt="Claude" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/claude.png">
+  <img alt="ChatGPT" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/chatgpt.png">
+  <img alt="Copilot" width="37px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/copilot.png">
+  <img alt="Perplexity" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/perplexity.png">
+  <img alt="Prezi" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/prezi.png">
+  <img alt="VEED" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/veed.png">
+  <img alt="v0" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/v0.png">
+</div>
+  
+<!-- 
 <div align="left">
   <h4>Frontend / Backend / Database</h4>
   <img alt="React" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/react.png">
@@ -78,6 +120,7 @@
   <img alt="VEED" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/veed.png">
   <img alt="v0" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/v0.png">
 </div>
+-->
 
 <hr/>
 
