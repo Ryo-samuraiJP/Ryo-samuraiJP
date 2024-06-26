@@ -58,7 +58,7 @@
 [![Netlify](https://skillicons.dev/icons?i=netlify)](https://skillicons.dev)
 <img alt="Render" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/render.png">
 [![GitHub Pages](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-<img alt="Zeet" width="47px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/zeet.png" style="border-radius: 10px;">
+<img alt="Zeet" width="47px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/zeet.png">
 [![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 <img alt="iOS" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/ios.png">
 <img alt="macOS" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/macOS.png">
