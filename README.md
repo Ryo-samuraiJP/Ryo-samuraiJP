@@ -14,11 +14,11 @@
 
 - 🎓 **Latest Computer Science Graduate** from Thompson Rivers University in BC, Canada
 - 💼 Actively looking for **Full-Time** or **Intern Tech Roles**
-- 🌱 Continuous learner with **React**
-- 🆙 Eager to improve my **Full-Stack Skills to Fulfill My Decade-Planned Goals!**
+- 🌱 Continuous learner with modern frameworks and libraries, especially **React.js**
+- 🆙 Eager to improve my **Full-Stack Skills** to work at [Driveline Baseball](https://www.drivelinebaseball.com/) in the future (**my goal in decade!**)
 - 💬 Ask me about **Full-Stack**/**Android App Development**, and **Software**/**Database**/**Network Engineering**
-- 👨🏻‍💻 Writing articles to share useful tips on **[DEV](https://dev.to/ryoichihomma)**
-- ▶️ Sharing my projects' demo videos on **[YouTube](https://www.youtube.com/@rh.project_gallery)**
+- 👨🏻‍💻 Read my articles sharing useful tips on **[DEV](https://dev.to/ryoichihomma)**
+- ▶️ Watch my projects' demo videos on **[YouTube](https://www.youtube.com/@rh.project_gallery)**
 - 🌐 Check out my **[Portfolio](https://ryoichihomma.me/)**
 - 📫 Reach me out via **r.homma.inbox@gmail.com**
 
@@ -165,7 +165,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi&langs_count=20">
 </a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-  <img alt="GitHub Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryo-samurai6340&theme=prussian&utcOffset=-7">
-  <img alt="GitHub Commits" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryo-samurai6340&theme=prussian&utcOffset=-7">
-</a>
+<!-- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img alt="GitHub Summary" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/prussian/0-profile-details.svg">
+  <img alt="GitHub Commits" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/prussian/4-productive-time.svg">
+  <img alt="GitHub Summary" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/rose_pine/0-profile-details.svg">
+  <img alt="GitHub Commits" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/rose_pine/4-productive-time.svg">
+  <img alt="GitHub Summary" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/nord_bright/0-profile-details.svg">
+  <img alt="GitHub Commits" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/nord_bright/4-productive-time.svg">
+</a> -->
