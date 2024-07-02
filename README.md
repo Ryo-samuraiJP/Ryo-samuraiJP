@@ -162,7 +162,10 @@
 <a href="https://git.io/streak-stats">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ryo-samurai6340&theme=holi-theme&date_format=j%20M%5B%20Y%5D&dates=local&timezone=America/Vancouver">
 </a>
-<br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi&langs_count=20">
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img alt="GitHub Summary" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ryo-samurai6340&theme=prussian&utcOffset=-7">
+  <img alt="GitHub Commits" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryo-samurai6340&theme=prussian&utcOffset=-7">
 </a>
