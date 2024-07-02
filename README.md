@@ -126,9 +126,9 @@
 <!-- YOUTUBE -->
 ## ▶️ Demo Videos & Prezi
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Demo - AI Visual Doppelganger (AI image replicator web tool)](https://ytcards.demolab.com/?id=VT6eddrVVOA&title=Demo+-+AI+Visual+Doppelganger+%28AI+image+replicator+web+tool%29&lang=en&timestamp=1715155400&max_title_lines=2&width=250&border_radius=5&duration=200 "Demo - AI Visual Doppelganger (AI image replicator web tool)")](https://www.youtube.com/watch?v=VT6eddrVVOA)
-[![Demo - PlateMate (food delivery Android app)](https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+%28food+delivery+Android+app%29&lang=en&timestamp=1715155396&max_title_lines=2&width=250&border_radius=5&duration=244 "Demo - PlateMate (food delivery Android app)")](https://www.youtube.com/watch?v=N_yUfrnbgWI)
-[![Demo - Campus Network Simulator (network infrastructure design)](https://ytcards.demolab.com/?id=ayVUSVRPLqE&title=Demo+-+Campus+Network+Simulator+%28network+infrastructure+design%29&lang=en&timestamp=1715155393&max_title_lines=2&width=250&border_radius=5&duration=403 "Demo - Campus Network Simulator (network infrastructure design)")](https://www.youtube.com/watch?v=ayVUSVRPLqE)
+[![Demo - AI Visual Doppelganger (AI image replicator web tool)](https://ytcards.demolab.com/?id=VT6eddrVVOA&title=Demo+-+AI+Visual+Doppelganger+%28AI+image+replicator+web+tool%29&lang=en&timestamp=1715155400 "Demo - AI Visual Doppelganger (AI image replicator web tool)")](https://www.youtube.com/watch?v=VT6eddrVVOA)
+[![Demo - PlateMate (food delivery Android app)](https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+%28food+delivery+Android+app%29&lang=en&timestamp=1715155396 "Demo - PlateMate (food delivery Android app)")](https://www.youtube.com/watch?v=N_yUfrnbgWI)
+[![Demo - Campus Network Simulator (network infrastructure design)](https://ytcards.demolab.com/?id=ayVUSVRPLqE&title=Demo+-+Campus+Network+Simulator+%28network+infrastructure+design%29&lang=en&timestamp=1715155393 "Demo - Campus Network Simulator (network infrastructure design)")](https://www.youtube.com/watch?v=ayVUSVRPLqE)
 <!-- END YOUTUBE-CARDS -->
 
   <a href="https://prezi.com/view/kiFUg0jNey3zD5mN1ctl/">
