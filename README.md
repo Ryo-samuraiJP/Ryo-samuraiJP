@@ -1,14 +1,14 @@
 <!-- INTRO -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=750&color=187FFF&center=true&vCenter=true&random=false&width=1000&lines=Hi+There!%F0%9F%91%8B%F0%9F%8F%BB+I'm+Ryoichi+Homma%E2%9A%BE;Your+Future+Favorite+Full-Stack+Developer%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=750&color=187FFF&center=true&vCenter=true&random=false&width=1000&height=70&lines=Hi+There!%F0%9F%91%8B%F0%9F%8F%BB+I'm+Ryoichi+Homma%E2%9A%BE;Your+Future+Favorite+Full-Stack+Developer%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
   </a>
 </h1>
 
 <!-- SUB INTRO -->
 <h3 align="center">A passionate Full-Stack Developer from Japan living in Canada🍁</h3>
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=1&icon=5&pretty=true"/>
+  <img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter Batch" />
 </a>
 <br/><br/>
 
@@ -38,46 +38,89 @@
 
 <!-- TECK STACK -->
 ## 💻 Tech Stack
-<h4>Frontend / Backend / Database</h4>
-<img alt="React" align="left" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/react.png">
-<img alt="Javascript" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/js.png">
-<img alt="CSS" align="left" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/css.png">
-<img alt="HTML" align="left" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/html.png">
-<img alt="XML" align="left" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/xml.png">
-<img alt="Figma" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/figma.png">
-<img alt="Python" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/python.png">
-<img alt="Flask" align="left" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/flask.png">
-<img alt="Java" align="left" width="31px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/java.png">
-<img alt="Android Studio" align="left" width="36px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/android-studio.png">
-<img alt="C" align="left" width="31px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/c.png">
-<img alt="C#" align="left" width="31px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cSharp.png">
-<img alt="MySQL" align="left" width="36px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/mySQL.png">
-<img alt="Oracle SQL" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/oracle.svg">
+#### Frontend / Backend / Database
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+<img alt="XML" width="42px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/xml.png">
+[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
+[![Java](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Android Sutdio](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![C#](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+<img alt="Oracle SQL" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/oracle.svg">
 
-<h4>Deployment Platforms / OS</h4>
-<img alt="Netlify" align="left" width="37px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/netlify.svg">
-<img alt="Render" align="left" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/render.png">
-<img alt="GitHub" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/github.png">
-<img alt="Zeet" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/zeet.png">
-<img alt="Windows" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/windows.png">
-<img alt="iOS" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/ios.png">
-<img alt="macOS" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/macOS.png">
+#### Deployment Platforms / OS
+[![Netlify](https://skillicons.dev/icons?i=netlify)](https://skillicons.dev)
+<img alt="Render" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/render.png">
+[![GitHub Pages](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+<img alt="Zeet" width="47px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/zeet.png">
+[![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
+<img alt="iOS" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/ios.png">
+<img alt="macOS" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/macOS.png">
 
-<h4>Network Design / Diagramming Tools</h4>
-<img alt="cisco packet tracer" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cisco.png">
-<img alt="lucidchart" align="left" width="30px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/lucidchart.png">
-<img alt="draw.io" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/draw-io.png">
-<img alt="argoUML" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/argouml.png">
+#### Network Design / Diagramming / AI Tools
+<div align="left">
+  <img alt="Cisco Packet Tracer" width="47px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cisco.png">
+  <img alt="Lucidchart" width="41px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/lucidchart.png">
+  <img alt="draw.io" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/draw-io.png">
+  <img alt="ArgoUML" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/argouml.png">
+  <img alt="Cursor" width="49px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cursor.png">
+  <img alt="Claude" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/claude.png">
+  <img alt="ChatGPT" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/chatgpt.png">
+  <img alt="Copilot" width="52px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/copilot.png">
+  <img alt="Perplexity" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/perplexity.png">
+  <img alt="Prezi" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/prezi.png">
+  <img alt="VEED" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/veed.png">
+  <img alt="v0" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/v0.png">
+</div>
+  
+<!-- 
+<div align="left">
+  <h4>Frontend / Backend / Database</h4>
+  <img alt="React" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/react.png">
+  <img alt="Javascript" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/js.png">
+  <img alt="CSS" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/css.png">
+  <img alt="HTML" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/html.png">
+  <img alt="XML" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/xml.png">
+  <img alt="Figma" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/figma.png">
+  <img alt="Python" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/python.png">
+  <img alt="Flask" width="40px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/flask.png">
+  <img alt="Java" width="31px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/java.png">
+  <img alt="Android Studio" width="36px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/android-studio.png">
+  <img alt="C" width="31px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/c.png">
+  <img alt="C#" width="31px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cSharp.png">
+  <img alt="MySQL" width="36px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/mySQL.png">
+  <img alt="Oracle SQL" width="32px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/oracle.svg">
 
-<h4>AI Tools</h4>
-<img alt="Cursor" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cursor.png">
-<img alt="Claude" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/claude.png">
-<img alt="ChatGPT" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/chatgpt.png">
-<img alt="Copilot" align="left" width="37px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/copilot.png">
-<img alt="Perplexity" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/perplexity.png">
-<img alt="Prezi" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/prezi.png">
-<img alt="VEED" align="left" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/veed.png">
-<img alt="v0" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/v0.png">
+  <h4>Deployment Platforms / OS</h4>
+  <img alt="Netlify" width="37px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/netlify.svg">
+  <img alt="Render" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/render.png">
+  <img alt="GitHub" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/github.png">
+  <img alt="Zeet" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/zeet.png">
+  <img alt="Windows" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/windows.png">
+  <img alt="iOS" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/ios.png">
+  <img alt="macOS" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/macOS.png">
+
+  <h4>Network Design / Diagramming / AI Tools</h4>
+  <img alt="cisco packet tracer" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cisco.png">
+  <img alt="lucidchart" width="30px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/lucidchart.png">
+  <img alt="draw.io" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/draw-io.png">
+  <img alt="argoUML" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/argouml.png">
+  <img alt="Cursor" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/cursor.png">
+  <img alt="Claude" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/claude.png">
+  <img alt="ChatGPT" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/chatgpt.png">
+  <img alt="Copilot" width="37px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/copilot.png">
+  <img alt="Perplexity" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/perplexity.png">
+  <img alt="Prezi" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/prezi.png">
+  <img alt="VEED" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/veed.png">
+  <img alt="v0" width="35px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/v0.png">
+</div>
+-->
 
 <hr/>
 
@@ -85,16 +128,16 @@
 ## ▶️ Demo Videos & Prezi
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.youtube.com/watch?v=VT6eddrVVOA&t=1s">
-    <img src="https://ytcards.demolab.com/?id=VT6eddrVVOA&t=1s&title=AI+Visual+Doppelganger+(AI+image+replicator+web+tool)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=200" alt="AI Visual Doppelganger">
+    <img src="https://ytcards.demolab.com/?id=VT6eddrVVOA&t=1s&title=AI+Visual+Doppelganger+(AI+image+replicator+web+tool)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=200" alt="AI Visual Doppelganger">
   </a>
   <a href="https://www.youtube.com/watch?v=N_yUfrnbgWI">
-    <img src="https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=PlateMate+(food+delivery+Android+app)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=244" alt="PlateMate">
+    <img src="https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=PlateMate+(food+delivery+Android+app)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=244" alt="PlateMate">
   </a>
   <a href="https://www.youtube.com/watch?v=ayVUSVRPLqE&t=10s">
-    <img src="https://ytcards.demolab.com/?id=ayVUSVRPLqE&t=10s&title=Compaus+Network+Simulator+(network+infrastructure+design)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=403" alt="Campus Network Simulator">
+    <img src="https://ytcards.demolab.com/?id=ayVUSVRPLqE&t=10s&title=Compaus+Network+Simulator+(network+infrastructure+design)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=403" alt="Campus Network Simulator">
   </a>
   <a href="https://prezi.com/view/kiFUg0jNey3zD5mN1ctl/">
-    <img src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/PlateMateArchitecture.png" alt="PlateMate Architecture" width="250px" height="150px">
+    <img src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/PlateMateArchitecture.png" alt="PlateMate Architecture" width="350px" height="200px">
   </a>
 </div>
 
@@ -112,11 +155,15 @@
 
 <!-- STATS -->
 ## 📊 GitHub Stats
-<a href="https://git.io/streak-stats">
-<!--   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github"> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!--   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github"> -->
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github&hide=stars,contribs">
-  <br/>
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ryo-samurai6340&theme=holi-theme">
-  <br/>
+</a>
+<br>
+<a href="https://git.io/streak-stats">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ryo-samurai6340&theme=holi-theme&date_format=j%20M%5B%20Y%5D&dates=local&timezone=America/Vancouver">
+</a>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi">
 </a>
