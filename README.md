@@ -126,13 +126,21 @@
 <!-- YOUTUBE -->
 ## ▶️ Demo Videos & Prezi
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Demo - AI Visual Doppelganger (AI image replicator web tool)](https://ytcards.demolab.com/?id=VT6eddrVVOA&title=Demo+-+AI+Visual+Doppelganger+%28AI+image+replicator+web+tool%29&lang=en&timestamp=1715155400&background_color=%23c9d9f2&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=200 "Demo - AI Visual Doppelganger (AI image replicator web tool)")](https://www.youtube.com/watch?v=VT6eddrVVOA#gh-dark-mode-only)[![Demo - AI Visual Doppelganger (AI image replicator web tool)](https://ytcards.demolab.com/?id=VT6eddrVVOA&title=Demo+-+AI+Visual+Doppelganger+%28AI+image+replicator+web+tool%29&lang=en&timestamp=1715155400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=200 "Demo - AI Visual Doppelganger (AI image replicator web tool)")](https://www.youtube.com/watch?v=VT6eddrVVOA#gh-light-mode-only)
-[![Demo - PlateMate (food delivery Android app)](https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+%28food+delivery+Android+app%29&lang=en&timestamp=1715155396&background_color=%23c9d9f2&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=244 "Demo - PlateMate (food delivery Android app)")](https://www.youtube.com/watch?v=N_yUfrnbgWI#gh-dark-mode-only)[![Demo - PlateMate (food delivery Android app)](https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+%28food+delivery+Android+app%29&lang=en&timestamp=1715155396&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=244 "Demo - PlateMate (food delivery Android app)")](https://www.youtube.com/watch?v=N_yUfrnbgWI#gh-light-mode-only)
-[![Demo - Campus Network Simulator (network infrastructure design)](https://ytcards.demolab.com/?id=ayVUSVRPLqE&title=Demo+-+Campus+Network+Simulator+%28network+infrastructure+design%29&lang=en&timestamp=1715155393&background_color=%23c9d9f2&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=403 "Demo - Campus Network Simulator (network infrastructure design)")](https://www.youtube.com/watch?v=ayVUSVRPLqE#gh-dark-mode-only)[![Demo - Campus Network Simulator (network infrastructure design)](https://ytcards.demolab.com/?id=ayVUSVRPLqE&title=Demo+-+Campus+Network+Simulator+%28network+infrastructure+design%29&lang=en&timestamp=1715155393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=403 "Demo - Campus Network Simulator (network infrastructure design)")](https://www.youtube.com/watch?v=ayVUSVRPLqE#gh-light-mode-only)
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://www.youtube.com/watch?v=VT6eddrVVOA&t=1s">
+    <img src="https://ytcards.demolab.com/?id=VT6eddrVVOA&t=1s&title=AI+Visual+Doppelganger+(AI+image+replicator+web+tool)&timestamp=1715151600" alt="AI Visual Doppelganger">
+  </a>
+  <a href="https://www.youtube.com/watch?v=N_yUfrnbgWI">
+    <img src="https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=PlateMate+(food+delivery+Android+app)&timestamp=1715151600" alt="PlateMate">
+  </a>
+  <a href="https://www.youtube.com/watch?v=ayVUSVRPLqE&t=10s">
+    <img src="https://ytcards.demolab.com/?id=ayVUSVRPLqE&t=10s&title=Compaus+Network+Simulator+(network+infrastructure+design)&timestamp=1715151600" alt="Campus Network Simulator">
+  </a>
 <!-- END YOUTUBE-CARDS -->
-<a href="https://prezi.com/view/kiFUg0jNey3zD5mN1ctl/">
-  <img src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/PlateMateArchitecture.png" alt="PlateMate Architecture" width="350px" height="200px">
-</a>
+  <a href="https://prezi.com/view/kiFUg0jNey3zD5mN1ctl/">
+    <img src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/PlateMateArchitecture.png" alt="PlateMate Architecture" width="350px" height="200px">
+  </a>
+</div>
 
 <hr/>
 
