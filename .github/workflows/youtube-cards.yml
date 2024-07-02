@@ -18,8 +18,8 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Generate YouTube Cards
-        uses: DenverCoder1/github-readme-youtube-cards@main
+      - name: GitHub Readme YouTube Cards
+        uses: DenverCoder1/github-readme-youtube-cards@1.7.0
         with:
           channel_id: UC7f92Y8DjOY1r8gL0Blt0gQ
           comment_tag_name: YOUTUBE-CARDS
