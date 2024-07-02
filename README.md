@@ -12,15 +12,14 @@
 </a>
 <br/><br/>
 
-- 🗣️ You can call me **Rio!**
-- 🎓 **Latest CS Graduate** from Thompson Rivers University in BC, Canada
+- 🎓 **Latest Computer Science Graduate** from Thompson Rivers University in BC, Canada
 - 💼 Actively looking for **Full-Time** or **Intern Tech Roles**
 - 🌱 Continuous learner with **React**
 - 🆙 Eager to improve my **Full-Stack Skills to Fulfill My Decade-Planned Goals!**
 - 💬 Ask me about **Full-Stack**/**Android App Development**, and **Software**/**Database**/**Network Engineering**
-- 👨🏻‍💻 Sharing useful tips on **[DEV](https://dev.to/ryoichihomma)**
+- 👨🏻‍💻 Writing articles to share useful tips on **[DEV](https://dev.to/ryoichihomma)**
 - ▶️ Sharing my projects' demo videos on **[YouTube](https://www.youtube.com/@rh.project_gallery)**
-- 🌐 **[Portfolio](https://ryoichihomma.me/)**
+- 🌐 Check out my **[Portfolio](https://ryoichihomma.me/)**
 - 📫 Reach me out via **r.homma.inbox@gmail.com**
 
 <hr/>
@@ -165,5 +164,5 @@
 </a>
 <br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi&langs_count=20">
 </a>
