@@ -24,7 +24,8 @@ jobs:
           channel_id: UC7f92Y8DjOY1r8gL0Blt0gQ
           comment_tag_name: YOUTUBE-CARDS
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          theme_context_light: '{ "background_color": "#0d1117", "title_color": "#ffffff", "stats_color": "#dedede" }'
+          theme_context_dark: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
+          max_title_lines: 2
           show_duration: true
           commit_message: "docs(readme): Update YouTube cards"
-          readme_path: README.md
-          max_title_lines: 2
