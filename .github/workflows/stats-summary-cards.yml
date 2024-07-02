@@ -1,4 +1,4 @@
-name: GitHub-Profile-Summary-Cards
+name: GitHub Stats Summary Cards
 
 on:
   create:
@@ -18,6 +18,6 @@ build:
     - uses: actions/checkout@v2
     - uses: vn7n24fzkq/github-profile-summary-cards@release
       env:
-        GITHUB_TOKEN: ${{ secrets.[YOUR_SECRET_TOKEN_NAME] }}
+        GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
       with:
         USERNAME: ${{ github.repository_owner }}
