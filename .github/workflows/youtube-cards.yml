@@ -15,9 +15,6 @@ jobs:
       
     # Run the GitHub Readme YouTube Cards action
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v2
-
       - name: GitHub Readme YouTube Cards
         uses: DenverCoder1/github-readme-youtube-cards@1.7.0
         with:
