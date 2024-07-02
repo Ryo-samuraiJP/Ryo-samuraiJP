@@ -1,8 +1,8 @@
 name: GitHub Readme YouTube Cards
 on:
   schedule:
-    # Runs to update at 0:00 AM
-    - cron: "0 * * * *"
+    # Runs every 6 hours in UTC
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -23,7 +23,7 @@ jobs:
         with:
           channel_id: UC7f92Y8DjOY1r8gL0Blt0gQ
           comment_tag_name: YOUTUBE-CARDS
-          youtube_api_key: ${{ secrets.YOUTUBE_NEW_API_KEY }}
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
           commit_message: "docs(readme): Update YouTube cards"
           readme_path: README.md
