@@ -27,3 +27,4 @@ jobs:
           show_duration: true
           commit_message: "docs(readme): Update YouTube cards"
           readme_path: README.md
+          max_title_lines: 2
