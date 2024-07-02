@@ -125,6 +125,7 @@
 
 <!-- YOUTUBE -->
 ## ▶️ Demo Videos & Prezi
+<!-- BEGIN YOUTUBE-CARDS -->
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.youtube.com/watch?v=VT6eddrVVOA&t=1s">
     <img src="https://ytcards.demolab.com/?id=VT6eddrVVOA&t=1s&title=AI+Visual+Doppelganger+(AI+image+replicator+web+tool)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=200" alt="AI Visual Doppelganger">
@@ -135,6 +136,8 @@
   <a href="https://www.youtube.com/watch?v=ayVUSVRPLqE&t=10s">
     <img src="https://ytcards.demolab.com/?id=ayVUSVRPLqE&t=10s&title=Compaus+Network+Simulator+(network+infrastructure+design)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=403" alt="Campus Network Simulator">
   </a>
+<!-- END YOUTUBE-CARDS -->
+
   <a href="https://prezi.com/view/kiFUg0jNey3zD5mN1ctl/">
     <img src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/PlateMateArchitecture.png" alt="PlateMate Architecture" width="350px" height="200px">
   </a>
