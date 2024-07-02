@@ -4,7 +4,7 @@ on:
   create:
   schedule: 
     # update at 0:00 AM
-    - cron: "0 0 * * *"
+    - cron: "* */24 * * *"
   workflow_dispatch:
 
 jobs:
