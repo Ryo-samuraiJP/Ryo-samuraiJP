@@ -126,16 +126,9 @@
 <!-- YOUTUBE -->
 ## ▶️ Demo Videos & Prezi
 <!-- BEGIN YOUTUBE-CARDS -->
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href="https://www.youtube.com/watch?v=VT6eddrVVOA&t=1s">
-    <img src="https://ytcards.demolab.com/?id=VT6eddrVVOA&t=1s&title=AI+Visual+Doppelganger+(AI+image+replicator+web+tool)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=200" alt="AI Visual Doppelganger">
-  </a>
-  <a href="https://www.youtube.com/watch?v=N_yUfrnbgWI">
-    <img src="https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=PlateMate+(food+delivery+Android+app)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=244" alt="PlateMate">
-  </a>
-  <a href="https://www.youtube.com/watch?v=ayVUSVRPLqE&t=10s">
-    <img src="https://ytcards.demolab.com/?id=ayVUSVRPLqE&t=10s&title=Compaus+Network+Simulator+(network+infrastructure+design)&lang=en&timestamp=1715151600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=403" alt="Campus Network Simulator">
-  </a>
+[![Demo - AI Visual Doppelganger (AI image replicator web tool)](https://ytcards.demolab.com/?id=VT6eddrVVOA&title=Demo+-+AI+Visual+Doppelganger+%28AI+image+replicator+web+tool%29&lang=en&timestamp=1715155400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=200 "Demo - AI Visual Doppelganger (AI image replicator web tool)")](https://www.youtube.com/watch?v=VT6eddrVVOA)
+[![Demo - PlateMate (food delivery Android app)](https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+%28food+delivery+Android+app%29&lang=en&timestamp=1715155396&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=244 "Demo - PlateMate (food delivery Android app)")](https://www.youtube.com/watch?v=N_yUfrnbgWI)
+[![Demo - Campus Network Simulator (network infrastructure design)](https://ytcards.demolab.com/?id=ayVUSVRPLqE&title=Demo+-+Campus+Network+Simulator+%28network+infrastructure+design%29&lang=en&timestamp=1715155393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=403 "Demo - Campus Network Simulator (network infrastructure design)")](https://www.youtube.com/watch?v=ayVUSVRPLqE)
 <!-- END YOUTUBE-CARDS -->
 
   <a href="https://prezi.com/view/kiFUg0jNey3zD5mN1ctl/">
