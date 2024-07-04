@@ -15,8 +15,8 @@
 - 🎓 **Latest Computer Science Graduate** from Thompson Rivers University in BC, Canada
 - 💼 Actively looking for **Full-Time** or **Intern Tech Roles**
 - 🌱 Continuous learner with modern frameworks and libraries, especially **React.js**
-- 🆙 Eager to improve my **Full-Stack Skills** to work at [Driveline Baseball](https://www.drivelinebaseball.com/) in the future (**my goal in decade!**)
-- 💬 Ask me about **Full-Stack**/**Android App Development**, and **Software**/**Database**/**Network Engineering**
+- 🆙 Eager to improve my **Full-Stack Skills** to work at [Driveline Baseball](https://www.drivelinebaseball.com/) in the future (**my future goal!**)
+- 💬 Ask me about **Full-Stack** | **Android App Development**, and **Software** | **Database** | **Network Engineering**
 - 👨🏻‍💻 Read my articles sharing useful tips on **[DEV](https://dev.to/ryoichihomma)**
 - ▶️ Watch my projects' demo videos on **[YouTube](https://www.youtube.com/@rh.project_gallery)**
 - 🌐 Check out my **[Portfolio](https://ryoichihomma.me/)**
