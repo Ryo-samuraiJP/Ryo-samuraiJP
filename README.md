@@ -153,14 +153,36 @@
   <img alt="GitHub Stats" src="ryo-samurai6340-github-readme-stats.vercel.app
 /api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github&hide=stars,contribs">
 </a>
+
 <br>
+
 <a href="https://git.io/streak-stats">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ryo-samurai6340&theme=holi-theme&date_format=j%20M%5B%20Y%5D&dates=local&timezone=America/Vancouver">
 </a>
+
+<br>
+
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi&langs_count=20">
 </a>
-<b>Note:</b> Top languages is only a metric of the languages used in my public repositories and doesn't reflect my private repositories.
+<br>
+<b>Note:</b> Top languages is only a metric of the languages used in my public repositories and doesn't reflect my private and forked repositories.
+
+<br>
+-->
+
+<a href='https://github.com/Ryo-samurai6340/github-stats-transparent'>
+  <img alt="Most Used Languages Card" src="https://raw.githubusercontent.com/ryo-samurai6340/github-stats-transparent/output/generated/languages.svg">
+</a>
+
+
+
+
+
+
+
+
 
 <!-- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img alt="GitHub Summary" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/prussian/0-profile-details.svg">
