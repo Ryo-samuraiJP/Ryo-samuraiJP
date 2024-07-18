@@ -159,6 +159,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi&langs_count=20">
 </a>
+<b>Note:</b> Top languages is only a metric of the languages used in my public repositories and doesn't reflect my private repositories.
+
 <!-- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img alt="GitHub Summary" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/prussian/0-profile-details.svg">
   <img alt="GitHub Commits" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/prussian/4-productive-time.svg">
