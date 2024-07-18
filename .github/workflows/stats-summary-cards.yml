@@ -16,12 +16,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Set up Git for pushing changes
-        run: 
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git remote set-url origin https://x-access-token:${{ secrets.SUMMARY_CARD_TOKEN }}@github.com/${{ github.repository_owner }}/${{ github.repository }}.git
-
       - name: Generate GitHub Stats Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env: 
