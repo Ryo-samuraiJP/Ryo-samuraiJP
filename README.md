@@ -150,7 +150,8 @@
 ## 📊 GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github"> -->
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github&hide=stars,contribs">
+  <img alt="GitHub Stats" src="ryo-samurai6340-github-readme-stats.vercel.app
+/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github&hide=stars,contribs">
 </a>
 <br>
 <a href="https://git.io/streak-stats">
