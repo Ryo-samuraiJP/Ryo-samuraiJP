@@ -37,6 +37,75 @@
 
 <!-- TECK STACK -->
 ## 💻 Tech Stack
+#### Languages
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=HTML5&logoColor=white&logoSize=auto)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=CSS3&logoColor=white&logoSize=auto)
+![JS](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black&logoSize=auto)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white&logoSize=auto)
+![Java](https://custom-icon-badges.demolab.com/badge/Java-%23F89820.svg?style=flat-square&logo=java&logoColor=white&logoSize=auto&labelColor=%235382a1)
+![C](https://custom-icon-badges.demolab.com/badge/C-%2303599C.svg?style=flat-square&logo=c-in-hexagon&logoColor=white&logoSize=auto)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?style=flat-square&logo=cs2&logoColor=white&logoSize=auto)
+![SQL](https://custom-icon-badges.demolab.com/badge/SQL-%23FF1493.svg?style=flat-square&logo=database&logoColor=white&logoSize=auto)
+![XML](https://img.shields.io/badge/SVG%20%26%20XML-%23FFA500?style=flat-square&logo=SVG&logoColor=white&logoSize=auto)
+
+#### Frameworks & Libraries
+![React](https://img.shields.io/badge/React.js-%2361DAFB?style=flat-square&logo=react&logoColor=%2361DAFB&logoSize=auto&labelColor=grey)
+![ScrollReveal](https://img.shields.io/badge/ScrollReveal.js-%23FFCB36?style=flat-square&logo=ScrollReveal&logoColor=black&logoSize=auto)
+![Swiper](https://img.shields.io/badge/Swiper.js-%236332F6?style=flat-square&logo=Swiper&logoSize=auto)
+![EmailJS](https://img.shields.io/badge/EmailJS-%23ff8434?style=flat-square&logo=emailjs&logoSize=auto)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white&logoSize=auto)
+![Flask](https://img.shields.io/badge/Flask-%23000000?style=flat-square&logo=flask&logoColor=white&logoSize=auto)
+![Numpy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoSize=auto)
+![Font Awesome](https://img.shields.io/badge/Font%20Awesome-%23538DD7?style=flat-square&logo=font%20awesome&logoColor=white&logoSize=auto)
+
+#### Database & Cloud Hosting
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white&logoSize=auto)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-%23F80000?style=flat-square&logo=oracle&logoColor=white&logoSize=auto)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23222222?style=flat-square&logo=github&logoSize=auto)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=%2300C7B7&logoSize=auto&labelColor=grey)
+![Render](https://img.shields.io/badge/Render-%23FFF?style=flat-square&logo=render&logoColor=black&logoSize=auto)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=vercel&logoSize=auto)
+![Zeet](https://img.shields.io/badge/Zeet-%2300ff00?style=flat-square&logo=zeet&logoSize=auto)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-%234285F4?style=flat-square&logo=google%20drive&logoColor=white&logoSize=auto)
+
+#### Design Tools
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white&logoSize=auto)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=canva&logoColor=white&logoSize=auto)
+![Photopea](https://img.shields.io/badge/Photopea-%2318A497?style=flat-square&logo=photopea&logoColor=white&logoSize=auto)
+![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF?style=flat-square&logo=adobe-photoshop&logoColor=%23001833&logoSize=auto)
+![Google Fonts](https://img.shields.io/badge/Google%20Fonts-%234285F4?style=flat-square&logo=google%20fonts&logoColor=white&logoSize=auto)
+![Remix Icon](https://img.shields.io/badge/Remix%20Icon-%230066ff?style=flat-square&logo=remix&logoSize=auto)
+![diagrams.net](https://img.shields.io/badge/diagrams.net-%23F08705?style=flat-square&logo=diagrams.net&logoColor=white&logoSize=auto)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-%23f96b13?style=flat-square&logo=lucidchart&logoSize=auto)
+![ArgoUML](https://img.shields.io/badge/ArgoUML-%234e74a7?style=flat-square&logo=argouml&logoSize=auto)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-%231BA0D7?style=flat-square&logo=cisco&logoSize=auto&labelColor=grey)
+![VEED](https://img.shields.io/badge/VEED-%23B6FF60?style=flat-square&logo=veed&logoSize=auto&labelColor=black)
+![Prezi](https://img.shields.io/badge/Prezi-%233181FF?style=flat-square&logo=prezi&logoColor=white&logoSize=auto)
+
+#### Version Control & CI & IDEs
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white&logoSize=auto)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white&logoSize=auto)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=flat-square&logo=GitHub%20actions&logoColor=white&logoSize=auto)
+![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-%238034A9?style=flat-square&logo=GitHub&logoColor=white&logoSize=auto)
+![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4?style=flat-square&logo=visual%20studio%20code&logoSize=auto)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white&logoSize=auto)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat-square&logo=android&logoColor=white&logoSize=auto)
+![SQL Developer](https://custom-icon-badges.demolab.com/badge/SQL%20Developer-%23BAD0EF.svg?style=flat-square&logo=database&logoColor=%2387D34F&logoSize=auto)
+![Cursor](https://img.shields.io/badge/Cursor-%23162b4e?style=flat-square&logo=cursor&logoSize=auto)
+
+#### OS & AI Tools
+![Windows](https://img.shields.io/badge/Windows-%230078D6?style=flat-square&logo=windows&logoSize=auto)
+![iOS](https://img.shields.io/badge/iOS-%23000000?style=flat-square&logo=ios&logoSize=auto)
+![macOS](https://img.shields.io/badge/macOS-%23000000?style=flat-square&logo=macos&logoSize=auto)
+![AnroidOS](https://img.shields.io/badge/AndroidOS-%2334A853?style=flat-square&logo=android&logoColor=white&logoSize=auto)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white&logoSize=auto)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000?style=flat-square&logo=github%20copilot&logoColor=white&logoSize=auto)
+![Claude](https://img.shields.io/badge/Claude-%23f3e9d7?style=flat-square&logo=claude&logoSize=auto)
+![Perplexity](https://img.shields.io/badge/Perplexity-%231FB8CD?style=flat-square&logo=perplexity&logoColor=white&logoSize=auto)
+![MS Copilot](https://img.shields.io/badge/Microsoft%20Copilot-%230c92e6?style=flat-square&logo=ms%20copilot&logoSize=auto)
+
+
+<!--
 #### Frontend / Backend / Database
 [![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
@@ -77,6 +146,7 @@
   <img alt="VEED" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/veed.png">
   <img alt="v0" width="48px" src="https://github.com/Ryo-samurai6340/Ryo-samurai6340/blob/main/img/v0.png">
 </div>
+-->
   
 <!-- 
 <div align="left">
