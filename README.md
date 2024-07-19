@@ -39,7 +39,7 @@
 
 <!-- TECK STACK -->
 ## 🖥️ Tech Stack
-#### 🖱️ Programming & Markup Languages
+### 🖱️ Programming & Markup Languages
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=CSS3&logoColor=white&logoSize=auto)
 ![JS](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto)
@@ -50,7 +50,7 @@
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-%23FF1493.svg?style=for-the-badge&logo=database&logoColor=white&logoSize=auto)
 ![XML](https://img.shields.io/badge/SVG%20%26%20XML-%23FFA500?style=for-the-badge&logo=SVG&logoColor=white&logoSize=auto)
 
-#### 📚 Frameworks & Libraries
+### 📚 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React.js-%2361DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoSize=auto&labelColor=grey)
 ![ScrollReveal](https://img.shields.io/badge/ScrollReveal.js-%23FFCB36?style=for-the-badge&logo=ScrollReveal&logoColor=black&logoSize=auto)
 ![Swiper](https://img.shields.io/badge/Swiper.js-%236332F6?style=for-the-badge&logo=Swiper&logoSize=auto)
