@@ -34,19 +34,19 @@
 <hr/>
 
 <!-- TECK STACK -->
-## 💻 Tech Stack
-#### Languages
+## 🖥️ Tech Stack
+#### 🖱️ Programming & Markup Languages
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=HTML5&logoColor=white&logoSize=auto)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=CSS3&logoColor=white&logoSize=auto)
 ![JS](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black&logoSize=auto)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white&logoSize=auto)
-![Java](https://custom-icon-badges.demolab.com/badge/Java-%23F89820.svg?style=flat-square&logo=java&logoColor=white&logoSize=auto&labelColor=%235382a1)
+![Java](https://custom-icon-badges.demolab.com/badge/Java-%23F89820.svg?style=flat-square&logo=java&logoColor=black&logoSize=auto&labelColor=%235382A1)
 ![C](https://custom-icon-badges.demolab.com/badge/C-%2303599C.svg?style=flat-square&logo=c-in-hexagon&logoColor=white&logoSize=auto)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?style=flat-square&logo=cs2&logoColor=white&logoSize=auto)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-%23FF1493.svg?style=flat-square&logo=database&logoColor=white&logoSize=auto)
 ![XML](https://img.shields.io/badge/SVG%20%26%20XML-%23FFA500?style=flat-square&logo=SVG&logoColor=white&logoSize=auto)
 
-#### Frameworks & Libraries
+#### 📚 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React.js-%2361DAFB?style=flat-square&logo=react&logoColor=%2361DAFB&logoSize=auto&labelColor=grey)
 ![ScrollReveal](https://img.shields.io/badge/ScrollReveal.js-%23FFCB36?style=flat-square&logo=ScrollReveal&logoColor=black&logoSize=auto)
 ![Swiper](https://img.shields.io/badge/Swiper.js-%236332F6?style=flat-square&logo=Swiper&logoSize=auto)
@@ -54,9 +54,10 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white&logoSize=auto)
 ![Flask](https://img.shields.io/badge/Flask-%23000000?style=flat-square&logo=flask&logoColor=white&logoSize=auto)
 ![Numpy](https://img.shields.io/badge/NumPy-%23013243?style=flat-square&logo=numpy&logoSize=auto)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white&logoSize=auto)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-%23538DD7?style=flat-square&logo=font%20awesome&logoColor=white&logoSize=auto)
 
-#### Database & Cloud Hosting
+#### ☁️ Database & Cloud Hosting
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white&logoSize=auto)
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-%23F80000?style=flat-square&logo=oracle&logoColor=white&logoSize=auto)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23222222?style=flat-square&logo=github&logoSize=auto)
@@ -66,7 +67,7 @@
 ![Zeet](https://img.shields.io/badge/Zeet-%2300ff00?style=flat-square&logo=zeet&logoSize=auto)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-%234285F4?style=flat-square&logo=google%20drive&logoColor=white&logoSize=auto)
 
-#### Design Tools
+#### 🖽 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white&logoSize=auto)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=flat-square&logo=canva&logoColor=white&logoSize=auto)
 ![Photopea](https://img.shields.io/badge/Photopea-%2318A497?style=flat-square&logo=photopea&logoColor=white&logoSize=auto)
@@ -80,27 +81,28 @@
 ![VEED](https://img.shields.io/badge/VEED-%23B6FF60?style=flat-square&logo=veed&logoSize=auto&labelColor=black)
 ![Prezi](https://img.shields.io/badge/Prezi-%233181FF?style=flat-square&logo=prezi&logoColor=white&logoSize=auto)
 
-#### Version Control & CI & IDEs
+#### ⚙️ Others
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white&logoSize=auto)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=GitHub&logoColor=white&logoSize=auto)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=flat-square&logo=GitHub%20actions&logoColor=white&logoSize=auto)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-%238034A9?style=flat-square&logo=GitHub&logoColor=white&logoSize=auto)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000?style=flat-square&logo=github%20copilot&logoColor=white&logoSize=auto)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white&logoSize=auto)
+![Claude](https://img.shields.io/badge/Claude-%23f3e9d7?style=flat-square&logo=claude&logoSize=auto)
+![Perplexity](https://img.shields.io/badge/Perplexity-%231FB8CD?style=flat-square&logo=perplexity&logoColor=white&logoSize=auto)
+![MS Copilot](https://img.shields.io/badge/Microsoft%20Copilot-%230c92e6?style=flat-square&logo=ms%20copilot&logoSize=auto)
+![Cursor](https://img.shields.io/badge/Cursor-%23162b4e?style=flat-square&logo=cursor&logoSize=auto)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%230078D4?style=flat-square&logo=visual%20studio%20code&logoSize=auto)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=flat-square&logo=visual-studio&logoColor=white&logoSize=auto)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84?style=flat-square&logo=android&logoColor=white&logoSize=auto)
 ![SQL Developer](https://custom-icon-badges.demolab.com/badge/SQL%20Developer-%23BAD0EF.svg?style=flat-square&logo=database&logoColor=%2387D34F&logoSize=auto)
-![Cursor](https://img.shields.io/badge/Cursor-%23162b4e?style=flat-square&logo=cursor&logoSize=auto)
-
-#### OS & AI Tools
 ![Windows](https://img.shields.io/badge/Windows-%230078D6?style=flat-square&logo=windows&logoSize=auto)
-![iOS](https://img.shields.io/badge/iOS-%23000000?style=flat-square&logo=ios&logoSize=auto)
 ![macOS](https://img.shields.io/badge/macOS-%23000000?style=flat-square&logo=macos&logoSize=auto)
+![iOS](https://img.shields.io/badge/iOS-%23000000?style=flat-square&logo=ios&logoSize=auto)
 ![AnroidOS](https://img.shields.io/badge/AndroidOS-%2334A853?style=flat-square&logo=android&logoColor=white&logoSize=auto)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white&logoSize=auto)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-%23000000?style=flat-square&logo=github%20copilot&logoColor=white&logoSize=auto)
-![Claude](https://img.shields.io/badge/Claude-%23f3e9d7?style=flat-square&logo=claude&logoSize=auto)
-![Perplexity](https://img.shields.io/badge/Perplexity-%231FB8CD?style=flat-square&logo=perplexity&logoColor=white&logoSize=auto)
-![MS Copilot](https://img.shields.io/badge/Microsoft%20Copilot-%230c92e6?style=flat-square&logo=ms%20copilot&logoSize=auto)
+
+
+
 
 
 <!--
@@ -216,51 +218,43 @@
 
 <!-- STATS -->
 ## 📊 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github"> -->
-  <img alt="GitHub Stats" src="ryo-samurai6340-github-readme-stats.vercel.app
-/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github&hide=stars,contribs">
-</a>
-
-<br>
-
+### 🔥 Streak Stats
 <a href="https://git.io/streak-stats">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ryo-samurai6340&theme=holi-theme&date_format=j%20M%5B%20Y%5D&dates=local&timezone=America/Vancouver">
 </a>
 
-<br>
-
+### 💻 Profile Stats
+<a href='https://github.com/Ryo-samurai6340/github-stats-transparent'>
+  <img alt="Most Used Languages Card" src="https://raw.githubusercontent.com/ryo-samurai6340/github-stats-transparent/output/generated/languages.svg">
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github"> -->
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github&hide=stars,contribs">
+</a>
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi&langs_count=20">
 </a>
 <br>
-<b>Note:</b> Top languages is only a metric of the languages used in my public repositories and doesn't reflect my private and forked repositories.
-
-<br>
+<b>Note:</b> Top languages are only a metric of the languages used in my public repositories and don't reflect my private and forked repositories.
 -->
-
-<a href='https://github.com/Ryo-samurai6340/github-stats-transparent'>
-  <img alt="Most Used Languages Card" src="https://raw.githubusercontent.com/ryo-samurai6340/github-stats-transparent/output/generated/languages.svg">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ryo-samurai6340&theme=react-dark" />
 </a>
 
 
-
-
-
-
-
-
-
-<!-- <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<!--
+### 📈 Other Stats
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
   <img alt="GitHub Summary" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/prussian/0-profile-details.svg">
   <img alt="GitHub Commits" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/prussian/4-productive-time.svg">
   <img alt="GitHub Summary" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/rose_pine/0-profile-details.svg">
   <img alt="GitHub Commits" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/rose_pine/4-productive-time.svg">
   <img alt="GitHub Summary" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/nord_bright/0-profile-details.svg">
   <img alt="GitHub Commits" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/nord_bright/4-productive-time.svg">
-</a> -->
-
+</a>
+-->
 
 ### 🧊 3D Stats
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+<b>Note:</b> Languages in 3D Stats are only a metric of the languages used in my public repositories and don't reflect my private and forked repositories.
