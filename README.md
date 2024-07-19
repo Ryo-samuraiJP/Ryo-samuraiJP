@@ -192,3 +192,7 @@
   <img alt="GitHub Summary" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/nord_bright/0-profile-details.svg">
   <img alt="GitHub Commits" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/nord_bright/4-productive-time.svg">
 </a> -->
+
+
+### 🧊 3D Stats
+![](./profile-3d-contrib/profile-gitblock.svg)
