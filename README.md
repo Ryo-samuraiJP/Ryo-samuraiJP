@@ -22,10 +22,8 @@
 - 🌐 Check out my **[Portfolio](https://ryoichihomma.me/)**
 - 📫 Reach me out via **r.homma.inbox@gmail.com**
 
-<hr/>
 
-<!-- MEDIA -->
-## 🔗 Media
+### 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryoichihomma-jp-ca/)
 [![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ryoichihomma)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rh.project_gallery)
