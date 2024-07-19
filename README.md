@@ -62,14 +62,14 @@
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-%23538DD7?style=for-the-badge&logo=font%20awesome&logoColor=white&logoSize=auto)
 
 #### ☁️ Database & Cloud Hosting
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)
-![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-%23F80000?style=for-the-badge&logo=oracle&logoColor=white&logoSize=auto)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23222222?style=for-the-badge&logo=github&logoSize=auto)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=%2300C7B7&logoSize=auto&labelColor=grey)
-![Render](https://img.shields.io/badge/Render-%23FFF?style=for-the-badge&logo=render&logoColor=black&logoSize=auto)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=for-the-badge&logo=vercel&logoSize=auto)
-![Zeet](https://img.shields.io/badge/Zeet-%2300ff00?style=for-the-badge&logo=zeet&logoSize=auto)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-%234285F4?style=for-the-badge&logo=google%20drive&logoColor=white&logoSize=auto)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white&logoSize=auto)
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-%23F80000?style=flat-square&logo=oracle&logoColor=white&logoSize=auto)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23222222?style=flat-square&logo=github&logoSize=auto)
+![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=%2300C7B7&logoSize=auto&labelColor=grey)
+![Render](https://img.shields.io/badge/Render-%23FFF?style=flat-square&logo=render&logoColor=black&logoSize=auto)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000?style=flat-square&logo=vercel&logoSize=auto)
+![Zeet](https://img.shields.io/badge/Zeet-%2300ff00?style=flat-square&logo=zeet&logoSize=auto)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-%234285F4?style=flat-square&logo=google%20drive&logoColor=white&logoSize=auto)
 
 #### 🖽 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=flat-square&logo=figma&logoColor=white&logoSize=auto)
