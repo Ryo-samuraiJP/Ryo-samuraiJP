@@ -1,8 +1,8 @@
 name: GitHub Readme YouTube Cards
 on:
   schedule:
-    # Runs every 6 hours in UTC
-    - cron: "0 */6 * * *"
+    # Runs every 7am (UTC) = 0am (PDT)
+    - cron: "0 7 * * *"
   workflow_dispatch:
 
 jobs:
