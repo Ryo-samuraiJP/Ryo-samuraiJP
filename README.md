@@ -230,20 +230,15 @@
 </a>
 
 ### 💻 Profile Stats
+<!--
 <a href='https://github.com/Ryo-samurai6340/github-stats-transparent'>
   <img alt="Most Used Languages Card" src="https://raw.githubusercontent.com/ryo-samurai6340/github-stats-transparent/output/generated/languages.svg">
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<!--   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github"> -->
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github&hide=stars,contribs">
-</a>
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi&langs_count=20">
-</a>
-<br>
-<b>Note:</b> Top languages are only a metric of the languages used in my public repositories and don't reflect my private and forked repositories.
 -->
+<a href="https://github.com/Ryo-samurai6340/github-readme-stats?tab=readme-ov-file">
+  <img alt="Most Used Languages" src="https://github-readme-stats-sigma-opal-34.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi&langs_count=20">
+  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-opal-34.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github&hide=stars,contribs">
+</a>
 
 ### 📈 Activity Graphs
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
