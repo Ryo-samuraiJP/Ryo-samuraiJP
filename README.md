@@ -21,10 +21,10 @@
 - 🌐 Check out my **[Portfolio](https://ryoichihomma.me/)**
 
 ### 🔗 Connect with me
-<code>[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryoichihomma-jp-ca/)</code>
-<code>[![My Skills](https://skillicons.dev/icons?i=devto)](https://dev.to/ryoichihomma)</code>
-<code>[![My Skills](https://skillicons.dev/icons?i=gmail)](mailto:r.homma.inbox@gmail.com)</code>
-<code>[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1233363421207199827/)</code>
+<code>[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryoichihomma-jp-ca/)</code>
+<code>[![DEV](https://skillicons.dev/icons?i=devto)](https://dev.to/ryoichihomma)</code>
+<code>[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1233363421207199827/)</code>
+<code>[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:r.homma.inbox@gmail.com)</code>
 
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryoichihomma-jp-ca/)
@@ -77,15 +77,13 @@
 ![Photopea](https://img.shields.io/badge/Photopea-%2318A497?style=flat-square&logo=photopea&logoColor=white&logoSize=auto)
 ![Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF?style=flat-square&logo=adobe-photoshop&logoColor=%23001833&logoSize=auto)
 ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-%234285F4?style=flat-square&logo=google%20fonts&logoColor=white&logoSize=auto)
-![Uiverse.io](https://custom-icon-badges.demolab.com/badge/Uiverse.io-%23070707?style=flat-square&logo=uiverse&logoSize=auto)
+![Uiverse.io](https://custom-icon-badges.demolab.com/badge/Uiverse.io-grey?style=flat-square&logo=uiverse-io&logoSize=auto)
 ![Remix Icon](https://img.shields.io/badge/Remix%20Icon-%230066ff?style=flat-square&logo=remix&logoSize=auto)
 ![Simple Icons](https://img.shields.io/badge/Simple%20Icons-%23111111?style=flat-square&logo=simple%20icons&logoSize=auto)
 ![Shields.io](https://img.shields.io/badge/Shields.io-%2397CA00?style=flat-square&logo=shields.io&logoSize=auto&labelColor=%23555555)
 ![diagrams.net](https://img.shields.io/badge/diagrams.net-%23F08705?style=flat-square&logo=diagrams.net&logoColor=white&logoSize=auto)
 ![Lucidchart](https://custom-icon-badges.demolab.com/badge/Lucidchart-%23f96b13?style=flat-square&logo=lucidchart&logoSize=auto&labelColor=%23F3F3F3)
 ![ArgoUML](https://custom-icon-badges.demolab.com/badge/ArgoUML-%238DAED3?style=flat-square&logo=argo-uml&logoSize=auto)
-
-
 
 #### ⚙️ Others
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white&logoSize=auto)
