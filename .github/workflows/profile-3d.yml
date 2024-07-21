@@ -20,20 +20,10 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           
-      - name: Commit & Push to update branch
+      - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git checkout -b update-branch
           git add -A .
           git commit -m "generated"
-          git push origin update-branch
-
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          base: main
-          head: update-branch
-          title: "Update GitHub Profile 3D Contributions"
-          body: "Automated update for profile 3D contributions."
+          git push
