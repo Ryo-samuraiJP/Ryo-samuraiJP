@@ -29,7 +29,10 @@ jobs:
           git commit -m "generated"
 
       - name: Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
         run: |
+          git remote set-url origin https://${{ secrets.PROFILE_3D_TOKEN }}@github.com/${{ github.repository_owner }}/${{ github.repository }}.git
           git push --set-upstream origin update-profile-3d-contrib
 
       - name: Create Pull Request
@@ -41,3 +44,4 @@ jobs:
           title: "Update GitHub Profile 3D Contribution"
           body: "Automated update of GitHub Profile 3D Contribution."
           labels: "automation"
+          base: main
