@@ -107,9 +107,9 @@
 ![iOS](https://img.shields.io/badge/iOS-%23000000?style=flat-square&logo=apple&logoSize=auto)
 ![Anroid](https://img.shields.io/badge/Android-%2334A853?style=flat-square&logo=android&logoColor=white&logoSize=auto)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-%231BA0D7?style=flat-square&logo=cisco&logoSize=auto&labelColor=grey)
+![Prezi](https://img.shields.io/badge/Prezi-%233181FF?style=flat-square&logo=prezi&logoColor=white&logoSize=auto)
 ![VEED](https://img.shields.io/badge/VEED-%23B6FF60?style=flat-square&logo=veed&logoSize=auto&labelColor=black)
 ![YouTube Studio](https://img.shields.io/badge/YouTube%20Studio-%23FF0000?style=flat-square&logo=youtube%20studio&logoSize=auto)
-![Prezi](https://img.shields.io/badge/Prezi-%233181FF?style=flat-square&logo=prezi&logoColor=white&logoSize=auto)
 
 <hr/>
 
@@ -164,5 +164,5 @@
 </a>
 
 ### 🧊 3D Stats
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+[![3D Stats](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Ryo-samurai6340/github-profile-3d-contrib)
 <b>Note:</b> 3D Stats languages are only a metric of the languages used in my public repositories and are NOT reflected by my private and forked repositories.
