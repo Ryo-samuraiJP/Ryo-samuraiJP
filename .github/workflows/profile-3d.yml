@@ -24,6 +24,17 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git checkout -b update-profile-3d
           git add -A .
           git commit -m "generated"
-          git push
+          git push origin update-profile-3d
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
+        with:
+          token: ${{ secrets.PROFILE_3D_TOKEN }}
+          commit-message: "Update profile 3D contribution graph"
+          branch: update-profile-3d
+          title: "Update profile 3D contribution graph"
+          body: "Automated update of the profile 3D contribution graph."
+          labels: update
