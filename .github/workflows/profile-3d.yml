@@ -14,27 +14,30 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v3
 
-      - name: Gerate files in './profile-3d-contrib'
+      - name: Generate files in './profile-3d-contrib'
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           
-      - name: Commit & Push
+      - name: Commit changes
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git checkout -b update-profile-3d
+          git checkout -b update-profile-3d-contrib
           git add -A .
           git commit -m "generated"
-          git push origin update-profile-3d
+
+      - name: Push changes
+        run: |
+          git push --set-upstream origin update-profile-3d-contrib
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
           token: ${{ secrets.PROFILE_3D_TOKEN }}
-          commit-message: "Update profile 3D contribution graph"
-          branch: update-profile-3d
-          title: "Update profile 3D contribution graph"
-          body: "Automated update of the profile 3D contribution graph."
-          labels: update
+          branch: update-profile-3d-contrib
+          commit-message: "generated"
+          title: "Update GitHub Profile 3D Contribution"
+          body: "Automated update of GitHub Profile 3D Contribution."
+          labels: "automation"
