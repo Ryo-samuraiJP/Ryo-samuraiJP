@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - name: Clone repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate files in './profile-3d-contrib'
@@ -19,7 +19,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          
+
       - name: Commit changes
         run: |
           git config user.name github-actions
@@ -44,4 +44,4 @@ jobs:
           title: "Update GitHub Profile 3D Contribution"
           body: "Automated update of GitHub Profile 3D Contribution."
           labels: "automation"
-          base: main
+          base: main 
