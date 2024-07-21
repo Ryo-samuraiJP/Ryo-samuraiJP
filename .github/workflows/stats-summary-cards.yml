@@ -22,7 +22,7 @@ jobs:
         env: 
           GITHUB_TOKEN: ${{ secrets.SUMMARY_CARD_TOKEN }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          USERNAME: Ryo-samurai6340
           BRANCH_NAME: "main"
           # UTC_OFFSET is optional, default to zero
           UTC_OFFSET: -7
