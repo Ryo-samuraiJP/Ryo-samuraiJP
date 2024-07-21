@@ -49,6 +49,7 @@
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?style=for-the-badge&logo=cs2&logoColor=white&logoSize=auto)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-%23FF1493.svg?style=for-the-badge&logo=database&logoColor=white&logoSize=auto)
 ![XML](https://img.shields.io/badge/SVG%20%26%20XML-%23FFA500?style=for-the-badge&logo=svg&logoColor=white&logoSize=auto)
+![YAML](https://img.shields.io/badge/YAML-%23CB171E?style=for-the-badge&logo=yaml&logoSize=auto)
 
 ### 📚 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React.js-%2361DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&logoSize=auto&labelColor=grey)
