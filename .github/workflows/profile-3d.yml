@@ -14,23 +14,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set Git Config
-        run: |
-          git config --global user.name "Ryo-samurai6340"
-          git config --global user.email "onlytru6340@gmail.com"
-
       - name: Disable Branch Protection
         run: |
-          curl -X PUT \
+          curl -X DELETE \
             -H "Authorization: token ${{ secrets.ADMIN_TOKEN }}" \
             -H "Accept: application/vnd.github.v3+json" \
-            https://api.github.com/repos/${{ github.repository_owner }}/${{ github.event.repository.name }}/branches/main/protection \
-            -d '{
-              "required_status_checks": null,
-              "enforce_admins": false,
-              "required_pull_request_reviews": null,
-              "restrictions": null
-            }'
+            https://api.github.com/repos/${{ github.repository_owner }}/${{ github.event.repository.name }}/branches/main/protection
           echo "Branch protection disabled"
           sleep 10  # Wait for 10 seconds to ensure settings take effect
 
@@ -40,10 +29,13 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Commit & Push
+      - name: Set up Git config
         run: |
           git config user.name "Ryo-samurai6340"
           git config user.email "onlytru6340@gmail.com"
+
+      - name: Commit & Push
+        run: |
           git add -A .
           git commit -m "generated"
           git push
