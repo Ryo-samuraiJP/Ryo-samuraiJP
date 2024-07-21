@@ -14,6 +14,21 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v3
 
+      - name: Disable Branch Protection
+        run: |
+          curl -X PUT \
+            -H "Authorization: token ${{ secrets.ADMIN_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/${{ github.repository_owner }}/${{ github.event.repository.name }}/branches/main/protection \
+            -d '{
+              "required_status_checks":null,
+              "enforce_admins":false,
+              "required_pull_request_reviews":null,
+              "restrictions":null
+            }'
+          echo "Branch protection disabled"
+          sleep 10  # Wait for 10 seconds to ensure settings take effect
+
       - name: Gerate files in './profile-3d-contrib'
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -27,3 +42,21 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+
+      - name: Enable Branch Protection
+        run: |
+          curl -X PUT \
+            -H "Authorization: token ${{ secrets.ADMIN_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            https://api.github.com/repos/${{ github.repository_owner }}/${{ github.event.repository.name }}/branches/main/protection \
+            -d '{
+              "required_status_checks":null,
+              "enforce_admins":false,
+              "required_pull_request_reviews":{
+                "dismiss_stale_reviews":true,
+                "require_code_owner_reviews":false,
+                "required_approving_review_count":0
+              },
+              "restrictions":null
+            }'
+          echo "Branch protection enabled"
