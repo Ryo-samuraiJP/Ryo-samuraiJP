@@ -242,13 +242,13 @@
 
 ### 📈 Activity Graphs
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ryo-samurai6340&theme=react-dark" />
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ryo-samurai6340&theme=react-dark" />
 </a>
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+<a href="https://github.com/Ryo-samurai6340/github-profile-summary-cards">
   <img alt="GitHub Summary" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/react/0-profile-details.svg">
 <!--   <img alt="GitHub Commits" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/react/4-productive-time.svg"> -->
 </a>
 
 ### 🧊 3D Stats
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
-<b>Note:</b> Languages in 3D Stats are only a metric of the languages used in my public repositories and don't reflect my private and forked repositories.
+<b>Note:</b> 3D Stats languages are only a metric of the languages used in my public repositories and are NOT reflected by my private and forked repositories.
