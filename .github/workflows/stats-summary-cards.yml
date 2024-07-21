@@ -29,13 +29,4 @@ jobs:
           # EXCLUDE is an optional comma seperated list of languages to exclude, defaults to ""
           EXCLUDE: ""
           # AUTO_PUSH is optional, a boolean variable default to true, whether automatically push generated files to desired branch
-          AUTO_PUSH: false
-
-      - name: Commit and push to output branch
-        run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "GitHub Actions"
-          git checkout -b output
-          git add profile-summary-card-output
-          git commit -m "Update GitHub Stats Summary Cards"
-          git push --force origin output
+          AUTO_PUSH: true
