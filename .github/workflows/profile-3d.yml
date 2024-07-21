@@ -1,25 +1,22 @@
 name: GitHub Profile 3D Contrib
-
 on:
   schedule: 
     # Run at every 7am (UTC) = 0am (PDT)
     - cron: "0 7 * * *"
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - name: Checkout repository
+      - name: Clone repo
         uses: actions/checkout@v3
-
       - name: Generate files in './profile-3d-contrib'
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-
+          
       - name: Commit changes
         run: |
           git config user.name github-actions
@@ -27,14 +24,12 @@ jobs:
           git checkout -b update-profile-3d-contrib
           git add -A .
           git commit -m "generated"
-
       - name: Push changes
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
         run: |
-          git remote set-url origin https://${{ secrets.PROFILE_3D_TOKEN }}@github.com/${{ Ryo-samurai6340 }}/${{ Ryo-samurai6340 }}.git
+          git remote set-url origin https://${{ secrets.PROFILE_3D_TOKEN }}@github.com/${{ github.repository_owner }}/${{ github.repository }}.git
           git push --set-upstream origin update-profile-3d-contrib
-
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
@@ -44,4 +39,4 @@ jobs:
           title: "Update GitHub Profile 3D Contribution"
           body: "Automated update of GitHub Profile 3D Contribution."
           labels: "automation"
-          base: main 
+          base: main
