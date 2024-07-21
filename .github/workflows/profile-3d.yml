@@ -32,7 +32,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
         run: |
-          git remote set-url origin https://${{ secrets.PROFILE_3D_TOKEN }}@github.com/${{ github.repository_owner }}/${{ github.repository }}.git
+          git remote set-url origin https://${{ secrets.PROFILE_3D_TOKEN }}@github.com/${{ Ryo-samurai6340 }}/${{ Ryo-samurai6340 }}.git
           git push --set-upstream origin update-profile-3d-contrib
 
       - name: Create Pull Request
