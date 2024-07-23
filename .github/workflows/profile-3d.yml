@@ -26,7 +26,17 @@ jobs:
           git add -A .
           git commit -m "generated"
 
+      - name: Check if remote branch exists
+        id: check-branch
+        run: |
+          if git ls-remote --exit-code --heads origin update-profile-3d-contrib; then
+            echo "::set-output name=branch_exists::true"
+          else
+            echo "::set-output name=branch_exists::false"
+          fi
+
       - name: Pull changes from remote with rebase
+        if: steps.check-branch.outputs.branch_exists == 'true'
         run: |
           git pull origin update-profile-3d-contrib --rebase || git rebase --abort
 
