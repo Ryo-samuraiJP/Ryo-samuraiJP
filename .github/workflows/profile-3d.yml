@@ -28,9 +28,17 @@ jobs:
           git add -A .
           git commit -m "generated"
 
-      - name: Pull changes from remote
+      - name: Pull changes from remote with rebase
         run: |
-          git pull origin update-profile-3d-contrib --rebase
+          git pull origin update-profile-3d-contrib --rebase || git rebase --abort
+
+      - name: Resolve merge conflicts
+        if: failure()
+        run: |
+          git config merge.ours.driver true
+          git merge -s ours --no-commit
+          git add .
+          git rebase --continue
 
       - name: Push changes
         env:
