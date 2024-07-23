@@ -28,6 +28,10 @@ jobs:
           git add -A .
           git commit -m "generated"
 
+      - name: Pull changes from remote
+        run: |
+          git pull origin update-profile-3d-contrib --rebase
+
       - name: Push changes
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
