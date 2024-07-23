@@ -38,8 +38,8 @@ jobs:
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
-          token: ${{ secrets.AUTO_MERGE_TOKEN }} # Use custom token here
-          branch: auto-update
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
           commit-message: "generated"
           title: "Update GitHub Profile 3D Contribution"
           body: "Automated update of GitHub Profile 3D Contribution."
