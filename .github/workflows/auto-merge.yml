@@ -11,6 +11,6 @@ jobs:
       - name: Merge Pull Request
         uses: peter-evans/merge-pull-request@v4
         with:
-          token: ${{ secrets.AUTO_MERGE_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           pull-request: ${{ github.event.pull_request.number }}
-          merge-method: merge  # Options: merge, squash, rebase
+          merge-method: merge
