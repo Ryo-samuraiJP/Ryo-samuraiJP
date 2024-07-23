@@ -32,19 +32,11 @@ jobs:
         run: |
           git pull origin update-profile-3d-contrib --rebase || git rebase --abort
 
-      - name: Resolve merge conflicts
-        if: failure()
-        run: |
-          git config merge.ours.driver true
-          git merge -s ours --no-commit
-          git add .
-          git rebase --continue
-
-      - name: Push changes
+      - name: Push changes (force)
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
         run: |
-          git push --set-upstream origin update-profile-3d-contrib
+          git push --force --set-upstream origin update-profile-3d-contrib
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
