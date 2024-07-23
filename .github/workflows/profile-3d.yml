@@ -14,6 +14,14 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v3
 
+      - name: Checkout main branch
+        run: |
+          git checkout main
+
+      - name: Pull latest changes
+        run: |
+          git pull origin main
+
       - name: Generate files in './profile-3d-contrib'
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
@@ -24,25 +32,19 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git checkout -b update-profile-3d-contrib
           git add -A .
           git commit -m "generated"
 
-      - name: Pull changes from remote with rebase
-        run: |
-          git pull origin update-profile-3d-contrib --rebase || git rebase --abort
-
-      - name: Push changes (force)
+      - name: Push changes
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
         run: |
-          git push --force --set-upstream origin update-profile-3d-contrib
+          git push origin main
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
         with:
           token: ${{ secrets.PROFILE_3D_TOKEN }}
-          branch: update-profile-3d-contrib
           commit-message: "generated"
           title: "Update GitHub Profile 3D Contribution"
           body: "Automated update of GitHub Profile 3D Contribution."
