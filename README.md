@@ -147,7 +147,7 @@
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ryo-samurai6340&theme=holi-theme&date_format=j%20M%5B%20Y%5D&dates=local&timezone=America/Vancouver">
 </a>
 
-### 💻 Profile Stats
+### 📈 Profile Stats
 <!--
 <a href='https://github.com/Ryo-samurai6340/github-stats-transparent'>
   <img alt="Most Used Languages Card" src="https://raw.githubusercontent.com/ryo-samurai6340/github-stats-transparent/output/generated/languages.svg">
@@ -157,14 +157,8 @@
   <img alt="Most Used Languages" src="https://github-readme-stats-sigma-opal-34.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi&langs_count=20">
   <img alt="GitHub Stats" src="https://github-readme-stats-sigma-opal-34.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github&hide=stars,contribs">
 </a>
-
-### 📈 Activity Graphs
 <a href="https://github.com/Ryo-samurai6340/github-readme-activity-graph">
   <img alt="Contribution Graph" src="https://github-readme-activity-graph-tan.vercel.app/graph/?username=Ryo-samurai6340&theme=react-dark" />
-</a>
-<a href="https://github.com/Ryo-samurai6340/github-profile-summary-cards">
-  <img alt="GitHub Summary" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/react/0-profile-details.svg">
-<!--   <img alt="GitHub Commits" src="https://raw.githubusercontent.com/Ryo-samurai6340/Ryo-samurai6340/main/profile-summary-card-output/react/4-productive-time.svg"> -->
 </a>
 
 ### 🧊 3D Stats
