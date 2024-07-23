@@ -24,27 +24,17 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "generated" || echo "No changes to commit"
 
-      - name: Check if remote branch exists
-        id: check-branch
+      - name: Create or Checkout Branch
         run: |
-          if git ls-remote --exit-code --heads origin update-profile-3d-contrib; then
-            echo "::set-output name=branch_exists::true"
-          else
-            echo "::set-output name=branch_exists::false"
-          fi
+          git checkout -b update-profile-3d-contrib || git checkout update-profile-3d-contrib
 
-      - name: Pull changes from remote with rebase
-        if: steps.check-branch.outputs.branch_exists == 'true'
-        run: |
-          git pull origin update-profile-3d-contrib --rebase || git rebase --abort
-
-      - name: Push changes (force)
+      - name: Push changes
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
         run: |
-          git push --force --set-upstream origin update-profile-3d-contrib
+          git push --force origin update-profile-3d-contrib
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v4
