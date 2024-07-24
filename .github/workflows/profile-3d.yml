@@ -1,8 +1,7 @@
 name: GitHub Profile 3D Contrib
 
 on:
-  schedule:
-    # Run at every 7am (UTC) = 0am (PDT)
+  schedule: # 7:00am (UTC) == 0:00am (PDT)
     - cron: "0 7 * * *"
   workflow_dispatch:
 
@@ -11,50 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - name: Clone repo
-        uses: actions/checkout@v3
-
-      - name: Generate files in './profile-3d-contrib'
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v3
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-
-      - name: Commit changes
+      - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git checkout -b update-profile-3d-contrib
           git add -A .
           git commit -m "generated"
-
-      - name: Check if remote branch exists
-        id: check-branch
-        run: |
-          if git ls-remote --exit-code --heads origin update-profile-3d-contrib; then
-            echo "::set-output name=branch_exists::true"
-          else
-            echo "::set-output name=branch_exists::false"
-          fi
-
-      - name: Pull changes from remote with rebase
-        if: steps.check-branch.outputs.branch_exists == 'true'
-        run: |
-          git pull origin update-profile-3d-contrib --rebase || git rebase --abort
-
-      - name: Push changes (force)
-        env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
-        run: |
-          git push --force --set-upstream origin update-profile-3d-contrib
-
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v4
-        with:
-          token: ${{ secrets.PROFILE_3D_TOKEN }}
-          branch: update-profile-3d-contrib
-          commit-message: "generated"
-          title: "Update GitHub Profile 3D Contribution"
-          body: "Automated update of GitHub Profile 3D Contribution."
-          labels: "automation"
-          base: main
+          git push
