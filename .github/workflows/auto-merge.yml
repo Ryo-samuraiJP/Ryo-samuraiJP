@@ -1,16 +1,19 @@
-name: Auto Merge Pull Request
+name: Create Pull Request
 
 on:
-  pull_request:
-    types: [opened, synchronize]
+  push:
+    branches:
+      - auto-update-branch
 
 jobs:
-  auto-merge:
+  create-pull-request:
     runs-on: ubuntu-latest
     steps:
-      - name: Merge Pull Request
-        uses: peter-evans/merge-pull-request@v4
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
         with:
-          token: ${{ secrets.AUTO_MERGE_TOKEN }}
-          pull-request: ${{ github.event.pull_request.number }}
-          merge-method: merge  # Options: merge, squash, rebase
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: auto-update-branch
+          base: main
+          title: "Automated Update"
+          body: "Auto-generated update of the 3D stats graph"
