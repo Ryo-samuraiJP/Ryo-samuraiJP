@@ -1,4 +1,4 @@
-name: Create Pull Request
+name: Create and Auto-Merge Pull Request
 
 on:
   push:
@@ -9,7 +9,11 @@ jobs:
   create-pull-request:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
       - name: Create Pull Request
+        id: cpr
         uses: peter-evans/create-pull-request@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
@@ -17,3 +21,10 @@ jobs:
           base: main
           title: "Automated Update"
           body: "Auto-generated update of the 3D stats graph"
+
+      - name: Enable Auto-Merge
+        uses: peter-evans/enable-pull-request-automerge@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          pull-request-number: ${{ steps.cpr.outputs.pull-request-number }}
+          merge-method: squash
