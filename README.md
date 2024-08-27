@@ -4,7 +4,7 @@
 </a>
 
 <!-- SUB INTRO -->
-<h3 align="center">A passionate Front-End Developer, Software Engineer from Japan living in Canada🍁</h3>
+<h3 align="center">A passionate Software Developer, Software Engineer from Japan living in Canada🍁</h3>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter Batch" />
 </a>
