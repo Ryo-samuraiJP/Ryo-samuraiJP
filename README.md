@@ -51,16 +51,16 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoSize=auto)
 
 ### 📚 Frameworks & Libraries
-![React](https://img.shields.io/badge/React.js-20232a.svg?style=flat&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React.js-20232a.svg?style=flat&logo=react&logoColor=61DAFB&logoSize=auto)
 ![Swiper](https://img.shields.io/badge/Swiper.js-6332F6?style=flat&logo=Swiper&logoSize=auto)
 ![ScrollReveal](https://img.shields.io/badge/ScrollReveal.js-FFCB36?style=flat&logo=ScrollReveal&logoColor=black&logoSize=auto)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white&logoSize=auto)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white&logoSize=auto)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white&logoSize=auto)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white&logoSize=auto)
 ![Pillow](https://custom-icon-badges.demolab.com/badge/Pillow-F3F3F3?style=flat&logo=pillow&logoColor=white&logoSize=auto)
 
-#### ☁️ Database & Cloud Hosting
+### ☁️ Database & Cloud Hosting
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&logoSize=auto)
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white&logoSize=auto)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoSize=auto)
@@ -70,7 +70,7 @@
 ![Zeet](https://custom-icon-badges.demolab.com/badge/Zeet-grey?style=flat&logo=zeet&logoSize=auto)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=google%20drive&logoColor=white&logoSize=auto)
 
-#### 📐 Design Tools
+### 📐 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoSize=auto)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=001833&logoSize=auto)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white&logoSize=auto)
@@ -81,7 +81,7 @@
 ![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat&logo=google%20fonts&logoColor=white&logoSize=auto)
 ![Font Awesome](https://img.shields.io/badge/Font%20Awesome-538DD7?style=flat&logo=font%20awesome&logoColor=white&logoSize=auto)
 
-#### ⚙️ Others
+### ⚙️ Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&logoSize=auto)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white&logoSize=auto)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHub%20actions&logoColor=white&logoSize=auto)
@@ -142,14 +142,9 @@
 </a>
 
 ### 📈 Profile Stats
-<!--
-<a href='https://github.com/Ryo-samurai6340/github-stats-transparent'>
-  <img alt="Most Used Languages Card" src="https://raw.githubusercontent.com/ryo-samurai6340/github-stats-transparent/output/generated/languages.svg">
-</a>
--->
 <a href="https://github.com/Ryo-samurai6340/github-readme-stats?tab=readme-ov-file">
   <img alt="Most Used Languages" src="https://github-readme-stats-sigma-opal-34.vercel.app/api/top-langs/?username=Ryo-samurai6340&layout=compact&theme=holi&langs_count=20">
-  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-opal-34.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github&hide=stars,contribs">
+  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-opal-34.vercel.app/api?username=Ryo-samurai6340&show_icons=true&theme=holi&rank_icon=github&hide=contribs">
 </a>
 <a href="https://github.com/Ryo-samurai6340/github-readme-activity-graph">
   <img alt="Contribution Graph" src="https://github-readme-activity-graph-tan.vercel.app/graph/?username=Ryo-samurai6340&theme=react-dark" />
