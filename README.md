@@ -37,7 +37,7 @@
 
 <!-- TECK STACK -->
 ## 🖥️ Tech Stack
-### 🖱️ Programming & Markup Languages
+### 🖱️ Programming and Markup Languages
 ![JavaScript](https://img.shields.io/badge/Javascript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E&logoSize=auto)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFE873&logoSize=auto)
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-5382A1.svg?style=flat&logo=java&logoColor=F89820&logoSize=auto)
@@ -50,8 +50,10 @@
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoSize=auto)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoSize=auto)
 
-### 📚 Frameworks & Libraries
+### 📚 Frameworks, Libraries, and Tools
 ![React](https://img.shields.io/badge/React.js-20232a.svg?style=flat&logo=react&logoColor=61DAFB&logoSize=auto)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white&logoSize=auto)
+![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white&logoSize=auto)
 ![Swiper](https://img.shields.io/badge/Swiper.js-6332F6?style=flat&logo=Swiper&logoSize=auto)
 ![ScrollReveal](https://img.shields.io/badge/ScrollReveal.js-FFCB36?style=flat&logo=ScrollReveal&logoColor=black&logoSize=auto)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white&logoSize=auto)
@@ -60,7 +62,7 @@
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white&logoSize=auto)
 ![Pillow](https://custom-icon-badges.demolab.com/badge/Pillow-F3F3F3?style=flat&logo=pillow&logoColor=white&logoSize=auto)
 
-### ☁️ Database & Cloud Hosting
+### ☁️ Databases & Cloud Hosting
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&logoSize=auto)
 ![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white&logoSize=auto)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoSize=auto)
