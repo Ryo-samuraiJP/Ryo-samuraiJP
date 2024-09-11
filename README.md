@@ -16,13 +16,15 @@
 - 🆙 Eager to improve my **Full-Stack Development Skills** to work at [Driveline Baseball Enterprises, Inc](https://www.drivelinebaseball.com/) in the future (**my future goal!**)
 - 💬 Ask me about **Software Development/Engineering** and **Network Design**
 - 📫 Reach me out via [r.homma.inbox@gmail.com](mailto:r.homma.inbox@gmail.com)
-- 🌐 Check out my **[Portfolio](https://ryoichihomma.me/)**
+- 🌐 Check out my [Portfolio](https://ryoichihomma.me/)
 
 ### 🔗 Connect with me
 <code>[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryoichihomma-jp-ca/)</code>
 <code>[![DEV](https://skillicons.dev/icons?i=devto)](https://dev.to/ryoichihomma)</code>
+<code>[![YouTube](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/channel/UC7f92Y8DjOY1r8gL0Blt0gQ)</code>
 <code>[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1233363421207199827/)</code>
 <code>[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:r.homma.inbox@gmail.com)</code>
+<code>[![Portfolio](https://go-skill-icons.vercel.app/api/icons?i=portfolio)](https://www.ryoichihomma.me)</code>
 
 <!--
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryoichihomma-jp-ca/)
@@ -37,7 +39,7 @@
 
 <!-- TECK STACK -->
 ## 🖥️ Tech Stack
-### 🖱️ Programming and Markup Languages
+### 💻 Programming and Markup Languages
 ![JavaScript](https://img.shields.io/badge/Javascript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E&logoSize=auto)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFE873&logoSize=auto)
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-5382A1.svg?style=flat&logo=java&logoColor=F89820&logoSize=auto)
@@ -52,8 +54,10 @@
 
 ### 📚 Frameworks, Libraries, and Tools
 ![React](https://img.shields.io/badge/React.js-20232a.svg?style=flat&logo=react&logoColor=61DAFB&logoSize=auto)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white&logoSize=auto)
+![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?style=flat&logo=express&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white&logoSize=auto)
+![EmailJS](https://custom-icon-badges.demolab.com/badge/EmailJS-ff8434?style=flat&logo=emailjs&logoSize=auto&labelColor=F3F3F3)
 ![Swiper](https://img.shields.io/badge/Swiper.js-6332F6?style=flat&logo=Swiper&logoSize=auto)
 ![ScrollReveal](https://img.shields.io/badge/ScrollReveal.js-FFCB36?style=flat&logo=ScrollReveal&logoColor=black&logoSize=auto)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white&logoSize=auto)
@@ -63,25 +67,24 @@
 ![Pillow](https://custom-icon-badges.demolab.com/badge/Pillow-F3F3F3?style=flat&logo=pillow&logoColor=white&logoSize=auto)
 
 ### ☁️ Databases & Cloud Hosting
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&logoSize=auto)
-![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white&logoSize=auto)
+![Oracle SQL](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white&logoSize=auto)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoSize=auto)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=00C7B7&logoSize=auto&labelColor=grey)
 ![Render](https://img.shields.io/badge/Render-F3F3F3?style=flat&logo=render&logoColor=black&logoSize=auto)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoSize=auto)
-![Zeet](https://custom-icon-badges.demolab.com/badge/Zeet-grey?style=flat&logo=zeet&logoSize=auto)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=flat&logo=google%20drive&logoColor=white&logoSize=auto)
 
 ### 📐 Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoSize=auto)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=001833&logoSize=auto)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white&logoSize=auto)
 ![Photopea](https://img.shields.io/badge/Photopea-18A497?style=flat&logo=photopea&logoColor=white&logoSize=auto)
+![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat&logo=google%20fonts&logoColor=white&logoSize=auto)
 ![diagrams.net](https://img.shields.io/badge/diagrams.net-F08705?style=flat&logo=diagrams.net&logoColor=white&logoSize=auto)
 ![Lucidchart](https://custom-icon-badges.demolab.com/badge/Lucidchart-f96b13?style=flat&logo=lucidchart&logoSize=auto&labelColor=F3F3F3)
 ![ArgoUML](https://custom-icon-badges.demolab.com/badge/ArgoUML-8DAED3?style=flat&logo=argo-uml&logoSize=auto)
-![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat&logo=google%20fonts&logoColor=white&logoSize=auto)
-![Font Awesome](https://img.shields.io/badge/Font%20Awesome-538DD7?style=flat&logo=font%20awesome&logoColor=white&logoSize=auto)
+
 
 ### ⚙️ Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&logoSize=auto)
@@ -105,9 +108,7 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoSize=auto)
 ![Anroid](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white&logoSize=auto)
 ![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=flat&logo=docker&logoColor=white&logoSize=auto)
-![EmailJS](https://custom-icon-badges.demolab.com/badge/EmailJS-ff8434?style=flat&logo=emailjs&logoSize=auto&labelColor=F3F3F3)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoSize=auto&labelColor=grey)
-![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=flat&logo=prezi&logoColor=white&logoSize=auto)
 ![VEED](https://img.shields.io/badge/VEED-B6FF60?style=flat&logo=veed&logoSize=auto&labelColor=black)
 ![YouTube Studio](https://img.shields.io/badge/YouTube%20Studio-FF0000?style=flat&logo=youtube%20studio&logoSize=auto)
 
