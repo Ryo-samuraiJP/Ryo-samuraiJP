@@ -15,18 +15,55 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+
+      - name: Install Python dependencies
+        run: |
+          sudo apt-get install python3-pip
+          pip3 install PyJWT requests
+
+      - name: Generate GitHub App Token
+        id: generate_token
+        run: |
+          python3 <<EOF
+          import jwt, time, requests
+          from os import environ
+
+          app_id = "997250"
+          private_key = environ['APP_PRIVATE_KEY']
+
+          # Generate the JWT (https://docs.github.com/en/rest/apps/apps?apiVersion=2022-11-28#create-a-jwt-for-an-app)
+          payload = {
+              "iat": int(time.time()),
+              "exp": int(time.time()) + (10 * 60),  # JWT expiration time (10 minutes maximum)
+              "iss": app_id
+          }
+
+          # Create the JWT token
+          encoded_jwt = jwt.encode(payload, private_key, algorithm="RS256")
+
+          # Get the app's installation ID
+          headers = {"Authorization": f"Bearer {encoded_jwt}", "Accept": "application/vnd.github+json"}
+          url = "https://api.github.com/app/installations"
+          response = requests.get(url, headers=headers)
+          installation_id = response.json()[0]['id']
+
+          # Generate an installation access token
+          token_url = f"https://api.github.com/app/installations/{installation_id}/access_tokens"
+          token_response = requests.post(token_url, headers=headers)
+          token = token_response.json()['token']
+
+          print(f"::set-output name=token::{token}")
+          EOF
         env:
-          GITHUB_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          APP_PRIVATE_KEY: ${{ secrets.APP_PRIVATE_KEY }}
 
       - name: Commit & Push
         env:
-          PAT_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
+          GITHUB_APP_TOKEN: ${{ steps.generate_token.outputs.token }}
         run: |
           git config user.name github-actions
           git config user.email github-actions[bot]@users.noreply.github.com
           git add -A .
           if git commit -m "generated"; then
-            git push https://x-access-token:${{ secrets.PROFILE_3D_TOKEN }}@github.com/${{ github.repository_owner }}/$(basename $GITHUB_REPOSITORY) HEAD:main
+            git push https://x-access-token:${{ steps.generate_token.outputs.token }}@github.com/${{ github.repository_owner }}/$(basename $GITHUB_REPOSITORY) HEAD:main
           fi
