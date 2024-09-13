@@ -19,11 +19,14 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+
       - name: Commit & Push
+        env:
+          PAT_TOKEN: ${{ secrets.PROFILE_3D_TOKEN }}
         run: |
           git config user.name github-actions
           git config user.email github-actions[bot]@users.noreply.github.com
           git add -A .
           if git commit -m "generated"; then
-            git push
+            git push https://x-access-token:${{ secrets.PROFILE_3D_TOKEN }}@github.com/${{ github.repository_owner }}/$(basename $GITHUB_REPOSITORY) HEAD:main
           fi
