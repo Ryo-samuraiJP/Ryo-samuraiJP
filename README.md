@@ -4,18 +4,19 @@
 </a>
 
 <!-- SUB INTRO -->
-<h3 align="center">A passionate Software Developer, Software Engineer from Japan living in Canada🍁</h3>
+<h3 align="center">Full-stack software developer/engineer specializing in the MERN stack with an LLM evaluator background</h3>
+<!-- <h3 align="center">A passionate Full-Stack Software Developer/Engineer from Japan living in Canada🍁</h3> -->
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Ryo-samurai6340&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter Batch" />
 </a>
-<br/><br/>
+<br/>
 
-- 🎓 A most recent **Computer Science Graduate** from Thompson Rivers University in BC, Canada
-- 💼 Actively looking for **Software Developer, Software Engineer roles** in full-time (**AVAILABLE IMMEDIATELY!**)
-- 🌱 Continuous learner with modern technologies every day
-- 🆙 Eager to improve my **Full-Stack Development Skills** to work at [Driveline Baseball Enterprises, Inc](https://www.drivelinebaseball.com/) in the future (**my future goal!**)
-- 💬 Ask me about **Software Development/Engineering** and **Network Design**
-- 📫 Reach me out via [r.homma.inbox@gmail.com](mailto:r.homma.inbox@gmail.com)
+- 🎓 A most recent Computer Science Graduate from Thompson Rivers University in BC, Canada🍁
+- 💼 Actively looking for **Software Developer/Engineer roles** in full-time ⚠️ _**AVAILABLE IMMEDIATELY!**_ ⚠️
+- 🌱 Continuously learning modern technologies every day, especially **MERN stack**
+- 🆙 Eager to improve my **full-stack development skills** to work at [Driveline Baseball Enterprises, Inc](https://www.drivelinebaseball.com/) in the future
+- 💬 Ask me about **software development/engineering** and **network design**
 - 🌐 Check out my [Portfolio](https://ryoichihomma.me/)
 
 ### 🔗 Connect with me
@@ -39,7 +40,7 @@
 
 <!-- TECK STACK -->
 ## 🖥️ Tech Stack
-### 💻 Programming and Markup Languages
+### 💻 Programming & Markup Languages
 ![JavaScript](https://img.shields.io/badge/Javascript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E&logoSize=auto)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFE873&logoSize=auto)
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-5382A1.svg?style=flat&logo=java&logoColor=F89820&logoSize=auto)
@@ -52,8 +53,8 @@
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoSize=auto)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoSize=auto)
 
-### 📚 Frameworks, Libraries, and Tools
-![React](https://img.shields.io/badge/React.js-20232a.svg?style=flat&logo=react&logoColor=61DAFB&logoSize=auto)
+### 📚 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB&logoSize=auto)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?style=flat&logo=express&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white&logoSize=auto)
@@ -75,7 +76,7 @@
 ![Render](https://img.shields.io/badge/Render-F3F3F3?style=flat&logo=render&logoColor=black&logoSize=auto)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoSize=auto)
 
-### 📐 Design Tools
+### 📐 Design & Diagramming Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoSize=auto)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=001833&logoSize=auto)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white&logoSize=auto)
@@ -86,29 +87,23 @@
 ![ArgoUML](https://custom-icon-badges.demolab.com/badge/ArgoUML-8DAED3?style=flat&logo=argo-uml&logoSize=auto)
 
 
-### ⚙️ Others
+### ⚙️ Other Software & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&logoSize=auto)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white&logoSize=auto)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHub%20actions&logoColor=white&logoSize=auto)
 ![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=flat&logo=GitHub&logoColor=white&logoSize=auto)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github%20copilot&logoColor=white&logoSize=auto)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&logoSize=auto)
+![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=flat&logo=docker&logoColor=white&logoSize=auto)
+![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-grey?style=flat&logo=cursor-ai&logoSize=auto)
+![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078D4?style=flat&logo=vs-code&logoSize=auto&labelColor=F3F3F3)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white&logoSize=auto)
+![SQL Developer](https://custom-icon-badges.demolab.com/badge/SQL%20Developer-BAD0EF.svg?style=flat&logo=sql-developer&logoSize=auto&labelColor=F3F3F3)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoSize=auto&labelColor=grey)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white&logoSize=auto)
 ![Claude](https://custom-icon-badges.demolab.com/badge/Claude-f3e9d7?style=flat&logo=claude&logoSize=auto)
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white&logoSize=auto)
 ![MS Copilot](https://custom-icon-badges.demolab.com/badge/Microsoft%20Copilot-F3F3F3?style=flat&logo=microsoft-copilot&logoSize=auto)
-![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-grey?style=flat&logo=cursor-ai&logoSize=auto)
-![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078D4?style=flat&logo=vs-code&logoSize=auto&labelColor=F3F3F3)
-![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoSize=auto&labelColor=F3F3F3)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white&logoSize=auto)
-![SQL Developer](https://custom-icon-badges.demolab.com/badge/SQL%20Developer-BAD0EF.svg?style=flat&logo=sql-developer&logoSize=auto&labelColor=F3F3F3)
-![PyCharm](https://img.shields.io/badge/PyCharm-143?style=flat&logo=pycharm&logoColor=black&logoSize=auto&labelColor=green&color=black)
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=flat&logo=windows&logoSize=auto&labelColor=F3F3F3)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&logoSize=auto)
-![macOS](https://custom-icon-badges.demolab.com/badge/macOS-000000?style=flat&logo=mac-os&logoSize=auto)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoSize=auto)
-![Anroid](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white&logoSize=auto)
-![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=flat&logo=docker&logoColor=white&logoSize=auto)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoSize=auto&labelColor=grey)
 ![VEED](https://img.shields.io/badge/VEED-B6FF60?style=flat&logo=veed&logoSize=auto&labelColor=black)
 ![YouTube Studio](https://img.shields.io/badge/YouTube%20Studio-FF0000?style=flat&logo=youtube%20studio&logoSize=auto)
 
@@ -155,4 +150,4 @@
 
 ### 🧊 3D Stats
 [![3D Stats](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Ryo-samurai6340/github-profile-3d-contrib)
-<b>Note:</b> 3D Stats languages are only a metric of the languages used in my public repositories and are NOT reflected by my private and forked repositories.
+<b>Note:</b> 3D Stats languages are only metric of the languages based on thier commit volume.
