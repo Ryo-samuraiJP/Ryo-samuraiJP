@@ -21,7 +21,7 @@
 
 ### 🔗 Connect with me
 
-<code>[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryoichihomma-jp-ca/)</code>
+<code>[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryoichihomma/)</code>
 <code>[![DEV](https://skillicons.dev/icons?i=devto)](https://dev.to/ryoichihomma)</code>
 <code>[![YouTube](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/channel/UC7f92Y8DjOY1r8gL0Blt0gQ)</code>
 <code>[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1233363421207199827/)</code>
@@ -29,7 +29,7 @@
 <code>[![Portfolio](https://go-skill-icons.vercel.app/api/icons?i=portfolio)](https://www.ryoichihomma.me)</code>
 
 <!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryoichihomma-jp-ca/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryoichihomma/)
 [![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ryoichihomma)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rh.project_gallery)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1233363421207199827/)
@@ -162,7 +162,7 @@
   <img alt="GitHub Stats" src="https://github-readme-stats-sigma-opal-34.vercel.app/api?username=Ryo-samuraiJP&show_icons=true&theme=holi&rank_icon=github&hide=contribs">
 </a>
 <a href="https://github.com/Ryo-samuraiJP/github-readme-activity-graph">
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph-tan.vercel.app/graph/?username=Ryo-samuraiJP&theme=react-dark" />
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph-v46a.vercel.app/graph/?username=Ryo-samuraiJP&theme=react-dark" />
 </a>
 
 ### 🧊 3D Stats
