@@ -1,12 +1,12 @@
 <!-- INTRO -->
 <a href="https://github.com/Ryo-samuraiJP/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=750&center=true&vCenter=true&width=1000&height=70&lines=Hi+there!+I+am+Ryoichi+Homma%E2%9A%BE;Your+future+favorite+Software+Developer;as+well+as+Software+Engineer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=35&duration=1500&pause=750&center=true&vCenter=true&width=1000&height=50&lines=Hi+there!+I+am+Ryoichi+Homma%E2%9A%BE;Your+future+favorite...;Full-Stack+Software+Developer/Engineer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <!-- SUB INTRO -->
-<h3 align="center">Full-stack software developer/engineer specializing in the MERN stack with an LLM evaluator background</h3>
-<!-- <h3 align="center">A passionate Full-Stack Software Developer/Engineer from Japan living in Canada🍁</h3> -->
-
+<h3 align="center">
+  Full-stack software developer/engineer specializing in the MERN stack with an LLM evaluator background
+</h3>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Ryo-samuraiJP&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter Batch" />
 </a>
@@ -146,17 +146,14 @@
 <hr/>
 
 <!-- STATS -->
-
 ## 📊 GitHub Stats
 
 ### 🔥 Streak Stats
-
 <a href="https://git.io/streak-stats">
   <img alt="GitHub Streak" src="https://github-streak-stats-three.vercel.app/?user=Ryo-samuraiJP&theme=holi-theme">
 </a>
 
 ### 📈 Profile Stats
-
 <a href="https://github.com/Ryo-samuraiJP/github-readme-stats?tab=readme-ov-file">
   <img alt="Most Used Languages" src="https://github-readme-stats-xz6a.vercel.app/api/top-langs/?username=Ryo-samuraiJP&layout=compact&theme=holi&langs_count=20">
   <img alt="GitHub Stats" src="https://github-readme-stats-xz6a.vercel.app/api?username=Ryo-samuraiJP&show_icons=true&theme=holi&rank_icon=github&hide=contribs">
@@ -166,6 +163,5 @@
 </a>
 
 ### 🧊 3D Stats
-
 [![3D Stats](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Ryo-samuraiJP/github-profile-3d-contrib)
 <b>Note:</b> 3D Stats languages are only metric of the languages based on thier commit volume.
