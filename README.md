@@ -152,14 +152,14 @@
 ### 🔥 Streak Stats
 
 <a href="https://git.io/streak-stats">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Ryo-samuraiJP&theme=holi-theme&date_format=j%20M%5B%20Y%5D&dates=local&timezone=America/Vancouver">
+  <img alt="GitHub Streak" src="https://github-streak-stats-three.vercel.app/?user=Ryo-samuraiJP&theme=holi-theme">
 </a>
 
 ### 📈 Profile Stats
 
 <a href="https://github.com/Ryo-samuraiJP/github-readme-stats?tab=readme-ov-file">
-  <img alt="Most Used Languages" src="https://github-readme-stats-sigma-opal-34.vercel.app/api/top-langs/?username=Ryo-samuraiJP&layout=compact&theme=holi&langs_count=20">
-  <img alt="GitHub Stats" src="https://github-readme-stats-sigma-opal-34.vercel.app/api?username=Ryo-samuraiJP&show_icons=true&theme=holi&rank_icon=github&hide=contribs">
+  <img alt="Most Used Languages" src="https://github-readme-stats-xz6a.vercel.app/api/top-langs/?username=Ryo-samuraiJP&layout=compact&theme=holi&langs_count=20">
+  <img alt="GitHub Stats" src="https://github-readme-stats-xz6a.vercel.app/api?username=Ryo-samuraiJP&show_icons=true&theme=holi&rank_icon=github&hide=contribs">
 </a>
 <a href="https://github.com/Ryo-samuraiJP/github-readme-activity-graph">
   <img alt="Contribution Graph" src="https://github-readme-activity-graph-v46a.vercel.app/graph/?username=Ryo-samuraiJP&theme=react-dark" />
