@@ -1,26 +1,21 @@
 <!-- INTRO -->
 <a href="https://github.com/Ryo-samuraiJP/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=35&duration=1500&pause=750&center=true&vCenter=true&width=1000&height=50&lines=Hi+there!+I+am+Ryoichi+Homma%E2%9A%BE;Your+future+favorite...;Full-Stack+Software+Developer/Engineer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=1500&pause=750&center=true&vCenter=true&width=1000&height=70&lines=Hi+there!+I+am+Ryoichi+Homma%E2%9A%BE;Your+future+favorite...;Full-Stack+Software+Developer/Engineer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </a>
-
-<!-- SUB INTRO -->
-<h3 align="center">
-  Full-stack software developer/engineer specializing in the MERN stack with an LLM evaluator background
-</h3>
+<br/><br/>
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Ryo-samuraiJP&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter Batch" />
 </a>
-<br/>
 
-- 🎓 A most recent Computer Science Graduate from Thompson Rivers University in BC, Canada🍁
-- 💼 Actively looking for **Software Developer/Engineer roles** in full-time ⚠️ _**AVAILABLE IMMEDIATELY!**_ ⚠️
-- 🌱 Continuously learning modern technologies every day, especially **MERN stack**
-- 🆙 Eager to improve my **full-stack development skills** to work at [Driveline Baseball Enterprises, Inc](https://www.drivelinebaseball.com/) in the future
+- 👨🏻‍💻 **Full-Stack Software Developer/Engineer** specializing in the **MERN stack** with a **background as an LLM evaluator**
+- 💼 **Actively looking for software developer/engineer roles** in full-time ⚠️ _**AVAILABLE IMMEDIATELY!**_ ⚠️
 - 💬 Ask me about **software development/engineering** and **network design**
+- 🎓 A most recent Computer Science graduate from Thompson Rivers University in BC, Canada🍁
+- 🌱 Continuously learning modern technologies every day
+- 💻 Eager to improve my full-stack development skills to work at [Driveline Baseball Enterprises, Inc](https://www.drivelinebaseball.com/) in the future!
 - 🌐 Check out my [Portfolio](https://ryoichihomma.me/)
 
 ### 🔗 Connect with me
-
 <code>[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryoichihomma/)</code>
 <code>[![DEV](https://skillicons.dev/icons?i=devto)](https://dev.to/ryoichihomma)</code>
 <code>[![YouTube](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/channel/UC7f92Y8DjOY1r8gL0Blt0gQ)</code>
@@ -40,11 +35,8 @@
 <hr/>
 
 <!-- TECK STACK -->
-
 ## 🖥️ Tech Stack
-
-### 💻 Programming & Markup Languages
-
+### ⌨️ Programming & Markup Languages
 ![JavaScript](https://img.shields.io/badge/Javascript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E&logoSize=auto)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFE873&logoSize=auto)
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-5382A1.svg?style=flat&logo=java&logoColor=F89820&logoSize=auto)
@@ -58,7 +50,6 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoSize=auto)
 
 ### 📚 Frameworks & Libraries
-
 ![React](https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB&logoSize=auto)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?style=flat&logo=express&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
@@ -73,7 +64,6 @@
 ![Pillow](https://custom-icon-badges.demolab.com/badge/Pillow-F3F3F3?style=flat&logo=pillow&logoColor=white&logoSize=auto)
 
 ### ☁️ Databases & Cloud Hosting
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white&logoSize=auto)
 ![Oracle SQL](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white&logoSize=auto)
@@ -83,7 +73,6 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoSize=auto)
 
 ### 📐 Design & Diagramming Tools
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoSize=auto)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=001833&logoSize=auto)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white&logoSize=auto)
@@ -94,7 +83,6 @@
 ![ArgoUML](https://custom-icon-badges.demolab.com/badge/ArgoUML-8DAED3?style=flat&logo=argo-uml&logoSize=auto)
 
 ### ⚙️ Other Software & Tools
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&logoSize=auto)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white&logoSize=auto)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHub%20actions&logoColor=white&logoSize=auto)
@@ -117,15 +105,12 @@
 <hr/>
 
 <!-- PROJECT -->
-
 ## 🏛️ Project Gallery ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=plastic&logo=youtube&logoSize=amd) ![Prezi](https://img.shields.io/badge/Prezi-%233181FF?style=plastic&logo=prezi&logoColor=white&logoSize=auto)
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
 [![Demo - AI Visual Doppelganger (AI image replicator web tool)](https://ytcards.demolab.com/?id=VT6eddrVVOA&title=Demo+-+AI+Visual+Doppelganger+%28AI+image+replicator+web+tool%29&lang=en&timestamp=1715155400&background_color=%23c9d9f2&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=200 "Demo - AI Visual Doppelganger (AI image replicator web tool)")](https://www.youtube.com/watch?v=VT6eddrVVOA#gh-dark-mode-only)[![Demo - AI Visual Doppelganger (AI image replicator web tool)](https://ytcards.demolab.com/?id=VT6eddrVVOA&title=Demo+-+AI+Visual+Doppelganger+%28AI+image+replicator+web+tool%29&lang=en&timestamp=1715155400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=200 "Demo - AI Visual Doppelganger (AI image replicator web tool)")](https://www.youtube.com/watch?v=VT6eddrVVOA#gh-light-mode-only)
 [![Demo - PlateMate (food delivery Android app)](https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+%28food+delivery+Android+app%29&lang=en&timestamp=1715155396&background_color=%23c9d9f2&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=244 "Demo - PlateMate (food delivery Android app)")](https://www.youtube.com/watch?v=N_yUfrnbgWI#gh-dark-mode-only)[![Demo - PlateMate (food delivery Android app)](https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+%28food+delivery+Android+app%29&lang=en&timestamp=1715155396&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=244 "Demo - PlateMate (food delivery Android app)")](https://www.youtube.com/watch?v=N_yUfrnbgWI#gh-light-mode-only)
 [![Demo - Campus Network Simulator (network infrastructure design)](https://ytcards.demolab.com/?id=ayVUSVRPLqE&title=Demo+-+Campus+Network+Simulator+%28network+infrastructure+design%29&lang=en&timestamp=1715155393&background_color=%23c9d9f2&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=403 "Demo - Campus Network Simulator (network infrastructure design)")](https://www.youtube.com/watch?v=ayVUSVRPLqE#gh-dark-mode-only)[![Demo - Campus Network Simulator (network infrastructure design)](https://ytcards.demolab.com/?id=ayVUSVRPLqE&title=Demo+-+Campus+Network+Simulator+%28network+infrastructure+design%29&lang=en&timestamp=1715155393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=403 "Demo - Campus Network Simulator (network infrastructure design)")](https://www.youtube.com/watch?v=ayVUSVRPLqE#gh-light-mode-only)
-
 <!-- END YOUTUBE-CARDS -->
 <a href="https://prezi.com/view/kiFUg0jNey3zD5mN1ctl/">
   <img src="https://github.com/Ryo-samuraiJP/Ryo-samuraiJP/blob/main/img/PlateMateArchitecture.png" alt="PlateMate Architecture" width="350" height="200">
@@ -134,9 +119,7 @@
 <hr/>
 
 <!-- CONTRIBUTIONS -->
-
 ## 🐍 Contributions
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryo-samuraiJP/Ryo-samuraiJP/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryo-samuraiJP/Ryo-samuraiJP/output/github-contribution-grid-snake.gif">
@@ -147,7 +130,6 @@
 
 <!-- STATS -->
 ## 📊 GitHub Stats
-
 ### 🔥 Streak Stats
 <a href="https://git.io/streak-stats">
   <img alt="GitHub Streak" src="https://github-streak-stats-three.vercel.app/?user=Ryo-samuraiJP&theme=holi-theme">
