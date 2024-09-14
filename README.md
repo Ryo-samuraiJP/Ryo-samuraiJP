@@ -1,8 +1,8 @@
 <!-- INTRO -->
 <a href="https://github.com/Ryo-samuraiJP/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=1500&pause=750&center=true&vCenter=true&width=1000&height=70&lines=Hi+there!+I+am+Ryoichi+Homma%E2%9A%BE;Your+future+favorite...;Full-Stack+Software+Developer/Engineer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=1500&pause=750&center=true&vCenter=true&width=900&height=100&lines=Hi+there!+I+am+Ryoichi+Homma%E2%9A%BE;Your+future+favorite...;Full-Stack+Software+Developer/Engineer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </a>
-<br/><br/>
+
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Ryo-samuraiJP&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter Batch" />
 </a>
