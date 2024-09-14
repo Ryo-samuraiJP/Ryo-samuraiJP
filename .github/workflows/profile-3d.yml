@@ -5,10 +5,6 @@ on:
     - cron: "0 7 * * *"
   workflow_dispatch:
 
-  push:
-    branches:
-      - main
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -27,6 +23,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions[bot]@users.noreply.github.com
           git add -A .
-          if git commit -m "generated"; then
-            git push https://x-access-token:${{ secrets.PROFILE_3D_TOKEN }}@github.com/${{ github.repository_owner }}/$(basename $GITHUB_REPOSITORY) HEAD:main
-          fi
+          git commit -m "generated";
+          git push https://x-access-token:${{ secrets.PROFILE_3D_TOKEN }}@github.com/${{ github.repository_owner }}/$(basename $GITHUB_REPOSITORY) HEAD:main
