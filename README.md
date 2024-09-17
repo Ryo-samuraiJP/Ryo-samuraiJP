@@ -7,11 +7,11 @@
   <img src="https://visitcount.itsvg.in/api?id=Ryo-samuraiJP&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter Batch" />
 </a>
 
-- 👨🏻‍💻 **Full-Stack Software Developer/Engineer** specializing in the **MERN stack** with a **background as an LLM evaluator**
+- 👨🏻‍💻 **Full-Stack Software Developer/Engineer** specializing in the **MERN stack** with an **AI Evaluator background**
 - 💼 **Actively looking for software developer/engineer roles** in full-time ⚠️ _**AVAILABLE IMMEDIATELY!**_ ⚠️
 - 💬 Ask me about **software development/engineering** and **network design**
 - 🎓 A most recent Computer Science graduate from Thompson Rivers University in BC, Canada🍁
-- 🌱 Continuously learning modern technologies every day
+- 🌱 Never stop learning modern technologies every day
 - 💻 Eager to improve my full-stack development skills to work at [Driveline Baseball Enterprises, Inc](https://www.drivelinebaseball.com/) in the future!
 - 🌐 Check out my [Portfolio](https://ryoichihomma.me/)
 
