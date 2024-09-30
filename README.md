@@ -24,11 +24,11 @@
 <code>[![Portfolio](https://go-skill-icons.vercel.app/api/icons?i=portfolio)](https://www.ryoichihomma.me)</code>
 
 <!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryoichihomma/)
-[![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ryoichihomma)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rh.project_gallery)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1233363421207199827/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.homma.inbox@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryoichihomma/)
+[![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/ryoichihomma)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@rh.project_gallery)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1233363421207199827/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:r.homma.inbox@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://ryoichihomma.me/)
 -->
 
@@ -43,14 +43,15 @@
 ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=flat&logo=c-in-hexagon&logoColor=white&logoSize=auto)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?style=flat&logo=cs2&logoColor=white&logoSize=auto)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-FF1493.svg?style=flat&logo=database&logoColor=white&logoSize=auto)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white&logoSize=auto)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white&logoSize=auto)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white&logoSize=auto)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white&logoSize=auto)
 ![XML](https://img.shields.io/badge/SVG%20%26%20XML-FFA500?style=flat&logo=svg&logoColor=white&logoSize=auto)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoSize=auto)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoSize=auto)
 
 ### 📚 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB&logoSize=auto)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E&logoSize=auto)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?style=flat&logo=express&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white&logoSize=auto)
