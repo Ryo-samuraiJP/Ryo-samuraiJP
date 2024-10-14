@@ -13,24 +13,24 @@
 - 🎓 A most recent Computer Science graduate from Thompson Rivers University in BC, Canada🍁
 - 🌱 Never stop learning modern technologies every day
 - 💻 Eager to improve my full-stack development skills to work at [Driveline Baseball Enterprises, Inc](https://www.drivelinebaseball.com/) in the future!
-- 🌐 Check out my [Portfolio](https://ryoichihomma.me/) and [Resume](https://drive.google.com/file/d/1wizgvyY7ORhtismc_3ec6tZ-MDwjs2NC/view?usp=sharing)
+<!-- - 🌐 Check out my [Portfolio](https://ryoichihomma.me/) and [Resume](https://drive.google.com/file/d/1wizgvyY7ORhtismc_3ec6tZ-MDwjs2NC/view?usp=sharing)// -->
 
 ### 🔗 Connect with me
+<!--
 <code>[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryoichihomma/)</code>
 <code>[![DEV](https://skillicons.dev/icons?i=devto)](https://dev.to/ryoichihomma)</code>
 <code>[![YouTube](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/channel/UC7f92Y8DjOY1r8gL0Blt0gQ)</code>
 <code>[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1233363421207199827/)</code>
 <code>[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:r.homma.inbox@gmail.com)</code>
 <code>[![Portfolio](https://go-skill-icons.vercel.app/api/icons?i=portfolio)](https://www.ryoichihomma.me)</code>
-
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryoichihomma/)
-[![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)](https://dev.to/ryoichihomma)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@rh.project_gallery)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1233363421207199827/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:r.homma.inbox@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://ryoichihomma.me/)
 -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryoichihomma/)
+[![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ryoichihomma)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rh.project_gallery)
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-255E63?style=for-the-badge&logo=globe&logoColor=white)](https://ryoichihomma.me/)
+[![Resume](https://custom-icon-badges.demolab.com/badge/Download_Resume-pink?style=for-the-badge&logo=download&logoColor=333)](https://drive.google.com/file/d/1wizgvyY7ORhtismc_3ec6tZ-MDwjs2NC/view?usp=sharing)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1233363421207199827/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.homma.inbox@gmail.com)
 
 <hr/>
 
@@ -43,6 +43,7 @@
 ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=flat&logo=c-in-hexagon&logoColor=white&logoSize=auto)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?style=flat&logo=cs2&logoColor=white&logoSize=auto)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-FF1493.svg?style=flat&logo=database&logoColor=white&logoSize=auto)
+![EJS](https://img.shields.io/badge/EJS%20-%20?style=flat&logo=EJS&logoColor=black&logoSize=auto&color=B4CA65)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white&logoSize=auto)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white&logoSize=auto)
 ![XML](https://img.shields.io/badge/SVG%20%26%20XML-FFA500?style=flat&logo=svg&logoColor=white&logoSize=auto)
@@ -55,11 +56,11 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?style=flat&logo=express&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white&logoSize=auto)
+![Axios](https://img.shields.io/badge/Axios%20-%20?style=flat&logo=Axios&color=%235A29E4)
 ![EmailJS](https://custom-icon-badges.demolab.com/badge/EmailJS-ff8434?style=flat&logo=emailjs&logoSize=auto&labelColor=F3F3F3)
 ![Swiper](https://img.shields.io/badge/Swiper.js-6332F6?style=flat&logo=Swiper&logoSize=auto)
 ![ScrollReveal](https://img.shields.io/badge/ScrollReveal.js-FFCB36?style=flat&logo=ScrollReveal&logoColor=black&logoSize=auto)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white&logoSize=auto)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white&logoSize=auto)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white&logoSize=auto)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white&logoSize=auto)
 ![Pillow](https://custom-icon-badges.demolab.com/badge/Pillow-F3F3F3?style=flat&logo=pillow&logoColor=white&logoSize=auto)
@@ -73,34 +74,26 @@
 ![Render](https://img.shields.io/badge/Render-F3F3F3?style=flat&logo=render&logoColor=black&logoSize=auto)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=flat&logo=github&logoSize=auto)
 
-### 📐 Design & Diagramming Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&logoSize=auto)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=001833&logoSize=auto)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white&logoSize=auto)
-![Photopea](https://img.shields.io/badge/Photopea-18A497?style=flat&logo=photopea&logoColor=white&logoSize=auto)
-![Google Fonts](https://img.shields.io/badge/Google%20Fonts-4285F4?style=flat&logo=google%20fonts&logoColor=white&logoSize=auto)
-![diagrams.net](https://img.shields.io/badge/diagrams.net-F08705?style=flat&logo=diagrams.net&logoColor=white&logoSize=auto)
-![Lucidchart](https://custom-icon-badges.demolab.com/badge/Lucidchart-f96b13?style=flat&logo=lucidchart&logoSize=auto&labelColor=F3F3F3)
-![ArgoUML](https://custom-icon-badges.demolab.com/badge/ArgoUML-8DAED3?style=flat&logo=argo-uml&logoSize=auto)
-
-### ⚙️ Other Software & Tools
+### 💻 Developer Tools & APIs
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&logoSize=auto)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white&logoSize=auto)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=GitHub%20actions&logoColor=white&logoSize=auto)
-![GitHub Desktop](https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=flat&logo=GitHub&logoColor=white&logoSize=auto)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=github%20copilot&logoColor=white&logoSize=auto)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&logoSize=auto)
-![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=flat&logo=docker&logoColor=white&logoSize=auto)
-![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-grey?style=flat&logo=cursor-ai&logoSize=auto)
-![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078D4?style=flat&logo=vs-code&logoSize=auto&labelColor=F3F3F3)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white&logoSize=auto)
-![SQL Developer](https://custom-icon-badges.demolab.com/badge/SQL%20Developer-BAD0EF.svg?style=flat&logo=sql-developer&logoSize=auto&labelColor=F3F3F3)
+
+### ⚙️ Other Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=001833&logoSize=auto)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white&logoSize=auto)
+![Photopea](https://img.shields.io/badge/Photopea-18A497?style=flat&logo=photopea&logoColor=white&logoSize=auto)
+![diagrams.net](https://img.shields.io/badge/diagrams.net-F08705?style=flat&logo=diagrams.net&logoColor=white&logoSize=auto)
+![Lucidchart](https://custom-icon-badges.demolab.com/badge/Lucidchart-f96b13?style=flat&logo=lucidchart&logoSize=auto&labelColor=F3F3F3)
+![ArgoUML](https://custom-icon-badges.demolab.com/badge/ArgoUML-8DAED3?style=flat&logo=argo-uml&logoSize=auto)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoSize=auto&labelColor=grey)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white&logoSize=auto)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-grey?style=flat&logo=cursor-ai&logoSize=auto)
 ![Claude](https://custom-icon-badges.demolab.com/badge/Claude-f3e9d7?style=flat&logo=claude&logoSize=auto)
 ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white&logoSize=auto)
-![MS Copilot](https://custom-icon-badges.demolab.com/badge/Microsoft%20Copilot-F3F3F3?style=flat&logo=microsoft-copilot&logoSize=auto)
-![VEED](https://img.shields.io/badge/VEED-B6FF60?style=flat&logo=veed&logoSize=auto&labelColor=black)
 ![YouTube Studio](https://img.shields.io/badge/YouTube%20Studio-FF0000?style=flat&logo=youtube%20studio&logoSize=auto)
 
 <hr/>
