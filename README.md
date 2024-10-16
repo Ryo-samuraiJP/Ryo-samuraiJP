@@ -9,8 +9,8 @@
 
 - 👨🏻‍💻 **Full-Stack Software Developer/Engineer** specializing in **MERN stack** with an **AI Evaluator background**
 - 💼 **Actively seeking software developer/engineer roles** in Canada ⚠️ _**AVAILABLE IMMEDIATELY!**_ ⚠️
-- 💬 Ask me about **software development/engineering** and **network design**
 - 🎓 A most recent Computer Science graduate from Thompson Rivers University in BC, Canada🍁
+- 💬 Ask me about **software development/engineering** and **network design**
 - 🌱 Never stop learning modern technologies every day
 - 💻 Eager to improve my full-stack development skills to work at [Driveline Baseball Enterprises, Inc](https://www.drivelinebaseball.com/) in the future!
 <!-- - 🌐 Check out my [Portfolio](https://ryoichihomma.me/) and [Resume](https://drive.google.com/file/d/1wizgvyY7ORhtismc_3ec6tZ-MDwjs2NC/view?usp=sharing)// -->
@@ -28,7 +28,7 @@
 [![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ryoichihomma)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rh.project_gallery)
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-255E63?style=for-the-badge&logo=globe&logoColor=white)](https://ryoichihomma.me/)
-[![Resume](https://custom-icon-badges.demolab.com/badge/Download_Resume-pink?style=for-the-badge&logo=download&logoColor=333)](https://drive.google.com/file/d/1wizgvyY7ORhtismc_3ec6tZ-MDwjs2NC/view?usp=sharing)
+[![Resume](https://custom-icon-badges.demolab.com/badge/Download_Resume-pink?style=for-the-badge&logo=download&logoColor=333)](https://drive.usercontent.google.com/u/0/uc?id=1pWx4XtMbF1IAqWpVgEc93LKxjcJTanzs&export=download)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1233363421207199827/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.homma.inbox@gmail.com)
 
@@ -46,7 +46,7 @@
 ![EJS](https://img.shields.io/badge/EJS%20-%20?style=flat&logo=EJS&logoColor=black&logoSize=auto&color=B4CA65)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white&logoSize=auto)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white&logoSize=auto)
-![XML](https://img.shields.io/badge/SVG%20%26%20XML-FFA500?style=flat&logo=svg&logoColor=white&logoSize=auto)
+![XML](https://img.shields.io/badge/XML%20-%20?style=flat&logo=xml&logoSize=auto&color=005FAD)
 ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoSize=auto)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoSize=auto)
 
