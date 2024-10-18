@@ -28,7 +28,7 @@
 [![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ryoichihomma)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rh.project_gallery)
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-255E63?style=for-the-badge&logo=globe&logoColor=white)](https://ryoichihomma.me/)
-[![Resume](https://custom-icon-badges.demolab.com/badge/Download_Resume-pink?style=for-the-badge&logo=download&logoColor=333)](https://drive.usercontent.google.com/u/0/uc?id=1pWx4XtMbF1IAqWpVgEc93LKxjcJTanzs&export=download)
+[![Resume](https://custom-icon-badges.demolab.com/badge/Download_Resume-pink?style=for-the-badge&logo=download&logoColor=333)](https://drive.usercontent.google.com/u/0/uc?id=1TR2frj8EUOoh4YtFFl80AuQm8JZ_gGP2&export=download)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1233363421207199827/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.homma.inbox@gmail.com)
 
@@ -99,16 +99,13 @@
 <hr/>
 
 <!-- PROJECT -->
-## 🏛️ Project Gallery ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=plastic&logo=youtube&logoSize=amd) ![Prezi](https://img.shields.io/badge/Prezi-%233181FF?style=plastic&logo=prezi&logoColor=white&logoSize=auto)
+## 🏛️ Project Gallery ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=plastic&logo=youtube&logoSize=amd)
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Demo - AI Visual Doppelganger (AI image replicator web tool)](https://ytcards.demolab.com/?id=VT6eddrVVOA&title=Demo+-+AI+Visual+Doppelganger+%28AI+image+replicator+web+tool%29&lang=en&timestamp=1715155400&background_color=%23c9d9f2&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=200 "Demo - AI Visual Doppelganger (AI image replicator web tool)")](https://www.youtube.com/watch?v=VT6eddrVVOA#gh-dark-mode-only)[![Demo - AI Visual Doppelganger (AI image replicator web tool)](https://ytcards.demolab.com/?id=VT6eddrVVOA&title=Demo+-+AI+Visual+Doppelganger+%28AI+image+replicator+web+tool%29&lang=en&timestamp=1715155400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=200 "Demo - AI Visual Doppelganger (AI image replicator web tool)")](https://www.youtube.com/watch?v=VT6eddrVVOA#gh-light-mode-only)
 [![Demo - PlateMate (food delivery Android app)](https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+%28food+delivery+Android+app%29&lang=en&timestamp=1715155396&background_color=%23c9d9f2&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=244 "Demo - PlateMate (food delivery Android app)")](https://www.youtube.com/watch?v=N_yUfrnbgWI#gh-dark-mode-only)[![Demo - PlateMate (food delivery Android app)](https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+%28food+delivery+Android+app%29&lang=en&timestamp=1715155396&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=244 "Demo - PlateMate (food delivery Android app)")](https://www.youtube.com/watch?v=N_yUfrnbgWI#gh-light-mode-only)
 [![Demo - Campus Network Simulator (network infrastructure design)](https://ytcards.demolab.com/?id=ayVUSVRPLqE&title=Demo+-+Campus+Network+Simulator+%28network+infrastructure+design%29&lang=en&timestamp=1715155393&background_color=%23c9d9f2&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=403 "Demo - Campus Network Simulator (network infrastructure design)")](https://www.youtube.com/watch?v=ayVUSVRPLqE#gh-dark-mode-only)[![Demo - Campus Network Simulator (network infrastructure design)](https://ytcards.demolab.com/?id=ayVUSVRPLqE&title=Demo+-+Campus+Network+Simulator+%28network+infrastructure+design%29&lang=en&timestamp=1715155393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=403 "Demo - Campus Network Simulator (network infrastructure design)")](https://www.youtube.com/watch?v=ayVUSVRPLqE#gh-light-mode-only)
 <!-- END YOUTUBE-CARDS -->
-<a href="https://prezi.com/view/kiFUg0jNey3zD5mN1ctl/">
-  <img src="https://github.com/Ryo-samuraiJP/Ryo-samuraiJP/blob/main/img/PlateMateArchitecture.png" alt="PlateMate Architecture" width="350" height="200">
-</a>
 
 <hr/>
 
