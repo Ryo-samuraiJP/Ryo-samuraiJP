@@ -28,7 +28,7 @@
 [![DEV](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ryoichihomma)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rh.project_gallery)
 [![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-255E63?style=for-the-badge&logo=globe&logoColor=white)](https://ryoichihomma.me/)
-[![Resume](https://custom-icon-badges.demolab.com/badge/Download_Resume-pink?style=for-the-badge&logo=download&logoColor=333)](https://drive.usercontent.google.com/u/0/uc?id=1TR2frj8EUOoh4YtFFl80AuQm8JZ_gGP2&export=download)
+[![Resume](https://custom-icon-badges.demolab.com/badge/Download_Resume-pink?style=for-the-badge&logo=download&logoColor=333)](https://drive.usercontent.google.com/u/0/uc?id=1gMGANNlDYvq-TnefIEN5fU_XoXzael8o&export=download)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1233363421207199827/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.homma.inbox@gmail.com)
 
