@@ -37,7 +37,8 @@
 <!-- TECK STACK -->
 ## 🖥️ Tech Stack
 ### ⌨️ Programming & Markup Languages
-![JavaScript](https://img.shields.io/badge/Javascript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E&logoSize=auto)
+![TypeScript](https://img.shields.io/badge/TypeScript%20-%20?style=flat&logo=TypeScript&logoColor=%23FFF&labelColor=%233178C6&color=%233178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E&logoSize=auto)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFE873&logoSize=auto)
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-5382A1.svg?style=flat&logo=java&logoColor=F89820&logoSize=auto)
 ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=flat&logo=c-in-hexagon&logoColor=white&logoSize=auto)
