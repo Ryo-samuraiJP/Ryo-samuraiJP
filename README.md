@@ -37,7 +37,7 @@
 <!-- TECK STACK -->
 ## 🖥️ Tech Stack
 ### ⌨️ Programming & Markup Languages
-![TypeScript](https://img.shields.io/badge/TypeScript%20-%20?style=flat&logo=TypeScript&logoColor=%23FFF&labelColor=%233178C6&color=%233178C6)
+![TypeScript](https://img.shields.io/badge/TypeScript-%20?style=flat&logo=TypeScript&logoColor=FFF&labelColor=3178C6&color=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E&logoSize=auto)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFE873&logoSize=auto)
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-5382A1.svg?style=flat&logo=java&logoColor=F89820&logoSize=auto)
@@ -54,17 +54,19 @@
 ### 📚 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB&logoSize=auto)
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=FFD62E&logoSize=auto)
-![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?style=flat&logo=express&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white&logoSize=auto)
+![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat&logo=Swiper&logoSize=auto)
+![ScrollReveal](https://img.shields.io/badge/ScrollReveal-FFCB36?style=flat&logo=ScrollReveal&logoColor=black&logoSize=auto)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form%20-%20?style=flat&logo=React-Hook-Form&logoColor=FFF&color=EC5990)
+![EmailJS](https://custom-icon-badges.demolab.com/badge/EmailJS-ff8434?style=flat&logo=emailjs&logoSize=auto&labelColor=F3F3F3)
 ![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white&logoSize=auto)
 ![Axios](https://img.shields.io/badge/Axios%20-%20?style=flat&logo=Axios&color=%235A29E4)
-![EmailJS](https://custom-icon-badges.demolab.com/badge/EmailJS-ff8434?style=flat&logo=emailjs&logoSize=auto&labelColor=F3F3F3)
-![Swiper](https://img.shields.io/badge/Swiper.js-6332F6?style=flat&logo=Swiper&logoSize=auto)
-![ScrollReveal](https://img.shields.io/badge/ScrollReveal.js-FFCB36?style=flat&logo=ScrollReveal&logoColor=black&logoSize=auto)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white&logoSize=auto)
+![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?style=flat&logo=express&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white&logoSize=auto)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white&logoSize=auto)
 ![Pillow](https://custom-icon-badges.demolab.com/badge/Pillow-F3F3F3?style=flat&logo=pillow&logoColor=white&logoSize=auto)
+
 
 ### ☁️ Databases & Cloud Hosting
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
