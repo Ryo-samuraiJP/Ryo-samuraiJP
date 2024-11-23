@@ -1,18 +1,16 @@
 <!-- INTRO -->
 <a href="https://github.com/Ryo-samuraiJP/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=1500&pause=750&center=true&vCenter=true&width=900&height=100&lines=Hi+there!+I+am+Ryoichi+Homma%E2%9A%BE;Your+future+favorite...;Full-Stack+Software+Developer/Engineer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=1500&pause=750&center=true&vCenter=true&width=900&height=100&lines=Hi+there!+I+am+Ryoichi+(Rio)+Homma%E2%9A%BE;Your+future+favorite...;Software+Engineer+|+Web+Developer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Ryo-samuraiJP&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter Batch" />
 </a>
 
-- 👨🏻‍💻 **Full-Stack Software Developer/Engineer** specializing in **MERN stack** with an **AI Evaluator background**
-- 💼 **Actively seeking software developer/engineer roles** in Canada ⚠️ _**AVAILABLE IMMEDIATELY!**_ ⚠️
-- 🎓 A most recent Computer Science graduate from Thompson Rivers University in BC, Canada🍁
-- 💬 Ask me about **software development/engineering** and **network design**
-- 🌱 Never stop learning modern technologies every day
-- 💻 Eager to improve my full-stack development skills to work at [Driveline Baseball Enterprises, Inc](https://www.drivelinebaseball.com/) in the future!
+- 👨🏻‍💻 Software Engineer | Web Developer who specializes in React and Tailwind CSS with an AI Evaluator background
+- 💼 Currently seeking new role ⚠️ _**AVAILABLE IMMEDIATELY!**_ ⚠️
+- 🎓 2024 Computer Science graduate from Thompson Rivers University in BC, Canada🍁
+- 🌱 Learning and enhancing skills every day, currently focusing on the MERN stack
 <!-- - 🌐 Check out my [Portfolio](https://ryoichihomma.me/) and [Resume](https://drive.google.com/file/d/1wizgvyY7ORhtismc_3ec6tZ-MDwjs2NC/view?usp=sharing)// -->
 
 ### 🔗 Connect with me
