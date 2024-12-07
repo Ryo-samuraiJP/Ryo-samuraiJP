@@ -33,8 +33,7 @@
 <hr/>
 
 <!-- TECK STACK -->
-## 🖥️ Tech Stack
-### ⌨️ Programming & Markup Languages
+### 🔤 Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-%20?style=flat&logo=TypeScript&logoColor=FFF&labelColor=3178C6&color=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=flat&logo=javascript&logoColor=F7DF1E&logoSize=auto)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFE873&logoSize=auto)
@@ -46,7 +45,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white&logoSize=auto)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white&logoSize=auto)
 ![XML](https://img.shields.io/badge/XML%20-%20?style=flat&logo=xml&logoSize=auto&color=005FAD)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat&logo=yaml&logoSize=auto)
+![UML](https://img.shields.io/badge/UML%20-%20?style=flat&logo=UML&logoColor=FABD14&labelColor=fff&color=FABD14)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoSize=auto)
 
 ### 📚 Frameworks & Libraries
@@ -56,6 +55,7 @@
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat&logo=Swiper&logoSize=auto)
 ![ScrollReveal](https://img.shields.io/badge/ScrollReveal-FFCB36?style=flat&logo=ScrollReveal&logoColor=black&logoSize=auto)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form%20-%20?style=flat&logo=React-Hook-Form&logoColor=FFF&color=EC5990)
+![Zod](https://img.shields.io/badge/Zod%20-%20?style=flat&logo=Zod&color=3E67B1)
 ![EmailJS](https://custom-icon-badges.demolab.com/badge/EmailJS-ff8434?style=flat&logo=emailjs&logoSize=auto&labelColor=F3F3F3)
 ![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=flat&logo=npm&logoColor=white&logoSize=auto)
 ![Axios](https://img.shields.io/badge/Axios%20-%20?style=flat&logo=Axios&color=%235A29E4)
@@ -63,8 +63,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white&logoSize=auto)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=flat&logo=numpy&logoColor=white&logoSize=auto)
-![Pillow](https://custom-icon-badges.demolab.com/badge/Pillow-F3F3F3?style=flat&logo=pillow&logoColor=white&logoSize=auto)
-
 
 ### ☁️ Databases & Cloud Hosting
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
@@ -83,7 +81,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white&logoSize=auto)
 
 ### ⚙️ Other Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=001833&logoSize=auto)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white&logoSize=auto)
 ![Photopea](https://img.shields.io/badge/Photopea-18A497?style=flat&logo=photopea&logoColor=white&logoSize=auto)
@@ -92,15 +89,11 @@
 ![ArgoUML](https://custom-icon-badges.demolab.com/badge/ArgoUML-8DAED3?style=flat&logo=argo-uml&logoSize=auto)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco&logoSize=auto&labelColor=grey)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![Cursor](https://custom-icon-badges.demolab.com/badge/Cursor-grey?style=flat&logo=cursor-ai&logoSize=auto)
-![Claude](https://custom-icon-badges.demolab.com/badge/Claude-f3e9d7?style=flat&logo=claude&logoSize=auto)
-![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat&logo=perplexity&logoColor=white&logoSize=auto)
-![YouTube Studio](https://img.shields.io/badge/YouTube%20Studio-FF0000?style=flat&logo=youtube%20studio&logoSize=auto)
 
 <hr/>
 
 <!-- PROJECT -->
-## 🏛️ Project Gallery ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=plastic&logo=youtube&logoSize=amd)
+### 🏛️ Project Gallery ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000?style=plastic&logo=youtube&logoSize=amd)
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Demo - AI Visual Doppelganger (AI image replicator web tool)](https://ytcards.demolab.com/?id=VT6eddrVVOA&title=Demo+-+AI+Visual+Doppelganger+%28AI+image+replicator+web+tool%29&lang=en&timestamp=1715155400&background_color=%23c9d9f2&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=200 "Demo - AI Visual Doppelganger (AI image replicator web tool)")](https://www.youtube.com/watch?v=VT6eddrVVOA#gh-dark-mode-only)[![Demo - AI Visual Doppelganger (AI image replicator web tool)](https://ytcards.demolab.com/?id=VT6eddrVVOA&title=Demo+-+AI+Visual+Doppelganger+%28AI+image+replicator+web+tool%29&lang=en&timestamp=1715155400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=200 "Demo - AI Visual Doppelganger (AI image replicator web tool)")](https://www.youtube.com/watch?v=VT6eddrVVOA#gh-light-mode-only)
@@ -110,32 +103,20 @@
 
 <hr/>
 
-<!-- CONTRIBUTIONS -->
-## 🐍 Contributions
+<!-- STATS -->
+### 📊 GitHub Stats
+![Most Used Languages](https://github-readme-stats-xz6a.vercel.app/api/top-langs/?username=Ryo-samuraiJP&layout=compact&theme=holi&langs_count=20)
+![Streak Stats](https://github-streak-stats-three.vercel.app/?user=Ryo-samuraiJP&theme=holi-theme)
+![GitHub Stats](https://github-readme-stats-xz6a.vercel.app/api?username=Ryo-samuraiJP&show_icons=true&theme=holi&hide=contribs)
+![Contribution Graph](https://github-readme-activity-graph-v46a.vercel.app/graph/?username=Ryo-samuraiJP&theme=react-dark)
+
+### 🧊 3D Stats
+[![3D Stats](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Ryo-samuraiJP/github-profile-3d-contrib)
+<b>Note:</b> 3D Stats languages are only metric of the languages based on thier commit volume.
+
+### 🐍 Animated Contributions
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryo-samuraiJP/Ryo-samuraiJP/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryo-samuraiJP/Ryo-samuraiJP/output/github-contribution-grid-snake.gif">
   <img alt="Contribution Animation" src="https://raw.githubusercontent.com/Ryo-samuraiJP/Ryo-samuraiJP/output/github-contribution-grid-snake.gif">
 </picture>
-
-<hr/>
-
-<!-- STATS -->
-## 📊 GitHub Stats
-### 🔥 Streak Stats
-<a href="https://git.io/streak-stats">
-  <img alt="GitHub Streak" src="https://github-streak-stats-three.vercel.app/?user=Ryo-samuraiJP&theme=holi-theme">
-</a>
-
-### 📈 Profile Stats
-<a href="https://github.com/Ryo-samuraiJP/github-readme-stats?tab=readme-ov-file">
-  <img alt="Most Used Languages" src="https://github-readme-stats-xz6a.vercel.app/api/top-langs/?username=Ryo-samuraiJP&layout=compact&theme=holi&langs_count=20">
-  <img alt="GitHub Stats" src="https://github-readme-stats-xz6a.vercel.app/api?username=Ryo-samuraiJP&show_icons=true&theme=holi&rank_icon=github&hide=contribs">
-</a>
-<a href="https://github.com/Ryo-samuraiJP/github-readme-activity-graph">
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph-v46a.vercel.app/graph/?username=Ryo-samuraiJP&theme=react-dark" />
-</a>
-
-### 🧊 3D Stats
-[![3D Stats](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Ryo-samuraiJP/github-profile-3d-contrib)
-<b>Note:</b> 3D Stats languages are only metric of the languages based on thier commit volume.
