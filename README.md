@@ -10,7 +10,7 @@
 - 🌱 Continuously enhancing front-end skills and expanding into MERN stack.
 - 💼 Currently seeking new role ⚠️ _**AVAILABLE IMMEDIATELY!**_ ⚠️
 - 🎓 2024 Computer Science graduate from Thompson Rivers University in BC, Canada🍁
-- 🌐 Check out my [Portfolio](https://ryoichihomma.me/) and [Resume](https://drive.google.com/file/d/1wizgvyY7ORhtismc_3ec6tZ-MDwjs2NC/view?usp=sharing).
+- 🌐 Check out my [Portfolio](https://ryoichihomma.me/) and [Resume](https://drive.usercontent.google.com/u/0/uc?id=1yGdq2gFQcFMqFplehfuVYZ2vOXEhnQMz&export=download).
 
 ### 🔗 Connect with me
 <code>[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryoichihomma/)</code>
@@ -110,7 +110,7 @@
 ![Contribution Graph](https://github-readme-activity-graph-woad.vercel.app/graph/?username=Ryo-samuraiJP&theme=react-dark)
 
 ### 🧊 3D Stats
-[![3D Stats](./profile-3d-contrib/profile-night-rainbow.svg)](https://github.com/Ryo-samuraiJP/github-profile-3d-contrib)
+![3D Stats](./profile-3d-contrib/profile-night-rainbow.svg)
 <b>Note:</b> 3D Stats languages are only metric of the languages based on thier commit volume.
 
 ### 🐍 Animated Contributions
