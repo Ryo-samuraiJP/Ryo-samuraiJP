@@ -8,9 +8,9 @@
   <img src="https://visitcount.itsvg.in/api?id=Ryo-samuraiJP&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter Batch" />
 </a>
 
-- 🙋🏻‍♂️ Hi there! I'm Rio (Ryoichi), aspiring Software Engineer/Web Developer, based in Canada!🍁
+- 🙋🏻‍♂️ Hi there! I'm Rio (Ryoichi), aspiring Software Engineer | Web Developer, based in Canada!🍁
 - 💼 Experienced in AI LLM evaluation and currently seeking new role ⚠️ _**AVAILABLE IMMEDIATELY!**_ ⚠️
-- 👨🏻‍💻 Proficint in React.js, TypeScript/JavaScript, Tailwind CSS, and Framer Motion for animated, fully-responsive, and user-friendly interfaces.
+- 👨🏻‍💻 Proficient in React.js, TypeScript, JavaScript, Tailwind CSS, and Framer Motion for fully responsive and animated UI.
 - 🌱 Continuously enhancing front-end skills and expanding into MERN stack.
 - 🎓 2024 Computer Science graduate from Thompson Rivers University in Kamloops, BC.
 - 🌐 Check out my [**Portfolio**](https://ryoichihomma.me/) and [**Resume**](https://drive.usercontent.google.com/u/0/uc?id=14N6eSiXKO6njOhfZJB0jEi1axXgl6tit&export=download)!
