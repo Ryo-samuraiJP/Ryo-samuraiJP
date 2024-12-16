@@ -1,16 +1,19 @@
 <!-- INTRO -->
+<!--
 <a href="https://github.com/Ryo-samuraiJP/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=30&duration=1500&pause=750&center=true&vCenter=true&width=900&height=40&lines=Hi+there!+I+am+Ryoichi+(Rio)+Homma%E2%9A%BE;Your+future+favorite...;Software+Engineer+|+Web+Developer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </a>
+-->
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Ryo-samuraiJP&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter Batch" />
 </a>
 
-- 👨🏻‍💻 Software Engineer | Web Developer proficint in React.js, TypeScript/JavaScript, Tailwind CSS, and Framer Motion, with experience in AI language models evaluation.
+- 🙋🏻‍♂️ Hi there! I'm Rio (Ryoichi), aspiring Software Engineer/Web Developer, based in Canada!🍁
+- 💼 Experienced in AI LLM evaluation and currently seeking new role ⚠️ _**AVAILABLE IMMEDIATELY!**_ ⚠️
+- 👨🏻‍💻 Proficint in React.js, TypeScript/JavaScript, Tailwind CSS, and Framer Motion for animated, fully-responsive, and user-friendly interfaces.
 - 🌱 Continuously enhancing front-end skills and expanding into MERN stack.
-- 💼 Currently seeking new role ⚠️ _**AVAILABLE IMMEDIATELY!**_ ⚠️
-- 🎓 2024 Computer Science graduate from Thompson Rivers University in BC, Canada🍁
-- 🌐 Check out my [Portfolio](https://ryoichihomma.me/) and [Resume](https://drive.usercontent.google.com/u/0/uc?id=1yGdq2gFQcFMqFplehfuVYZ2vOXEhnQMz&export=download).
+- 🎓 2024 Computer Science graduate from Thompson Rivers University in Kamloops, BC.
+- 🌐 Check out my [**Portfolio**](https://ryoichihomma.me/) and [**Resume**](https://drive.usercontent.google.com/u/0/uc?id=14N6eSiXKO6njOhfZJB0jEi1axXgl6tit&export=download)!
 
 ### 🔗 Connect with me
 <code>[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryoichihomma/)</code>
@@ -38,7 +41,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFE873&logoSize=auto)
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-5382A1.svg?style=flat&logo=java&logoColor=F89820&logoSize=auto)
 ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=flat&logo=c-in-hexagon&logoColor=white&logoSize=auto)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?style=flat&logo=cs2&logoColor=white&logoSize=auto)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-FF1493.svg?style=flat&logo=database&logoColor=white&logoSize=auto)
 ![EJS](https://img.shields.io/badge/EJS%20-%20?style=flat&logo=EJS&logoColor=black&logoSize=auto&color=B4CA65)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white&logoSize=auto)
@@ -46,6 +48,9 @@
 ![XML](https://img.shields.io/badge/XML%20-%20?style=flat&logo=xml&logoSize=auto&color=005FAD)
 ![UML](https://img.shields.io/badge/UML%20-%20?style=flat&logo=UML&logoColor=FABD14&labelColor=fff&color=FABD14)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoSize=auto)
+<!--
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?style=flat&logo=cs2&logoColor=white&logoSize=auto)
+-->
 
 ### 📚 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232a.svg?style=flat&logo=react&logoColor=61DAFB&logoSize=auto)
