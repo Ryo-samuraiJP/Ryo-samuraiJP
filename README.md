@@ -13,7 +13,7 @@
 - 👨🏻‍💻 Proficient in React.js, TypeScript, JavaScript, Tailwind CSS, and Framer Motion for fully responsive and animated UI.
 - 🌱 Continuously enhancing front-end skills and expanding into MERN stack.
 - 🎓 2024 Computer Science graduate from Thompson Rivers University in Kamloops, BC.
-- 🌐 Check out my [**Portfolio**](https://ryoichihomma.me/) and [**Resume**](https://drive.usercontent.google.com/u/0/uc?id=14N6eSiXKO6njOhfZJB0jEi1axXgl6tit&export=download)!
+- 🌐 Check out my [**Portfolio**](https://ryoichihomma.me/) and [**Resume**](https://drive.usercontent.google.com/u/0/uc?id=1Wk5cGEU3aXp3dOkvNZLTQdxVSA4acMRe&export=download)!
 
 ### 🔗 Connect with me
 <code>[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryoichihomma/)</code>
@@ -58,7 +58,6 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white&logoSize=auto)
 ![Framer Motion](https://custom-icon-badges.demolab.com/badge/Framer%20Motion-fff?style=flat&logo=framermotion&logoSize=auto&labelColor=fff)
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=flat&logo=Swiper&logoSize=auto)
-![ScrollReveal](https://img.shields.io/badge/ScrollReveal-FFCB36?style=flat&logo=ScrollReveal&logoColor=black&logoSize=auto)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form%20-%20?style=flat&logo=React-Hook-Form&logoColor=FFF&color=EC5990)
 ![Zod](https://img.shields.io/badge/Zod%20-%20?style=flat&logo=Zod&color=3E67B1)
 ![EmailJS](https://custom-icon-badges.demolab.com/badge/EmailJS-ff8434?style=flat&logo=emailjs&logoSize=auto&labelColor=F3F3F3)
@@ -66,6 +65,7 @@
 ![Axios](https://img.shields.io/badge/Axios%20-%20?style=flat&logo=Axios&color=%235A29E4)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?style=flat&logo=express&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
+![Dotenv](https://img.shields.io/badge/Dotenv%20-%20?style=flat&logo=Dotenv&color=000)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white&logoSize=auto)
 
 ### ☁️ Databases & Cloud Hosting
