@@ -4,16 +4,68 @@
   <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=30&duration=1500&pause=750&center=true&vCenter=true&width=900&height=40&lines=Hi+there!+I+am+Ryoichi+(Rio)+Homma%E2%9A%BE;Your+future+favorite...;Software+Engineer+|+Web+Developer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </a>
 -->
+
+<table>
+  <tr>
+    <!-- Left Side: Intro Section -->
+    <td style="vertical-align: top; width: 80%;">
+      <a href="https://github.com/Ryo-samuraiJP/readme-typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=1500&pause=750&center=true&vCenter=true&width=900&height=60&lines=Hi+there!+I+am+Ryoichi+(Rio)+Homma%E2%9A%BE;Your+future+favorite...;Software+Engineer+and+Web+Developer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+      </a>
+      <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=Ryo-samuraiJP&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter Batch" />
+      </a>
+      
+  - 🙋🏻‍♂️ Aspiring Software Engineer and Web Developer based in Canada!🍁
+    
+  - 💼 Experienced in AI LLM evaluation and currently seeking new role ⚠️ <strong>AVAILABLE IMMEDIATELY!</strong> ⚠️
+
+  - 👨🏻‍💻 Proficient in React.js, TypeScript, JavaScript, Tailwind CSS, and Framer Motion for fully responsive and animated UI.
+  
+  - 🌱 Continuously enhancing front-end skills and expanding into MERN stack.
+  
+  - 🎓 2024 Computer Science graduate from Thompson Rivers University in Kamloops, BC.
+  
+  - 🌐 Check out my <a href="https://ryoichihomma.me/">Portfolio</a> and <a href="https://drive.usercontent.google.com/u/0/uc?id=1Wk5cGEU3aXp3dOkvNZLTQdxVSA4acMRe&export=download">Resume</a>!
+
+<h3>🔗 Connect with me</h3>
+      <a href="https://www.linkedin.com/in/ryoichihomma/" >
+        <code><img src="https://skillicons.dev/icons?i=linkedin" /></code>
+      </a>
+      <a href="https://dev.to/ryoichihomma" >
+        <code><img src="https://skillicons.dev/icons?i=devto" /></code>
+      </a>  
+      <a href="https://www.youtube.com/channel/UC7f92Y8DjOY1r8gL0Blt0gQ" >
+        <code><img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" /></code>
+      </a>
+      <a href="https://discord.com/users/1233363421207199827" >
+        <code><img src="https://skillicons.dev/icons?i=discord" /></code>
+      </a>
+      <a href="mailto:r.homma.inbox@gmail.com" >
+        <code><img src="https://skillicons.dev/icons?i=gmail" /></code>
+      </a>
+    </td>
+    <!-- Right Side: Stats Cards -->
+    <td style="vertical-align: top; width: 20%;">
+      <img src="https://github-readme-stats-8zeb.vercel.app/api?username=Ryo-samuraiJP&show_icons=true&theme=holi&hide=contribs" width="100%" />
+      <img src="https://github-readme-streak-stats2-blush.vercel.app/?user=Ryo-samuraiJP&theme=holi-theme" width="100%" />
+      <img src="https://github-readme-stats-8zeb.vercel.app/api/top-langs/?username=Ryo-samuraiJP&layout=compact&theme=holi&langs_count=20" />
+    </td>
+  </tr>
+</table>
+
+<!-- INTRO -->
+<!--
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Ryo-samuraiJP&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter Batch" />
+   <img src="https://visitcount.itsvg.in/api?id=Ryo-samuraiJP&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter Batch" />
 </a>
 
 - 🙋🏻‍♂️ Hi there! I'm Rio (Ryoichi), aspiring Software Engineer | Web Developer, based in Canada!🍁
-- 💼 Experienced in AI LLM evaluation and currently seeking new role ⚠️ _**AVAILABLE IMMEDIATELY!**_ ⚠️
+- 💼 Experienced in AI LLM evaluation and currently seeking new role ⚠️ <strong>AVAILABLE IMMEDIATELY!</strong> ⚠️
 - 👨🏻‍💻 Proficient in React.js, TypeScript, JavaScript, Tailwind CSS, and Framer Motion for fully responsive and animated UI.
 - 🌱 Continuously enhancing front-end skills and expanding into MERN stack.
 - 🎓 2024 Computer Science graduate from Thompson Rivers University in Kamloops, BC.
-- 🌐 Check out my [**Portfolio**](https://ryoichihomma.me/) and [**Resume**](https://drive.usercontent.google.com/u/0/uc?id=1Wk5cGEU3aXp3dOkvNZLTQdxVSA4acMRe&export=download)!
+- 🌐 Check out my <a href="https://ryoichihomma.me/">Portfolio</a> and <a href="https://drive.usercontent.google.com/u/0/uc?id=1Wk5cGEU3aXp3dOkvNZLTQdxVSA4acMRe&export=download">Resume</a>!
 
 ### 🔗 Connect with me
 <code>[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryoichihomma/)</code>
@@ -31,8 +83,6 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1233363421207199827/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:r.homma.inbox@gmail.com)
 -->
-
-#
 
 <!-- TECK STACK -->
 ### 🔤 Languages
