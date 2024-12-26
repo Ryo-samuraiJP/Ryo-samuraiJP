@@ -11,15 +11,15 @@
       
   - 🙋🏻‍♂️ Aspiring Software Engineer and Web Developer based in Canada!🍁
     
-  - 💼 Experienced in AI LLM evaluation and currently seeking new role ⚠️ <strong>AVAILABLE IMMEDIATELY!</strong> ⚠️
+  - 💼 Experienced in AI LLM evaluation and currently seeking new role ⚠️<strong>AVAILABLE IMMEDIATELY!</strong>⚠️
 
-  - 👨🏻‍💻 Proficient in React.js, TypeScript, JavaScript, Tailwind CSS, and Framer Motion for fully responsive and animated UI.
+  - 💻 Proficient in React.js, TypeScript, JavaScript, Tailwind CSS, and Framer Motion for fully responsive and animated UI.
   
   - 🌱 Continuously enhancing front-end skills and expanding into MERN stack.
   
-  - 🎓 2024 Computer Science graduate from Thompson Rivers University in Kamloops, BC.
+  - 🎓 Recent CS graduate from Thompson Rivers University in BC, with 3 years of PGWP.
   
-  - 🌐 Check out my <a href="https://ryoichihomma.me/"><strong>Portfolio</strong></a> and <a href="https://drive.usercontent.google.com/u/0/uc?id=1Wk5cGEU3aXp3dOkvNZLTQdxVSA4acMRe&export=download"><strong>Resume</strong></a> !
+  - 🌐 Check out my <a href="https://ryoichihomma.me/"><strong>Portfolio</strong></a> and <a href="https://drive.usercontent.google.com/u/0/uc?id=1norB0OdLPNzw-EppDWUXzmU5NxXkF4Md&export=download"><strong>Resume</strong></a> !
 
 <h2>🔗 Connect with me</h2>
       <a href="https://www.linkedin.com/in/ryoichihomma/" >
