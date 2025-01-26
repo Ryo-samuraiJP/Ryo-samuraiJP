@@ -11,9 +11,9 @@
       
   - 🙋🏻‍♂️ Aspiring Software Engineer and Web Developer based in 🇨🇦 ⚠️<strong>AVAILABLE IMMEDIATELY!</strong>⚠️
     
-  - 💼 Experienced in AI language model evaluation.
+  - 💼 7+ months of experience in AI/LLM evaluation.
 
-  - 💻 Proficient in React, JavaScript, TypeScript, and Tailwind CSS.
+  - 💻 Expertise in front-end development using React, JavaScript, TypeScript, and Tailwind CSS.
   
   - 🌱 Continuously enhancing front-end skills and expanding into MERN stack.
 
@@ -21,9 +21,9 @@
   
   - 🎓 Recent CS graduate in BC, with 3 years of PGWP.
   
-  - 🌐 Check out my <a href="https://ryoichihomma.me/"><strong>Portfolio</strong></a> and <a href="https://drive.usercontent.google.com/u/0/uc?id=1norB0OdLPNzw-EppDWUXzmU5NxXkF4Md&export=download"><strong>Resume</strong></a> !
+  - 🌐 Check out my <a href="https://ryoichihomma.me/"><strong>Portfolio</strong></a> and <a href="https://drive.google.com/file/d/1DMZ0mVRVvBUVzfErqPCyNCk7CckQA5G3/view?usp=sharing"><strong>Resume</strong></a> !
 
-<h2>🔗 Connect with me</h2>
+<h2>🤝 Connect with me</h2>
       <a href="https://www.linkedin.com/in/ryoichihomma/" >
         <code><img src="https://skillicons.dev/icons?i=linkedin" /></code>
       </a>
@@ -70,7 +70,7 @@
 <code>[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:r.homma.inbox@gmail.com)</code>
 
 <!-- TECK STACK -->
-### 🔤 Languages
+### 🔤 Programming Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-%20?style=for-the-badge&logo=TypeScript&logoColor=FFF&color=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoSize=auto)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE873&logoSize=auto)
