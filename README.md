@@ -11,7 +11,7 @@
       
   - 🙋🏻‍♂️ Aspiring Software Engineer and Web Developer based in 🇨🇦 ⚠️<strong>AVAILABLE IMMEDIATELY!</strong>⚠️
     
-  - 💼 7+ months of experience in AI/LLM evaluation.
+  - 💼 Experienced in Large Language Model (LLM) evaluation.
 
   - 💻 Expertise in front-end development using React, JavaScript, TypeScript, and Tailwind CSS.
   
