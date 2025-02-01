@@ -44,7 +44,7 @@
     <td style="vertical-align: top; width: 50%;">
       <img src="https://github-readme-stats-8zeb.vercel.app/api?username=Ryo-samuraiJP&show_icons=true&theme=holi" width="100%" />
       <img src="https://github-readme-streak-stats2-blush.vercel.app/?user=Ryo-samuraiJP&theme=holi-theme" width="100%" />
-      <img src="https://github-readme-stats-8zeb.vercel.app/api/top-langs/?username=Ryo-samuraiJP&layout=compact&theme=holi&langs_count=20" />
+      <img src="https://github-readme-stats-8zeb.vercel.app/api/top-langs/?username=Ryo-samuraiJP&layout=compact&theme=holi&langs_count=20&hide=tex" />
     </td>
   </tr>
 </table>
