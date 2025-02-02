@@ -9,17 +9,17 @@
         <img src="https://visitcount.itsvg.in/api?id=Ryo-samuraiJP&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter Batch" />
       </a>
       
-  - 🙋🏻‍♂️ Aspiring Software Engineer and Web Developer based in 🇨🇦 ⚠️<strong>AVAILABLE IMMEDIATELY!</strong>⚠️
+  - 🙋🏻‍♂️ Aspiring Software Engineer/Developer based in 🇨🇦 ⚠️<strong>AVAILABLE IMMEDIATELY!</strong>⚠️
     
-  - 💼 Experienced in Large Language Model (LLM) evaluation.
+  - 💼 Experienced in AI Training (LLM Evaluation).
 
-  - 💻 Expertise in front-end development using React, JavaScript, TypeScript, and Tailwind CSS.
+  - 💻 Proficient in front-end development using React, JavaScript, TypeScript, and Tailwind CSS.
   
   - 🌱 Continuously enhancing front-end skills and expanding into MERN stack.
 
   - ⚾ Interested in sports science and baseball data analysis.
   
-  - 🎓 Recent CS graduate in BC, with 3 years of PGWP.
+  - 🎓 Recent CS graduate in BC, with 3 years of PGWP starting from Dec 2024.
   
   - 🌐 Check out my <a href="https://ryoichihomma.me/"><strong>Portfolio</strong></a> and <a href="https://drive.google.com/file/d/1DMZ0mVRVvBUVzfErqPCyNCk7CckQA5G3/view?usp=sharing"><strong>Resume</strong></a> !
 
@@ -30,7 +30,7 @@
       <a href="https://dev.to/ryoichihomma" >
         <code><img src="https://skillicons.dev/icons?i=devto" /></code>
       </a>  
-      <a href="https://www.youtube.com/channel/UC7f92Y8DjOY1r8gL0Blt0gQ" >
+      <a href="https://www.youtube.com/@rh.project_gallery" >
         <code><img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" /></code>
       </a>
       <a href="https://discord.com/users/1233363421207199827" >
