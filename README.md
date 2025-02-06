@@ -21,7 +21,7 @@
   
   - 🎓 Recent CS graduate in BC, with 3 years of PGWP starting from Dec 2024.
   
-  - 🌐 Check out my <a href="https://ryoichihomma.me/"><strong>Portfolio</strong></a> and <a href="https://drive.google.com/file/d/1NuoZclbEhPw6uxZr4nSB_Tw0YG9vsYIx/view?usp=sharing"><strong>Resume</strong></a> !
+  - 🌐 Check out my <a href="https://ryoichihomma.me/"><strong>Portfolio</strong></a> and <a href="https://drive.google.com/file/d/13_iwUKlCI9AAzLRYVp2wK5-ybIqGkI1A/view?usp=sharing"><strong>Resume</strong></a> !
 
 <h2>🤝 Connect with me</h2>
       <a href="https://www.linkedin.com/in/ryoichihomma/" >
@@ -75,10 +75,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoSize=auto)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE873&logoSize=auto)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-FF1493.svg?style=for-the-badge&logo=database&logoColor=white&logoSize=auto)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&logoSize=auto)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&logoSize=auto)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoSize=auto)
-![UML](https://img.shields.io/badge/UML%20-%20?style=for-the-badge&logo=UML&logoColor=FABD14&labelColor=fff&color=FABD14)
 
 <!--
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-5382A1.svg?style=for-the-badge&logo=java&logoColor=F89820&logoSize=auto)
@@ -105,12 +104,14 @@
 ![Zod](https://img.shields.io/badge/Zod%20-%20?style=for-the-badge&logo=Zod&color=3E67B1)
 ![EmailJS](https://custom-icon-badges.demolab.com/badge/EmailJS-ff8434?style=for-the-badge&logo=emailjs&logoSize=auto&labelColor=F3F3F3)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&logoSize=auto)
+![diagrams.net](https://img.shields.io/badge/diagrams.net-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white&logoSize=auto)
+![Lucidchart](https://custom-icon-badges.demolab.com/badge/Lucidchart-f96b13?style=for-the-badge&logo=lucidchart&logoSize=auto&labelColor=F3F3F3)
 -->
 
 ### ☁️ Databases & Cloud Hosting
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![OracleDB](https://custom-icon-badges.demolab.com/badge/OracleDB-C74634?style=for-the-badge&logo=oracle&logoColor=white&logoSize=auto)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)
-![Oracle SQL](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white&logoSize=auto)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoSize=auto)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=00C7B7&logoSize=auto&labelColor=grey)
 ![Render](https://img.shields.io/badge/Render-F3F3F3?style=for-the-badge&logo=render&logoColor=black&logoSize=auto)
@@ -120,8 +121,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white&logoSize=auto)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20actions&logoColor=white&logoSize=auto)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=auto)
-![diagrams.net](https://img.shields.io/badge/diagrams.net-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white&logoSize=auto)
-![Lucidchart](https://custom-icon-badges.demolab.com/badge/Lucidchart-f96b13?style=for-the-badge&logo=lucidchart&logoSize=auto&labelColor=F3F3F3)
+![UML Tools](https://img.shields.io/badge/UML%20Tools-%20?style=for-the-badge&logo=UML&logoColor=FABD14&labelColor=fff&color=FABD14)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoSize=auto&labelColor=grey)
 
 #
