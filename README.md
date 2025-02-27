@@ -22,7 +22,7 @@
   
   - 🎓 Recent CS graduate in BC, with 3 years of PGWP starting from Dec 2024.
   
-  - 🌐 Check out my <a href="https://ryoichihomma.me/"><strong>Portfolio</strong></a> and <a href="https://drive.google.com/file/d/1Bx7pVKRHYmv3qmj2KSkq_BNDIFUqC_Zu/view?usp=sharing"><strong>Resume</strong></a> !
+  - 🌐 Check out my <a href="https://ryoichihomma.me/"><strong>Portfolio</strong></a> and <a href="https://drive.google.com/file/d/1HXfVknJQvDJGQAkP5Gy-HNFt0V75z4yo/view?usp=sharing"><strong>Resume</strong></a> !
 
 <h2>🤝 Connect with me</h2>
       <a href="https://www.linkedin.com/in/ryoichihomma/" >
