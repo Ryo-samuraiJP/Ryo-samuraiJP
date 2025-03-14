@@ -10,13 +10,13 @@
       </a> -->
       <img src="https://komarev.com/ghpvc/?username=Ryo-samuraiJP&style=for-the-badge&abbreviated=true" />
 
-  - 🙋🏻‍♂️ Aspiring Software Engineer/Developer based in 🇨🇦 ⚠️<strong>AVAILABLE IMMEDIATELY!</strong>⚠️
+  - 🙋🏻‍♂️ Aspiring Software Engineer/Developer based in 🇨🇦, actively looking for IT roles.  ⚠️<strong>AVAILABLE IMMEDIATELY!</strong>⚠️
     
   - 💼 Experienced in AI Training (LLM Evaluation).
 
   - 💻 Proficient in front-end development using React, JavaScript, TypeScript, and Tailwind CSS.
   
-  - 🌱 Continuously enhancing front-end skills and expanding into MERN stack.
+  - 🌱 Continuously enhancing MERN stack and AWS.
 
   - ⚾ Interested in sports science and baseball data analysis.
   
@@ -90,12 +90,12 @@
 
 ### 📚 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB&logoSize=auto)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E&logoSize=auto)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&logoSize=auto)
-![Framer Motion](https://custom-icon-badges.demolab.com/badge/Framer%20Motion-fff?style=for-the-badge&logo=framermotion&logoSize=auto)
-![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white&logoSize=auto)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white&logoSize=auto)
+![Framer Motion](https://custom-icon-badges.demolab.com/badge/Framer%20Motion-fff?style=for-the-badge&logo=framermotion&logoSize=auto)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E&logoSize=auto)
+![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white&logoSize=auto)
 
 <!--
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=Swiper&logoSize=auto)
@@ -109,10 +109,11 @@
 ![Lucidchart](https://custom-icon-badges.demolab.com/badge/Lucidchart-f96b13?style=for-the-badge&logo=lucidchart&logoSize=auto&labelColor=F3F3F3)
 -->
 
-### ☁️ Databases & Cloud Hosting
+### ☁️ Infrastructures
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![OracleDB](https://custom-icon-badges.demolab.com/badge/OracleDB-C74634?style=for-the-badge&logo=oracle&logoColor=white&logoSize=auto)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)
+![AWS](https://img.shields.io/badge/AWS%20-%20?style=for-the-badge&logo=AmazonWebServices&logoColor=FF9900&logoSize=auto&color=232F3E)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoSize=auto)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=00C7B7&logoSize=auto&labelColor=grey)
 ![Render](https://img.shields.io/badge/Render-F3F3F3?style=for-the-badge&logo=render&logoColor=black&logoSize=auto)
