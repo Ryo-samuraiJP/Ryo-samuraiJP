@@ -75,17 +75,17 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%20?style=for-the-badge&logo=TypeScript&logoColor=FFF&color=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoSize=auto)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE873&logoSize=auto)
-![SQL](https://custom-icon-badges.demolab.com/badge/SQL-FF1493.svg?style=for-the-badge&logo=database&logoColor=white&logoSize=auto)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white&logoSize=auto)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoSize=auto)
+![Java](https://custom-icon-badges.demolab.com/badge/Java-F89820.svg?style=for-the-badge&logo=java&logoColor=5382A1)
+![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)
+![SQL](https://custom-icon-badges.demolab.com/badge/SQL-FF1493.svg?style=for-the-badge&logo=database&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 
 <!--
-![Java](https://custom-icon-badges.demolab.com/badge/Java-5382A1.svg?style=for-the-badge&logo=java&logoColor=F89820&logoSize=auto)
-![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white&logoSize=auto)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?style=for-the-badge&logo=cs2&logoColor=white&logoSize=auto)
 ![EJS](https://img.shields.io/badge/EJS%20-%20?style=for-the-badge&logo=EJS&logoColor=black&logoSize=auto&color=B4CA65)
 ![XML](https://img.shields.io/badge/XML%20-%20?style=for-the-badge&logo=xml&logoSize=auto&color=005FAD)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoSize=auto)
 -->
 
 ### 📚 Frameworks & Libraries
@@ -109,9 +109,9 @@
 ![Lucidchart](https://custom-icon-badges.demolab.com/badge/Lucidchart-f96b13?style=for-the-badge&logo=lucidchart&logoSize=auto&labelColor=F3F3F3)
 -->
 
-### ☁️ Infrastructures
+### ☁️ Databases & Infrastructures
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![OracleDB](https://custom-icon-badges.demolab.com/badge/OracleDB-C74634?style=for-the-badge&logo=oracle&logoColor=white&logoSize=auto)
+![OracleDB](https://custom-icon-badges.demolab.com/badge/Oracle%20DB-C74634?style=for-the-badge&logo=oracle&logoColor=white&logoSize=auto)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)
 ![AWS](https://img.shields.io/badge/AWS%20-%20?style=for-the-badge&logo=AmazonWebServices&logoColor=FF9900&logoSize=auto&color=232F3E)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoSize=auto)
