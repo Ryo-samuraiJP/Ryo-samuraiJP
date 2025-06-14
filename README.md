@@ -1,7 +1,7 @@
 <table>
   <tr>
     <!-- Left Side: Intro Section -->
-    <td style="vertical-align: top; width: 60%;">
+    <td style="vertical-align: top; width: 50%;">
       <img src="https://komarev.com/ghpvc/?username=Ryo-samuraiJP&style=for-the-badge&abbreviated=true" />
 <!--       <a href="https://github.com/Ryo-samuraiJP/readme-typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=1500&pause=750&center=true&vCenter=true&width=900&height=60&lines=Hi+there!+I+am+Ryoichi+(Rio)+Homma%E2%9A%BE;Your+future+favorite...;Software+Engineer+and+Web+Developer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
@@ -20,17 +20,18 @@
 
 </td>
     <!-- Right Side: Stats Cards -->
-    <td style="vertical-align: top; width: 40%;">
-      <img src="https://github-readme-stats-8zeb.vercel.app/api?username=Ryo-samuraiJP&show_icons=true&theme=holi" width="90%" />
-      <img src="https://github-readme-streak-stats2-blush.vercel.app/?user=Ryo-samuraiJP&theme=holi-theme" width="90%" />
+    <td style="vertical-align: top; width: 50%;">
+      <img src="https://github-readme-stats-8zeb.vercel.app/api?username=Ryo-samuraiJP&show_icons=true&theme=holi" width="100%" />
+      <img src="https://github-readme-streak-stats2-blush.vercel.app/?user=Ryo-samuraiJP&theme=holi-theme" width="100%" />
       <img src="https://github-readme-stats-8zeb.vercel.app/api/top-langs/?username=Ryo-samuraiJP&layout=compact&theme=holi&langs_count=20&hide=tex" />
     </td>
   </tr>
 </table>
 
 ### 🤝 Connect with me
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/%2Fin%2Fryoichihomma%20-%20?style=social&logo=linkedin-logo&logoColor=0077B5&logoSize=auto&label=LinkedIn)](https://www.linkedin.com/in/ryoichihomma/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/in%2Fryoichihomma%20-%20?style=social&logo=linkedin-logo&logoColor=0077B5&logoSize=auto&label=LinkedIn)](https://www.linkedin.com/in/ryoichihomma/)
 [![DEV](https://img.shields.io/badge/%40ryoichihomma%20-%20?style=social&logo=dev.to&logoColor=%230A0A0A&logoSize=auto&label=DEV.TO)](https://dev.to/ryoichihomma)
+[![Wantedly](https://img.shields.io/badge/%40ryoichi_homma%20-%20?style=social&logo=wantedly&logoColor=%2321BDDB&logoSize=auto&label=Wantedly)](https://www.wantedly.com/id/ryoichi_homma)
 [![YouTube](https://img.shields.io/badge/%40rh.project_gallery%20-%20?style=social&logo=youtube&logoColor=%23FF0000&logoSize=auto&label=YouTube)](https://www.youtube.com/@rh.project_gallery)
 [![Gmail](https://img.shields.io/badge/r.homma.inbox%40gmail.com%20-%20?style=social&logo=gmail&logoColor=%23EA4335&logoSize=auto&label=Email)](mailto:r.homma.inbox@gmail.com)
 [![Discord](https://img.shields.io/badge/%40ryoichihomma%20-%20?style=social&logo=discord&logoColor=%235865F2&logoSize=auto&label=Discord)](https://discord.com/users/1233363421207199827)
