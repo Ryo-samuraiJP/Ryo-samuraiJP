@@ -2,29 +2,40 @@
   <tr>
     <!-- Left Side: Intro Section -->
     <td style="vertical-align: top; width: 50%;">
-      <a href="https://github.com/Ryo-samuraiJP/readme-typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=1500&pause=750&center=true&vCenter=true&width=900&height=60&lines=Hi+there!+I+am+Ryoichi+(Rio)+Homma%E2%9A%BE;Your+future+favorite...;Software+Engineer+and+Web+Developer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
-      </a>
-<!--       <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=Ryo-samuraiJP&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter Batch" />
-      </a> -->
       <img src="https://komarev.com/ghpvc/?username=Ryo-samuraiJP&style=for-the-badge&abbreviated=true" />
-
-  - 🙋🏻‍♂️ Aspiring Software Engineer/Developer based in 🇨🇦, actively looking for IT roles.  ⚠️<strong>AVAILABLE IMMEDIATELY!</strong>⚠️
-    
-  - 💼 Experienced in AI Training (LLM Evaluation).
-
-  - 💻 Proficient in front-end development using React, JavaScript, TypeScript, and Tailwind CSS.
-  
-  - 🌱 Continuously enhancing MERN stack and AWS.
-
+<!--       <a href="https://github.com/Ryo-samuraiJP/readme-typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=1500&pause=750&center=true&vCenter=true&width=900&height=60&lines=Hi+there!+I+am+Ryoichi+(Rio)+Homma%E2%9A%BE;Your+future+favorite...;Software+Engineer+and+Web+Developer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+      </a> -->
+      
+  - 👋 Hi there, I'm Rio from Japan living in Canada.
+  - 💼 Currently software engineer intern, seeking new roles.
+  - 🎓 Recent graduate with 1 year of experience in prompt engineering and LLM evaluation.
+  - 💻 Proficient in front-end web development with React, JavaScript/TypeScript, and Tailwind CSS.
+  - 🌱 Continuously learning MERN stack and AWS.
   - ⚾ Interested in sports science and baseball data analysis.
-  
-  - 🎓 Recent CS graduate in BC, with 3 years of PGWP starting from Dec 2024.
-  
   - 🌐 Check out my <a href="https://rio-homma.netlify.app/"><strong>Portfolio</strong></a> and <a href="https://drive.google.com/file/d/1HXfVknJQvDJGQAkP5Gy-HNFt0V75z4yo/view?usp=sharing"><strong>Resume</strong></a> !
 
-<h2>🤝 Connect with me</h2>
+## Tech Stack
+![Skills](https://skills.syvixor.com/api/icons?i=vite,react,ts,js,nodejs,express,mongodb,oracle,html,css,tailwind,motion,python,java,c,markdown,aws,vercel,netlify,render,npm,git,github,githubactions,ghcopilot,postman,cisco&perline=7)
+
+</td>
+    <!-- Right Side: Stats Cards -->
+    <td style="vertical-align: top; width: 50%;">
+      <img src="https://github-readme-stats-8zeb.vercel.app/api?username=Ryo-samuraiJP&show_icons=true&theme=holi" width="100%" />
+      <img src="https://github-readme-streak-stats2-blush.vercel.app/?user=Ryo-samuraiJP&theme=holi-theme" width="100%" />
+      <img src="https://github-readme-stats-8zeb.vercel.app/api/top-langs/?username=Ryo-samuraiJP&layout=compact&theme=holi&langs_count=20&hide=tex" />
+    </td>
+  </tr>
+</table>
+
+### 🤝 Connect with me
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/%2Fin%2Fryoichihomma%20-%20?style=social&logo=linkedin-logo&logoColor=0077B5&logoSize=auto&label=LinkedIn)](https://www.linkedin.com/in/ryoichihomma/)
+[![DEV](https://img.shields.io/badge/%40ryoichihomma%20-%20?style=social&logo=dev.to&logoColor=%230A0A0A&logoSize=auto&label=DEV.TO)](https://dev.to/ryoichihomma)
+[![YouTube](https://img.shields.io/badge/%40rh.project_gallery%20-%20?style=social&logo=youtube&logoColor=%23FF0000&logoSize=auto&label=YouTube)](https://www.youtube.com/@rh.project_gallery)
+[![Gmail](https://img.shields.io/badge/r.homma.inbox%40gmail.com%20-%20?style=social&logo=gmail&logoColor=%23EA4335&logoSize=auto&label=Email)](mailto:r.homma.inbox@gmail.com)
+[![Discord](https://img.shields.io/badge/%40ryoichihomma%20-%20?style=social&logo=discord&logoColor=%235865F2&logoSize=auto&label=Discord)](https://discord.com/users/1233363421207199827)
+
+<!--
       <a href="https://www.linkedin.com/in/ryoichihomma/" >
         <code><img src="https://skillicons.dev/icons?i=linkedin" /></code>
       </a>
@@ -40,53 +51,27 @@
       <a href="mailto:r.homma.inbox@gmail.com" >
         <code><img src="https://skillicons.dev/icons?i=gmail" /></code>
       </a>
-    </td>
-    <!-- Right Side: Stats Cards -->
-    <td style="vertical-align: top; width: 50%;">
-      <img src="https://github-readme-stats-8zeb.vercel.app/api?username=Ryo-samuraiJP&show_icons=true&theme=holi" width="100%" />
-      <img src="https://github-readme-streak-stats2-blush.vercel.app/?user=Ryo-samuraiJP&theme=holi-theme" width="100%" />
-      <img src="https://github-readme-stats-8zeb.vercel.app/api/top-langs/?username=Ryo-samuraiJP&layout=compact&theme=holi&langs_count=20&hide=tex" />
-    </td>
-  </tr>
-</table>
-
-<!-- INTRO -->
-<!--
-<a href="https://visitcount.itsvg.in">
-   <img src="https://visitcount.itsvg.in/api?id=Ryo-samuraiJP&label=Profile%20Views&color=1&icon=5&pretty=true" alt="Visit Counter Batch" />
-</a>
-
-- 🙋🏻‍♂️ Hi there! I'm Rio (Ryoichi), aspiring Software Engineer | Web Developer, based in Canada!🍁
-- 💼 Experienced in AI LLM evaluation and currently seeking new role ⚠️ <strong>AVAILABLE IMMEDIATELY!</strong> ⚠️
-- 👨🏻‍💻 Proficient in React.js, TypeScript, JavaScript, Tailwind CSS, and Framer Motion for fully responsive and animated UI.
-- 🌱 Continuously enhancing front-end skills and expanding into MERN stack.
-- 🎓 2024 Computer Science graduate from Thompson Rivers University in Kamloops, BC.
-- 🌐 Check out my <a href="https://ryoichihomma.me/">Portfolio</a> and <a href="https://drive.usercontent.google.com/u/0/uc?id=1Wk5cGEU3aXp3dOkvNZLTQdxVSA4acMRe&export=download">Resume</a>!
-
+      
 ### 🔗 Connect with me
 <code>[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryoichihomma/)</code>
 <code>[![DEV](https://skillicons.dev/icons?i=devto)](https://dev.to/ryoichihomma)</code>
 <code>[![YouTube](https://go-skill-icons.vercel.app/api/icons?i=youtube)](https://www.youtube.com/channel/UC7f92Y8DjOY1r8gL0Blt0gQ)</code>
 <code>[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/1233363421207199827/)</code>
 <code>[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:r.homma.inbox@gmail.com)</code>
+-->
 
 <!-- TECK STACK -->
+<!--
 ### 🔤 Programming Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-%20?style=for-the-badge&logo=TypeScript&logoColor=FFF&color=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E&logoSize=auto)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFE873&logoSize=auto)
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-F89820.svg?style=for-the-badge&logo=java&logoColor=5382A1)
 ![C](https://custom-icon-badges.demolab.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?style=for-the-badge&logo=cs2&logoColor=white&logoSize=auto)
 ![SQL](https://custom-icon-badges.demolab.com/badge/SQL-FF1493.svg?style=for-the-badge&logo=database&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-
-<!--
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?style=for-the-badge&logo=cs2&logoColor=white&logoSize=auto)
-![EJS](https://img.shields.io/badge/EJS%20-%20?style=for-the-badge&logo=EJS&logoColor=black&logoSize=auto&color=B4CA65)
-![XML](https://img.shields.io/badge/XML%20-%20?style=for-the-badge&logo=xml&logoSize=auto&color=005FAD)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoSize=auto)
--->
 
 ### 📚 Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB&logoSize=auto)
@@ -97,7 +82,6 @@
 ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E&logoSize=auto)
 ![NPM](https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white&logoSize=auto)
 
-<!--
 ![Swiper](https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=Swiper&logoSize=auto)
 ![Axios](https://img.shields.io/badge/Axios%20-%20?style=for-the-badge&logo=Axios&color=%235A29E4)
 ![Dotenv](https://img.shields.io/badge/Dotenv%20-%20?style=for-the-badge&logo=Dotenv&color=000)
@@ -107,7 +91,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&logoSize=auto)
 ![diagrams.net](https://img.shields.io/badge/diagrams.net-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white&logoSize=auto)
 ![Lucidchart](https://custom-icon-badges.demolab.com/badge/Lucidchart-f96b13?style=for-the-badge&logo=lucidchart&logoSize=auto&labelColor=F3F3F3)
--->
 
 ### ☁️ Databases & Infrastructures
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -125,8 +108,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=auto)
 ![UML Tools](https://img.shields.io/badge/UML%20Tools-%20?style=for-the-badge&logo=UML&logoColor=FABD14&labelColor=fff&color=FABD14)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoSize=auto&labelColor=grey)
-
-#
+--> 
 
 <!-- PROJECT -->
 ### ▶️ YouTube Videos
