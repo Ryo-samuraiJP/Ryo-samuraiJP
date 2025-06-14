@@ -1,7 +1,7 @@
 <table>
   <tr>
     <!-- Left Side: Intro Section -->
-    <td style="vertical-align: top; width: 50%;">
+    <td style="vertical-align: top; width: 60%;">
       <img src="https://komarev.com/ghpvc/?username=Ryo-samuraiJP&style=for-the-badge&abbreviated=true" />
 <!--       <a href="https://github.com/Ryo-samuraiJP/readme-typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Lora&weight=500&size=40&duration=1500&pause=750&center=true&vCenter=true&width=900&height=60&lines=Hi+there!+I+am+Ryoichi+(Rio)+Homma%E2%9A%BE;Your+future+favorite...;Software+Engineer+and+Web+Developer%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
@@ -20,9 +20,9 @@
 
 </td>
     <!-- Right Side: Stats Cards -->
-    <td style="vertical-align: top; width: 50%;">
-      <img src="https://github-readme-stats-8zeb.vercel.app/api?username=Ryo-samuraiJP&show_icons=true&theme=holi" width="100%" />
-      <img src="https://github-readme-streak-stats2-blush.vercel.app/?user=Ryo-samuraiJP&theme=holi-theme" width="100%" />
+    <td style="vertical-align: top; width: 40%;">
+      <img src="https://github-readme-stats-8zeb.vercel.app/api?username=Ryo-samuraiJP&show_icons=true&theme=holi" width="90%" />
+      <img src="https://github-readme-streak-stats2-blush.vercel.app/?user=Ryo-samuraiJP&theme=holi-theme" width="90%" />
       <img src="https://github-readme-stats-8zeb.vercel.app/api/top-langs/?username=Ryo-samuraiJP&layout=compact&theme=holi&langs_count=20&hide=tex" />
     </td>
   </tr>
@@ -118,8 +118,6 @@
 [![Demo - PlateMate (food delivery Android app)](https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+%28food+delivery+Android+app%29&lang=en&timestamp=1715155396&background_color=%23c9d9f2&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=244 "Demo - PlateMate (food delivery Android app)")](https://www.youtube.com/watch?v=N_yUfrnbgWI#gh-dark-mode-only)[![Demo - PlateMate (food delivery Android app)](https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+%28food+delivery+Android+app%29&lang=en&timestamp=1715155396&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=244 "Demo - PlateMate (food delivery Android app)")](https://www.youtube.com/watch?v=N_yUfrnbgWI#gh-light-mode-only)
 [![Demo - Campus Network Simulator (network infrastructure design)](https://ytcards.demolab.com/?id=ayVUSVRPLqE&title=Demo+-+Campus+Network+Simulator+%28network+infrastructure+design%29&lang=en&timestamp=1715155393&background_color=%23c9d9f2&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=403 "Demo - Campus Network Simulator (network infrastructure design)")](https://www.youtube.com/watch?v=ayVUSVRPLqE#gh-dark-mode-only)[![Demo - Campus Network Simulator (network infrastructure design)](https://ytcards.demolab.com/?id=ayVUSVRPLqE&title=Demo+-+Campus+Network+Simulator+%28network+infrastructure+design%29&lang=en&timestamp=1715155393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=403 "Demo - Campus Network Simulator (network infrastructure design)")](https://www.youtube.com/watch?v=ayVUSVRPLqE#gh-light-mode-only)
 <!-- END YOUTUBE-CARDS -->
-
-#
 
 <!-- CONTRIBUTION -->
 ### 📈 Contributions
