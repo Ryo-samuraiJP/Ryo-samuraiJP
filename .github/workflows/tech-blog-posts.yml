@@ -20,7 +20,6 @@ jobs:
       - name: Pull in dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          comment_tag_name: "DEV Community Tech Blog Posts"
           feed_list: "https://dev.to/feed/ryoichihomma"
           max_post_count: 4
           date_format: "mmm d, yyyy"
