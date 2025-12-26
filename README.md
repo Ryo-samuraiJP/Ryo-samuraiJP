@@ -116,6 +116,10 @@
 ### 👨🏻‍💻 Tech Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is a GitHub Gist? Here&#39;s Why You Should Use](https://dev.to/ryoichihomma/what-is-a-github-gist-heres-why-and-when-you-should-5blp)
+- [Essential Features &amp; Concepts in Frontend You Must Know Before Technical Interviews](https://dev.to/ryoichihomma/brushing-up-my-frontend-domain-knowledge-for-job-interview-439l)
+- [DSA &amp; Searching Methods: Refresher for Coding Interview](https://dev.to/ryoichihomma/dsa-searching-methods-refresher-for-coding-interview-3bcp)
+- [Data Structures &amp; Algorithms: Refresher for Coding Interview](https://dev.to/ryoichihomma/data-structures-refresher-for-coding-interview-434h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- PROJECT -->
