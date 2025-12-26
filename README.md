@@ -16,6 +16,7 @@
   - 🌐 Check out my <a href="https://rio-homma.netlify.app/"><strong>Portfolio</strong></a> and <a href="https://drive.google.com/file/d/1HXfVknJQvDJGQAkP5Gy-HNFt0V75z4yo/view?usp=sharing"><strong>Resume</strong></a> !
 
 ## Tech Stack
+
 ![Skills](https://skills.syvixor.com/api/icons?i=vite,react,ts,js,nodejs,express,mongodb,oracle,html,css,tailwind,motion,python,java,c,markdown,aws,vercel,netlify,render,npm,git,github,githubactions,ghcopilot,postman,cisco&perline=7)
 
 </td>
@@ -29,6 +30,7 @@
 </table>
 
 ### 🤝 Connect with me
+
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/in%2Fryoichihomma%20-%20?style=social&logo=linkedin-logo&logoColor=0077B5&logoSize=auto&label=LinkedIn)](https://www.linkedin.com/in/ryoichihomma/)
 [![DEV](https://img.shields.io/badge/%40ryoichihomma%20-%20?style=social&logo=dev.to&logoColor=%230A0A0A&logoSize=auto&label=DEV.TO)](https://dev.to/ryoichihomma)
 [![Wantedly](https://img.shields.io/badge/%40ryoichi_homma%20-%20?style=social&logo=wantedly&logoColor=%2321BDDB&logoSize=auto&label=Wantedly)](https://www.wantedly.com/id/ryoichi_homma)
@@ -42,7 +44,7 @@
       </a>
       <a href="https://dev.to/ryoichihomma" >
         <code><img src="https://skillicons.dev/icons?i=devto" /></code>
-      </a>  
+      </a>
       <a href="https://www.youtube.com/@rh.project_gallery" >
         <code><img src="https://go-skill-icons.vercel.app/api/icons?i=youtube" /></code>
       </a>
@@ -52,7 +54,7 @@
       <a href="mailto:r.homma.inbox@gmail.com" >
         <code><img src="https://skillicons.dev/icons?i=gmail" /></code>
       </a>
-      
+
 ### 🔗 Connect with me
 <code>[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryoichihomma/)</code>
 <code>[![DEV](https://skillicons.dev/icons?i=devto)](https://dev.to/ryoichihomma)</code>
@@ -109,19 +111,29 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&logoSize=auto)
 ![UML Tools](https://img.shields.io/badge/UML%20Tools-%20?style=for-the-badge&logo=UML&logoColor=FABD14&labelColor=fff&color=FABD14)
 ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoSize=auto&labelColor=grey)
---> 
+-->
+
+### 👨🏻‍💻 Tech Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!-- PROJECT -->
+
 ### ▶️ YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![Demo - AI Visual Doppelganger (AI image replicator web tool)](https://ytcards.demolab.com/?id=VT6eddrVVOA&title=Demo+-+AI+Visual+Doppelganger+%28AI+image+replicator+web+tool%29&lang=en&timestamp=1715155400&background_color=%23c9d9f2&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=200 "Demo - AI Visual Doppelganger (AI image replicator web tool)")](https://www.youtube.com/watch?v=VT6eddrVVOA#gh-dark-mode-only)[![Demo - AI Visual Doppelganger (AI image replicator web tool)](https://ytcards.demolab.com/?id=VT6eddrVVOA&title=Demo+-+AI+Visual+Doppelganger+%28AI+image+replicator+web+tool%29&lang=en&timestamp=1715155400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=200 "Demo - AI Visual Doppelganger (AI image replicator web tool)")](https://www.youtube.com/watch?v=VT6eddrVVOA#gh-light-mode-only)
 [![Demo - PlateMate (food delivery Android app)](https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+%28food+delivery+Android+app%29&lang=en&timestamp=1715155396&background_color=%23c9d9f2&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=244 "Demo - PlateMate (food delivery Android app)")](https://www.youtube.com/watch?v=N_yUfrnbgWI#gh-dark-mode-only)[![Demo - PlateMate (food delivery Android app)](https://ytcards.demolab.com/?id=N_yUfrnbgWI&title=Demo+-+PlateMate+%28food+delivery+Android+app%29&lang=en&timestamp=1715155396&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=244 "Demo - PlateMate (food delivery Android app)")](https://www.youtube.com/watch?v=N_yUfrnbgWI#gh-light-mode-only)
 [![Demo - Campus Network Simulator (network infrastructure design)](https://ytcards.demolab.com/?id=ayVUSVRPLqE&title=Demo+-+Campus+Network+Simulator+%28network+infrastructure+design%29&lang=en&timestamp=1715155393&background_color=%23c9d9f2&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=403 "Demo - Campus Network Simulator (network infrastructure design)")](https://www.youtube.com/watch?v=ayVUSVRPLqE#gh-dark-mode-only)[![Demo - Campus Network Simulator (network infrastructure design)](https://ytcards.demolab.com/?id=ayVUSVRPLqE&title=Demo+-+Campus+Network+Simulator+%28network+infrastructure+design%29&lang=en&timestamp=1715155393&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=403 "Demo - Campus Network Simulator (network infrastructure design)")](https://www.youtube.com/watch?v=ayVUSVRPLqE#gh-light-mode-only)
+
 <!-- END YOUTUBE-CARDS -->
 
 <!-- CONTRIBUTION -->
+
 ### 📈 Contributions
+
 ![Contribution Graph](https://github-readme-activity-graph-woad.vercel.app/graph/?username=Ryo-samuraiJP&theme=react-dark)
 ![3D Stats](./profile-3d-contrib/profile-night-rainbow.svg)
 <b>Note:</b> These languages are only metrics of the languages based on their commit volume.

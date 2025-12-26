@@ -1,0 +1,26 @@
+name: Latest tech blog showcase auto-workflow
+on:
+  schedule:
+    # Runs every 7am (UTC) = 0am (PDT)
+    - cron: "0 7 * * *"
+
+  # Run workflow manually (without waiting for the cron to be called) through GitHub Actions
+  workflow_dispatch:
+permissions:
+  # To write the generated contents to the readme file
+  contents: write
+
+jobs:
+  update-readme-with-tech-blog:
+    name: Update this repo's README with latest tech blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "DEV Community Tech Blog Posts"
+          feed_list: "https://dev.to/feed/ryoichihomma"
+          max_post_count: 4
+          date_format: "mmm d, yyyy"
