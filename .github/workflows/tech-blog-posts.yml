@@ -1,4 +1,4 @@
-name: Latest tech blog showcase auto-workflow
+name: Tech Blog Posts Showcase
 on:
   schedule:
     # Runs every 7am (UTC) = 0am (PDT)
@@ -18,7 +18,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v6
       - name: Pull in dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "DEV Community Tech Blog Posts"
           feed_list: "https://dev.to/feed/ryoichihomma"

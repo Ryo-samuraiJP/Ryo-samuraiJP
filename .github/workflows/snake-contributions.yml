@@ -6,10 +6,10 @@ on:
   schedule:
     # 00:00 PT == 7:00 UTC
     - cron: "0 7 * * *"
-  
+
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
-  
+
   # Also run on every push on the main branch
   push:
     branches:
@@ -26,20 +26,19 @@ jobs:
     steps:
       - name: Clone repo
         uses: actions/checkout@v3.2.0
-    
+
       - name: Generate the snake files in './dist/'
         uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
-          timezone: America/Vancouver
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             # Orange snake/Blue base
             dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Show build status
         run: git status
