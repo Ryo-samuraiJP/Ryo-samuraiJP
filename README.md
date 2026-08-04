@@ -1,11 +1,8 @@
 <img src="https://komarev.com/ghpvc/?username=Ryo-samuraiJP&style=for-the-badge&abbreviated=true" />
 
 ### 👨🏻‍💻 About Me
-- 👋 I'm Rio, a Japanese software engineer who studied computer science in Canada.
-- 💼 Currently seeking new roles where I can contribute teams through web application development. 
-- 🌱 Recently refining skills in frontend development and learning DevOps (Terraform, GitHub Actions, AWS). 
-- ⚾ A huge MLB fan interested in sports science and baseball data analysis.
-- 🌐 <a href="https://rio-homma.netlify.app/">Portfolio</a> | <a href="https://dev.to/ryoichihomma">Tech Blog</a> | <a href="https://drive.google.com/file/d/1HXfVknJQvDJGQAkP5Gy-HNFt0V75z4yo/view?usp=sharing">Resume
+- 👋 I'm Rio, originally software engineer specializing in frontend development with React, TypeScript, and Tailwind CSS.
+- 💼 Currently dedicating to a Japanese SaaS as a technical support. 
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/in%2Fryoichihomma%20-%20?style=social&logo=linkedin-logo&logoColor=0077B5&logoSize=auto&label=LinkedIn)](https://www.linkedin.com/in/ryoichihomma/)
 [![DEV](https://img.shields.io/badge/%40ryoichihomma%20-%20?style=social&logo=dev.to&logoColor=%230A0A0A&logoSize=auto&label=DEV.TO)](https://dev.to/ryoichihomma)
